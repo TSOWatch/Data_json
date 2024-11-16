@@ -35,19 +35,34 @@
         "kokemuspisteet": 9
     },
     {
-        "Nummer": 6,
+        "Nummer": 3,
         "Gruppierung": 1,
-        "Kennung": "Bowman",
-        "Name": "Bowman",
-        "Klassifikation": 3,
+        "Kennung": "Soldier",
+        "Name": "Soldier",
+        "Klassifikation": 6,
         "pelaajayksikkö": true,
-        "barracksAika": 240,
-        "Lebenspunkte": 10,
-        "Trefferquote": 80,
+        "barracksAika": 720,
+        "Lebenspunkte": 90,
+        "Trefferquote": 85,
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3
+        "kokemuspisteet": 6
+    },
+    {
+        "Nummer": 4,
+        "Gruppierung": 1,
+        "Kennung": "EliteSoldier",
+        "Name": "Elite Soldier",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "Lebenspunkte": 120,
+        "Trefferquote": 90,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 20
     },
     {
         "Nummer": 5,
@@ -69,19 +84,19 @@
         ]
     },
     {
-        "Nummer": 3,
+        "Nummer": 6,
         "Gruppierung": 1,
-        "Kennung": "Soldier",
-        "Name": "Soldier",
-        "Klassifikation": 6,
+        "Kennung": "Bowman",
+        "Name": "Bowman",
+        "Klassifikation": 3,
         "pelaajayksikkö": true,
-        "barracksAika": 720,
-        "Lebenspunkte": 90,
-        "Trefferquote": 85,
+        "barracksAika": 240,
+        "Lebenspunkte": 10,
+        "Trefferquote": 80,
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 6
+        "kokemuspisteet": 3
     },
     {
         "Nummer": 7,
@@ -97,21 +112,6 @@
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
         "kokemuspisteet": 8
-    },
-    {
-        "Nummer": 4,
-        "Gruppierung": 1,
-        "Kennung": "EliteSoldier",
-        "Name": "Elite Soldier",
-        "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 1200,
-        "Lebenspunkte": 120,
-        "Trefferquote": 90,
-        "SchadenMin": 20,
-        "SchadenMax": 40,
-        "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 20
     },
     {
         "Nummer": 8,
@@ -268,7 +268,7 @@
         ]
     },
     {
-        "Nummer": 50,
+        "Nummer": 17,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostBearMatriarch",
         "Name": "Frost Bear Matriarch",
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "Nummer": 51,
+        "Nummer": 18,
         "Gruppierung": 1,
         "Kennung": "TMC_BossRavagingOx",
         "Name": "Ravaging Ox",
@@ -303,7 +303,7 @@
         ]
     },
     {
-        "Nummer": 52,
+        "Nummer": 19,
         "Gruppierung": 1,
         "Kennung": "TMC_BossGargantuanLynx",
         "Name": "Gargantuan Lynx",
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "Nummer": 100,
+        "Nummer": 20,
         "Gruppierung": 1,
         "Kennung": "BanditBoss5",
         "Name": "Wild Mary",
@@ -337,7 +337,7 @@
         ]
     },
     {
-        "Nummer": 101,
+        "Nummer": 21,
         "Gruppierung": 1,
         "Kennung": "BanditBoss4",
         "Name": "Chuck",
@@ -354,7 +354,7 @@
         ]
     },
     {
-        "Nummer": 102,
+        "Nummer": 22,
         "Gruppierung": 1,
         "Kennung": "BanditBoss3",
         "Name": "Metal Tooth",
@@ -371,7 +371,7 @@
         ]
     },
     {
-        "Nummer": 103,
+        "Nummer": 23,
         "Gruppierung": 1,
         "Kennung": "BanditRecruit",
         "Name": "Scavenger",
@@ -384,7 +384,7 @@
         "kokemuspisteet": 4
     },
     {
-        "Nummer": 104,
+        "Nummer": 24,
         "Gruppierung": 1,
         "Kennung": "BanditMilitia",
         "Name": "Thug",
@@ -397,7 +397,7 @@
         "kokemuspisteet": 3
     },
     {
-        "Nummer": 105,
+        "Nummer": 25,
         "Gruppierung": 1,
         "Kennung": "BanditCavalry",
         "Name": "Guard Dog",
@@ -414,7 +414,7 @@
         ]
     },
     {
-        "Nummer": 106,
+        "Nummer": 26,
         "Gruppierung": 1,
         "Kennung": "BanditSoldier",
         "Name": "Roughneck",
@@ -427,7 +427,7 @@
         "kokemuspisteet": 6
     },
     {
-        "Nummer": 107,
+        "Nummer": 27,
         "Gruppierung": 1,
         "Kennung": "BanditBowman",
         "Name": "Stone Thrower",
@@ -440,7 +440,7 @@
         "kokemuspisteet": 3
     },
     {
-        "Nummer": 108,
+        "Nummer": 28,
         "Gruppierung": 1,
         "Kennung": "BanditLongbowman",
         "Name": "Ranger",
@@ -453,7 +453,7 @@
         "kokemuspisteet": 4
     },
     {
-        "Nummer": 110,
+        "Nummer": 29,
         "Gruppierung": 1,
         "Kennung": "PirateCavalry",
         "Name": "Caltrop",
@@ -469,7 +469,7 @@
         ]
     },
     {
-        "Nummer": 111,
+        "Nummer": 30,
         "Gruppierung": 1,
         "Kennung": "PirateRecruit",
         "Name": "Deckscrubber",
@@ -482,7 +482,7 @@
         "kokemuspisteet": 1
     },
     {
-        "Nummer": 112,
+        "Nummer": 31,
         "Gruppierung": 1,
         "Kennung": "PirateMilitia",
         "Name": "Sabrerattler",
@@ -495,7 +495,7 @@
         "kokemuspisteet": 2
     },
     {
-        "Nummer": 113,
+        "Nummer": 32,
         "Gruppierung": 1,
         "Kennung": "PirateBoss1",
         "Name": "Crazy Ship's Cook",
@@ -512,7 +512,7 @@
         ]
     },
     {
-        "Nummer": 114,
+        "Nummer": 33,
         "Gruppierung": 1,
         "Kennung": "PirateBowman",
         "Name": "Knife Thrower",
@@ -525,7 +525,7 @@
         "kokemuspisteet": 1
     },
     {
-        "Nummer": 115,
+        "Nummer": 34,
         "Gruppierung": 1,
         "Kennung": "PirateLongbowman",
         "Name": "Gunman",
@@ -538,7 +538,7 @@
         "kokemuspisteet": 2
     },
     {
-        "Nummer": 116,
+        "Nummer": 35,
         "Gruppierung": 1,
         "Kennung": "PirateCaptain",
         "Name": "Petty Officer Second class",
@@ -555,7 +555,7 @@
         ]
     },
     {
-        "Nummer": 120,
+        "Nummer": 36,
         "Gruppierung": 1,
         "Kennung": "KingdomRecruit",
         "Name": "Recruit Deserter",
@@ -568,7 +568,7 @@
         "kokemuspisteet": 2
     },
     {
-        "Nummer": 121,
+        "Nummer": 37,
         "Gruppierung": 1,
         "Kennung": "KingdomMilitia",
         "Name": "Militia Deserter",
@@ -581,7 +581,7 @@
         "kokemuspisteet": 4
     },
     {
-        "Nummer": 122,
+        "Nummer": 38,
         "Gruppierung": 1,
         "Kennung": "KingdomCavalry",
         "Name": "Cavalry Deserter",
@@ -598,7 +598,7 @@
         ]
     },
     {
-        "Nummer": 123,
+        "Nummer": 39,
         "Gruppierung": 1,
         "Kennung": "KingdomSoldier",
         "Name": "Soldier Deserter",
@@ -611,7 +611,7 @@
         "kokemuspisteet": 6
     },
     {
-        "Nummer": 124,
+        "Nummer": 40,
         "Gruppierung": 1,
         "Kennung": "KingdomEliteSoldier",
         "Name": "Elite Soldier Deserter",
@@ -624,7 +624,7 @@
         "kokemuspisteet": 8
     },
     {
-        "Nummer": 125,
+        "Nummer": 41,
         "Gruppierung": 1,
         "Kennung": "KingdomBowman",
         "Name": "Bowman Deserter",
@@ -637,7 +637,7 @@
         "kokemuspisteet": 3
     },
     {
-        "Nummer": 126,
+        "Nummer": 42,
         "Gruppierung": 1,
         "Kennung": "KingdomLongbowman",
         "Name": "Longbowman Deserter",
@@ -650,7 +650,7 @@
         "kokemuspisteet": 5
     },
     {
-        "Nummer": 127,
+        "Nummer": 43,
         "Gruppierung": 1,
         "Kennung": "KingdomCrossbowman",
         "Name": "Crossbowman Deserter",
@@ -663,7 +663,7 @@
         "kokemuspisteet": 7
     },
     {
-        "Nummer": 128,
+        "Nummer": 44,
         "Gruppierung": 1,
         "Kennung": "KingdomCannoneer",
         "Name": "Cannoneer Deserter",
@@ -679,7 +679,7 @@
         ]
     },
     {
-        "Nummer": 130,
+        "Nummer": 45,
         "Gruppierung": 1,
         "Kennung": "CultBoss3",
         "Name": "Spawn of Hell",
@@ -697,7 +697,7 @@
         ]
     },
     {
-        "Nummer": 131,
+        "Nummer": 46,
         "Gruppierung": 1,
         "Kennung": "CultRecruit",
         "Name": "Cultist",
