@@ -17,7 +17,7 @@
         "SchadenMin": 15,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2
+        "Erfahrungspunkte": 2
     },
     {
         "Nummer": 2,
@@ -32,59 +32,10 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 9
+        "Erfahrungspunkte": 9
     },
     {
         "Nummer": 3,
-        "Gruppierung": 1,
-        "Kennung": "Soldier",
-        "Name": "Soldier",
-        "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 720,
-        "Lebenspunkte": 90,
-        "Trefferquote": 85,
-        "SchadenMin": 20,
-        "SchadenMax": 40,
-        "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 6
-    },
-    {
-        "Nummer": 4,
-        "Gruppierung": 1,
-        "Kennung": "EliteSoldier",
-        "Name": "Elite Soldier",
-        "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 1200,
-        "Lebenspunkte": 120,
-        "Trefferquote": 90,
-        "SchadenMin": 20,
-        "SchadenMax": 40,
-        "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 20
-    },
-    {
-        "Nummer": 5,
-        "Gruppierung": 1,
-        "Kennung": "Cavalry",
-        "Name": "Cavalry",
-        "Klassifikation": 4,
-        "pelaajayksikkö": true,
-        "barracksAika": 720,
-        "Lebenspunkte": 5,
-        "Trefferquote": 80,
-        "SchadenMin": 5,
-        "SchadenMax": 10,
-        "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 8,
-        "Fähigkeiten": [
-            "UnitSkillFirstStrike",
-            "UnitSkillAttackWeakestTarget"
-        ]
-    },
-    {
-        "Nummer": 6,
         "Gruppierung": 1,
         "Kennung": "Bowman",
         "Name": "Bowman",
@@ -96,10 +47,44 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3
+        "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 7,
+        "Nummer": 4,
+        "Gruppierung": 1,
+        "Kennung": "Cavalry",
+        "Name": "Cavalry",
+        "Klassifikation": 4,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "Lebenspunkte": 5,
+        "Trefferquote": 80,
+        "SchadenMin": 5,
+        "SchadenMax": 10,
+        "Angriffsreihenfolge": 1,
+        "Erfahrungspunkte": 8,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 5,
+        "Gruppierung": 1,
+        "Kennung": "Soldier",
+        "Name": "Soldier",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "Lebenspunkte": 90,
+        "Trefferquote": 85,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "Erfahrungspunkte": 6
+    },
+    {
+        "Nummer": 6,
         "Gruppierung": 1,
         "Kennung": "Longbowman",
         "Name": "Longbowman",
@@ -111,7 +96,22 @@
         "SchadenMin": 30,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 8
+        "Erfahrungspunkte": 8
+    },
+    {
+        "Nummer": 7,
+        "Gruppierung": 1,
+        "Kennung": "EliteSoldier",
+        "Name": "Elite Soldier",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "Lebenspunkte": 120,
+        "Trefferquote": 90,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "Erfahrungspunkte": 20
     },
     {
         "Nummer": 8,
@@ -126,7 +126,7 @@
         "SchadenMin": 45,
         "SchadenMax": 90,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 20
+        "Erfahrungspunkte": 20
     },
     {
         "Nummer": 9,
@@ -141,7 +141,7 @@
         "SchadenMin": 60,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 30,
+        "Erfahrungspunkte": 30,
         "Fähigkeiten": [
             "UnitSkillBonusDamageBuildings",
             "UnitSkillLastStrike"
@@ -160,7 +160,7 @@
         "SchadenMin": 40,
         "SchadenMax": 80,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 49
+        "Erfahrungspunkte": 49
     },
     {
         "Nummer": 11,
@@ -175,7 +175,7 @@
         "SchadenMin": 25,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 66
+        "Erfahrungspunkte": 66
     },
     {
         "Nummer": 12,
@@ -190,7 +190,7 @@
         "SchadenMin": 35,
         "SchadenMax": 70,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 18,
+        "Erfahrungspunkte": 18,
         "Fähigkeiten": [
             "UnitSkillFirstStrike"
         ]
@@ -208,7 +208,7 @@
         "SchadenMin": 50,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 21
+        "Erfahrungspunkte": 21
     },
     {
         "Nummer": 14,
@@ -223,7 +223,7 @@
         "SchadenMin": 100,
         "SchadenMax": 200,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 69,
+        "Erfahrungspunkte": 69,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget"
         ]
@@ -241,7 +241,7 @@
         "SchadenMin": 50,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 38,
+        "Erfahrungspunkte": 38,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage"
@@ -260,7 +260,7 @@
         "SchadenMin": 100,
         "SchadenMax": 200,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 70,
+        "Erfahrungspunkte": 70,
         "Fähigkeiten": [
             "UnitSkillBonusDamageBuildings",
             "UnitSkillLastStrike",
@@ -278,7 +278,7 @@
         "SchadenMin": 300,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 60000,
+        "Erfahrungspunkte": 60000,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -296,7 +296,7 @@
         "SchadenMin": 600,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 10000,
+        "Erfahrungspunkte": 10000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
@@ -313,7 +313,7 @@
         "SchadenMin": 2500,
         "SchadenMax": 3500,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 7200,
+        "Erfahrungspunkte": 7200,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
@@ -330,7 +330,7 @@
         "SchadenMin": 740,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 430,
+        "Erfahrungspunkte": 430,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage"
@@ -347,7 +347,7 @@
         "SchadenMin": 2000,
         "SchadenMax": 2500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 250,
+        "Erfahrungspunkte": 250,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
@@ -364,7 +364,7 @@
         "SchadenMin": 250,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 160,
+        "Erfahrungspunkte": 160,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
@@ -381,7 +381,7 @@
         "SchadenMin": 15,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 4
+        "Erfahrungspunkte": 4
     },
     {
         "Nummer": 24,
@@ -394,7 +394,7 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3
+        "Erfahrungspunkte": 3
     },
     {
         "Nummer": 25,
@@ -407,7 +407,7 @@
         "SchadenMin": 5,
         "SchadenMax": 10,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 4,
+        "Erfahrungspunkte": 4,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillAttackWeakestTarget"
@@ -424,7 +424,7 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 6
+        "Erfahrungspunkte": 6
     },
     {
         "Nummer": 27,
@@ -437,7 +437,7 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3
+        "Erfahrungspunkte": 3
     },
     {
         "Nummer": 28,
@@ -450,7 +450,7 @@
         "SchadenMin": 30,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 4
+        "Erfahrungspunkte": 4
     },
     {
         "Nummer": 29,
@@ -462,7 +462,7 @@
         "Trefferquote": 33,
         "SchadenMax": 20,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 1,
+        "Erfahrungspunkte": 1,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
@@ -479,7 +479,7 @@
         "SchadenMin": 10,
         "SchadenMax": 15,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1
+        "Erfahrungspunkte": 1
     },
     {
         "Nummer": 31,
@@ -492,7 +492,7 @@
         "SchadenMin": 10,
         "SchadenMax": 20,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2
+        "Erfahrungspunkte": 2
     },
     {
         "Nummer": 32,
@@ -505,7 +505,7 @@
         "SchadenMin": 200,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 200,
+        "Erfahrungspunkte": 200,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
@@ -522,7 +522,7 @@
         "SchadenMin": 10,
         "SchadenMax": 20,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1
+        "Erfahrungspunkte": 1
     },
     {
         "Nummer": 34,
@@ -535,7 +535,7 @@
         "SchadenMin": 20,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2
+        "Erfahrungspunkte": 2
     },
     {
         "Nummer": 35,
@@ -548,7 +548,7 @@
         "SchadenMin": 40,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 6,
+        "Erfahrungspunkte": 6,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage"
@@ -565,7 +565,7 @@
         "SchadenMin": 15,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2
+        "Erfahrungspunkte": 2
     },
     {
         "Nummer": 37,
@@ -578,7 +578,7 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 4
+        "Erfahrungspunkte": 4
     },
     {
         "Nummer": 38,
@@ -591,7 +591,7 @@
         "SchadenMin": 5,
         "SchadenMax": 10,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 4,
+        "Erfahrungspunkte": 4,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillAttackWeakestTarget"
@@ -608,7 +608,7 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 6
+        "Erfahrungspunkte": 6
     },
     {
         "Nummer": 40,
@@ -621,7 +621,7 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 8
+        "Erfahrungspunkte": 8
     },
     {
         "Nummer": 41,
@@ -634,7 +634,7 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3
+        "Erfahrungspunkte": 3
     },
     {
         "Nummer": 42,
@@ -647,7 +647,7 @@
         "SchadenMin": 30,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 5
+        "Erfahrungspunkte": 5
     },
     {
         "Nummer": 43,
@@ -660,7 +660,7 @@
         "SchadenMin": 45,
         "SchadenMax": 90,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 7
+        "Erfahrungspunkte": 7
     },
     {
         "Nummer": 44,
@@ -673,7 +673,7 @@
         "SchadenMin": 60,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 15,
+        "Erfahrungspunkte": 15,
         "Fähigkeiten": [
             "UnitSkillLastStrike"
         ]
@@ -689,7 +689,7 @@
         "SchadenMin": 700,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 500,
+        "Erfahrungspunkte": 500,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -707,10 +707,10 @@
         "SchadenMin": 15,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3
+        "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 132,
+        "Nummer": 47,
         "Gruppierung": 1,
         "Kennung": "CultBoss1",
         "Name": "Witch of the Swamp",
@@ -720,14 +720,14 @@
         "SchadenMin": 400,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 250,
+        "Erfahrungspunkte": 250,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 133,
+        "Nummer": 48,
         "Gruppierung": 1,
         "Kennung": "CultCavalry",
         "Name": "Shadowsneaker",
@@ -736,14 +736,14 @@
         "Trefferquote": 60,
         "SchadenMax": 5,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 6,
+        "Erfahrungspunkte": 6,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 134,
+        "Nummer": 49,
         "Gruppierung": 1,
         "Kennung": "CultBowman",
         "Name": "Fanatic",
@@ -753,10 +753,10 @@
         "SchadenMin": 30,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 6
+        "Erfahrungspunkte": 6
     },
     {
-        "Nummer": 135,
+        "Nummer": 50,
         "Gruppierung": 1,
         "Kennung": "CultLongbowman",
         "Name": "Dark Priest",
@@ -766,10 +766,10 @@
         "SchadenMin": 40,
         "SchadenMax": 80,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 8
+        "Erfahrungspunkte": 8
     },
     {
-        "Nummer": 136,
+        "Nummer": 51,
         "Gruppierung": 1,
         "Kennung": "CultCrossbowman",
         "Name": "Firedancer",
@@ -779,10 +779,10 @@
         "SchadenMin": 60,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 14
+        "Erfahrungspunkte": 14
     },
     {
-        "Nummer": 137,
+        "Nummer": 52,
         "Gruppierung": 1,
         "Kennung": "CultCanoneer",
         "Name": "Dancing Dervish",
@@ -792,14 +792,14 @@
         "SchadenMin": 60,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 20,
+        "Erfahrungspunkte": 20,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 140,
+        "Nummer": 53,
         "Gruppierung": 1,
         "Kennung": "RaidersRecruit",
         "Name": "Nomad",
@@ -809,10 +809,10 @@
         "SchadenMin": 10,
         "SchadenMax": 20,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2
+        "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 141,
+        "Nummer": 54,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalry",
         "Name": "Lance Rider",
@@ -822,14 +822,14 @@
         "SchadenMin": 5,
         "SchadenMax": 20,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 4,
+        "Erfahrungspunkte": 4,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 142,
+        "Nummer": 55,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalryBow",
         "Name": "Riding Bowman",
@@ -839,14 +839,14 @@
         "SchadenMin": 30,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 6,
+        "Erfahrungspunkte": 6,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 143,
+        "Nummer": 56,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalryLongbow",
         "Name": "Riding Amazonian Guard",
@@ -856,14 +856,14 @@
         "SchadenMin": 40,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 8,
+        "Erfahrungspunkte": 8,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 144,
+        "Nummer": 57,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalryCrossbow",
         "Name": "Cataphract",
@@ -873,14 +873,14 @@
         "SchadenMin": 90,
         "SchadenMax": 90,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 12,
+        "Erfahrungspunkte": 12,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 145,
+        "Nummer": 58,
         "Gruppierung": 1,
         "Kennung": "RaidersBoss1",
         "Name": "Uproarious Bull",
@@ -890,13 +890,13 @@
         "SchadenMin": 120,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 50,
+        "Erfahrungspunkte": 50,
         "Fähigkeiten": [
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 146,
+        "Nummer": 59,
         "Gruppierung": 1,
         "Kennung": "RaidersBowman",
         "Name": "Composite Bowman",
@@ -906,13 +906,13 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 2,
+        "Erfahrungspunkte": 2,
         "Fähigkeiten": [
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 150,
+        "Nummer": 60,
         "Gruppierung": 1,
         "Kennung": "NordsEliteSoldier",
         "Name": "Jomsviking",
@@ -922,13 +922,13 @@
         "SchadenMin": 60,
         "SchadenMax": 80,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 14,
+        "Erfahrungspunkte": 14,
         "Fähigkeiten": [
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 151,
+        "Nummer": 61,
         "Gruppierung": 1,
         "Kennung": "NordsSoldier",
         "Name": "Housecarl",
@@ -938,13 +938,13 @@
         "SchadenMin": 40,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 10,
+        "Erfahrungspunkte": 10,
         "Fähigkeiten": [
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 152,
+        "Nummer": 62,
         "Gruppierung": 1,
         "Kennung": "NordsMilitia",
         "Name": "Karl",
@@ -954,13 +954,13 @@
         "SchadenMin": 40,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 6,
+        "Erfahrungspunkte": 6,
         "Fähigkeiten": [
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 153,
+        "Nummer": 63,
         "Gruppierung": 1,
         "Kennung": "NordsRecruit",
         "Name": "Thrall",
@@ -970,13 +970,13 @@
         "SchadenMin": 20,
         "SchadenMax": 25,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 3,
+        "Erfahrungspunkte": 3,
         "Fähigkeiten": [
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 154,
+        "Nummer": 64,
         "Gruppierung": 1,
         "Kennung": "NordsBowman",
         "Name": "Valkyrie",
@@ -986,10 +986,10 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3
+        "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 155,
+        "Nummer": 65,
         "Gruppierung": 1,
         "Kennung": "NordsCanoneer",
         "Name": "Berserk",
@@ -999,14 +999,14 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 20,
+        "Erfahrungspunkte": 20,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 160,
+        "Nummer": 66,
         "Gruppierung": 1,
         "Kennung": "NeutralCavalry",
         "Name": "Grey Wolf",
@@ -1016,13 +1016,13 @@
         "SchadenMin": 2,
         "SchadenMax": 3,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 1,
+        "Erfahrungspunkte": 1,
         "Fähigkeiten": [
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 180,
+        "Nummer": 67,
         "Gruppierung": 1,
         "Kennung": "MayaRecruit",
         "Name": "Tribesman",
@@ -1032,10 +1032,10 @@
         "SchadenMin": 15,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1
+        "Erfahrungspunkte": 1
     },
     {
-        "Nummer": 181,
+        "Nummer": 68,
         "Gruppierung": 1,
         "Kennung": "MayaCavalry",
         "Name": "Shaman",
@@ -1044,14 +1044,14 @@
         "Trefferquote": 60,
         "SchadenMax": 5,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 1,
+        "Erfahrungspunkte": 1,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillAttackWeakestTarget"
         ]
     },
     {
-        "Nummer": 182,
+        "Nummer": 69,
         "Gruppierung": 1,
         "Kennung": "MayaCanoneer",
         "Name": "Jaguar Warrior",
@@ -1061,14 +1061,14 @@
         "SchadenMin": 60,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 2,
+        "Erfahrungspunkte": 2,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 190,
+        "Nummer": 70,
         "Gruppierung": 1,
         "Kennung": "WildlifeRecruit",
         "Name": "Boar",
@@ -1078,10 +1078,10 @@
         "SchadenMin": 30,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 12
+        "Erfahrungspunkte": 12
     },
     {
-        "Nummer": 191,
+        "Nummer": 71,
         "Gruppierung": 1,
         "Kennung": "WildlifeMilitia",
         "Name": "Bear",
@@ -1091,13 +1091,13 @@
         "SchadenMin": 70,
         "SchadenMax": 90,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 18,
+        "Erfahrungspunkte": 18,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 192,
+        "Nummer": 72,
         "Gruppierung": 1,
         "Kennung": "WildlifeBowman",
         "Name": "Wolf",
@@ -1107,10 +1107,10 @@
         "SchadenMin": 60,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 10
+        "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 193,
+        "Nummer": 73,
         "Gruppierung": 1,
         "Kennung": "WildlifeLongbowman",
         "Name": "Wolf Packleader",
@@ -1120,13 +1120,13 @@
         "SchadenMin": 80,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 15,
+        "Erfahrungspunkte": 15,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 194,
+        "Nummer": 74,
         "Gruppierung": 1,
         "Kennung": "WildlifeCavalry",
         "Name": "Fox",
@@ -1136,14 +1136,14 @@
         "SchadenMin": 10,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 12,
+        "Erfahrungspunkte": 12,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 195,
+        "Nummer": 75,
         "Gruppierung": 1,
         "Kennung": "WildlifeCannoneer",
         "Name": "Giant",
@@ -1153,14 +1153,14 @@
         "SchadenMin": 60,
         "SchadenMax": 90,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 26,
+        "Erfahrungspunkte": 26,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 196,
+        "Nummer": 76,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomRecruit",
         "Name": "Royal Recruit",
@@ -1170,10 +1170,10 @@
         "SchadenMin": 30,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 14
+        "Erfahrungspunkte": 14
     },
     {
-        "Nummer": 197,
+        "Nummer": 77,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomMilitia",
         "Name": "Royal Militia",
@@ -1183,13 +1183,13 @@
         "SchadenMin": 70,
         "SchadenMax": 90,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 17,
+        "Erfahrungspunkte": 17,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 199,
+        "Nummer": 78,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomBowman",
         "Name": "Royal Bowman",
@@ -1199,10 +1199,10 @@
         "SchadenMin": 60,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 12
+        "Erfahrungspunkte": 12
     },
     {
-        "Nummer": 200,
+        "Nummer": 79,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomLongbowman",
         "Name": "Royal Longbowman",
@@ -1212,13 +1212,13 @@
         "SchadenMin": 80,
         "SchadenMax": 140,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 16,
+        "Erfahrungspunkte": 16,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 201,
+        "Nummer": 80,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomCavalry",
         "Name": "Royal Cavalry",
@@ -1228,14 +1228,14 @@
         "SchadenMin": 10,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 15,
+        "Erfahrungspunkte": 15,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 202,
+        "Nummer": 81,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomCannoneer",
         "Name": "Royal Cannoneer",
@@ -1245,14 +1245,14 @@
         "SchadenMin": 60,
         "SchadenMax": 90,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 28,
+        "Erfahrungspunkte": 28,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 220,
+        "Nummer": 82,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditRecruit",
         "Name": "Sword Clasher",
@@ -1262,13 +1262,13 @@
         "SchadenMin": 75,
         "SchadenMax": 150,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 27,
+        "Erfahrungspunkte": 27,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 221,
+        "Nummer": 83,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditMilitia",
         "Name": "Sword Wielder",
@@ -1278,13 +1278,13 @@
         "SchadenMin": 25,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 35,
+        "Erfahrungspunkte": 35,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 222,
+        "Nummer": 84,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditSoldier",
         "Name": "Sword Master",
@@ -1294,13 +1294,13 @@
         "SchadenMin": 25,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 55,
+        "Erfahrungspunkte": 55,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 223,
+        "Nummer": 85,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditCavalry",
         "Name": "Horseman",
@@ -1310,14 +1310,14 @@
         "SchadenMin": 50,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 22,
+        "Erfahrungspunkte": 22,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 224,
+        "Nummer": 86,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBowman",
         "Name": "Dune Marksman",
@@ -1327,13 +1327,13 @@
         "SchadenMin": 100,
         "SchadenMax": 200,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 26,
+        "Erfahrungspunkte": 26,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 225,
+        "Nummer": 87,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditLongbowman",
         "Name": "Desert Marksman",
@@ -1343,14 +1343,14 @@
         "SchadenMin": 50,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 15,
+        "Erfahrungspunkte": 15,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillAttackWeakestTarget"
         ]
     },
     {
-        "Nummer": 226,
+        "Nummer": 88,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditCavalryBowman",
         "Name": "Mounted Bowman",
@@ -1360,7 +1360,7 @@
         "SchadenMin": 35,
         "SchadenMax": 70,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 23,
+        "Erfahrungspunkte": 23,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillAttackWeakestTarget",
@@ -1368,7 +1368,7 @@
         ]
     },
     {
-        "Nummer": 227,
+        "Nummer": 89,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditCanoneer",
         "Name": "Stone Cannon",
@@ -1378,14 +1378,14 @@
         "SchadenMin": 150,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 36,
+        "Erfahrungspunkte": 36,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 230,
+        "Nummer": 90,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorRecruit",
         "Name": "Sailor",
@@ -1395,13 +1395,13 @@
         "SchadenMin": 50,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 21,
+        "Erfahrungspunkte": 21,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 231,
+        "Nummer": 91,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorMilitia",
         "Name": "Battle Hardened Sailor",
@@ -1411,13 +1411,13 @@
         "SchadenMin": 25,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 26,
+        "Erfahrungspunkte": 26,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 232,
+        "Nummer": 92,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorCavalry",
         "Name": "Mounted Sailor",
@@ -1427,14 +1427,14 @@
         "SchadenMin": 35,
         "SchadenMax": 70,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 17,
+        "Erfahrungspunkte": 17,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 233,
+        "Nummer": 93,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBowman",
         "Name": "Boatswain",
@@ -1444,7 +1444,7 @@
         "SchadenMin": 25,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 15,
+        "Erfahrungspunkte": 15,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike",
@@ -1452,7 +1452,7 @@
         ]
     },
     {
-        "Nummer": 234,
+        "Nummer": 94,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorLongbowman",
         "Name": "Petty Officer Second Class",
@@ -1462,14 +1462,14 @@
         "SchadenMin": 35,
         "SchadenMax": 70,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 17,
+        "Erfahrungspunkte": 17,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillAttackWeakestTarget"
         ]
     },
     {
-        "Nummer": 235,
+        "Nummer": 95,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorCanoneer",
         "Name": "Cannon Master",
@@ -1479,14 +1479,14 @@
         "SchadenMin": 100,
         "SchadenMax": 200,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 27,
+        "Erfahrungspunkte": 27,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 240,
+        "Nummer": 96,
         "Gruppierung": 1,
         "Kennung": "OrientalApe1",
         "Name": "Stick-wielding Ape",
@@ -1496,13 +1496,13 @@
         "SchadenMin": 90,
         "SchadenMax": 180,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 37,
+        "Erfahrungspunkte": 37,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 241,
+        "Nummer": 97,
         "Gruppierung": 1,
         "Kennung": "OrientalApe2",
         "Name": "Stone-throwing Ape",
@@ -1512,7 +1512,7 @@
         "SchadenMin": 125,
         "SchadenMax": 250,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 67,
+        "Erfahrungspunkte": 67,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -1520,7 +1520,7 @@
         ]
     },
     {
-        "Nummer": 242,
+        "Nummer": 98,
         "Gruppierung": 1,
         "Kennung": "OrientalApe3",
         "Name": "Alpha Ape",
@@ -1530,14 +1530,14 @@
         "SchadenMin": 35,
         "SchadenMax": 70,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 56,
+        "Erfahrungspunkte": 56,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 243,
+        "Nummer": 99,
         "Gruppierung": 1,
         "Kennung": "OrientalApe4",
         "Name": "Nervous Ape",
@@ -1547,14 +1547,14 @@
         "SchadenMin": 80,
         "SchadenMax": 160,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 40,
+        "Erfahrungspunkte": 40,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 277,
+        "Nummer": 100,
         "Gruppierung": 1,
         "Kennung": "BlondeBowman",
         "Name": "Blonde Bowman",
@@ -1564,13 +1564,13 @@
         "SchadenMin": 100,
         "SchadenMax": 150,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 25,
+        "Erfahrungspunkte": 25,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 278,
+        "Nummer": 101,
         "Gruppierung": 1,
         "Kennung": "DefensiveMiner",
         "Name": "Defensive Miner",
@@ -1580,13 +1580,13 @@
         "SchadenMin": 75,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 20,
+        "Erfahrungspunkte": 20,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 279,
+        "Nummer": 102,
         "Gruppierung": 1,
         "Kennung": "GoldenGuard",
         "Name": "Golden Guard",
@@ -1596,14 +1596,14 @@
         "SchadenMin": 150,
         "SchadenMax": 220,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 55,
+        "Erfahrungspunkte": 55,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 293,
+        "Nummer": 103,
         "Gruppierung": 1,
         "Kennung": "RecklessRider",
         "Name": "Reckless Rider",
@@ -1613,13 +1613,13 @@
         "SchadenMin": 130,
         "SchadenMax": 200,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 45,
+        "Erfahrungspunkte": 45,
         "Fähigkeiten": [
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 294,
+        "Nummer": 104,
         "Gruppierung": 1,
         "Kennung": "FirmDefender",
         "Name": "Firm Defender",
@@ -1629,13 +1629,13 @@
         "SchadenMin": 90,
         "SchadenMax": 130,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 30,
+        "Erfahrungspunkte": 30,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 674,
+        "Nummer": 105,
         "Gruppierung": 1,
         "Kennung": "SlickBanditBoss",
         "Name": "Slick Bandit Boss",
@@ -1645,7 +1645,7 @@
         "SchadenMin": 2200,
         "SchadenMax": 3000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 700,
+        "Erfahrungspunkte": 700,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage",
@@ -1653,7 +1653,7 @@
         ]
     },
     {
-        "Nummer": 250,
+        "Nummer": 106,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherRecruit",
         "Name": "Rascal",
@@ -1663,10 +1663,10 @@
         "SchadenMin": 15,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2
+        "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 251,
+        "Nummer": 107,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherMilitia",
         "Name": "Vandal",
@@ -1676,10 +1676,10 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 9
+        "Erfahrungspunkte": 9
     },
     {
-        "Nummer": 252,
+        "Nummer": 108,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherSoldier",
         "Name": "Bully",
@@ -1689,10 +1689,10 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 10
+        "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 253,
+        "Nummer": 109,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherCavalry",
         "Name": "Prankster",
@@ -1702,14 +1702,14 @@
         "SchadenMin": 10,
         "SchadenMax": 20,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 9,
+        "Erfahrungspunkte": 9,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillAttackWeakestTarget"
         ]
     },
     {
-        "Nummer": 254,
+        "Nummer": 110,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBowman",
         "Name": "Ruffian",
@@ -1719,10 +1719,10 @@
         "SchadenMin": 25,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 5
+        "Erfahrungspunkte": 5
     },
     {
-        "Nummer": 255,
+        "Nummer": 111,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherLongbowman",
         "Name": "Scoundrel",
@@ -1732,10 +1732,10 @@
         "SchadenMin": 40,
         "SchadenMax": 75,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 10
+        "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 256,
+        "Nummer": 112,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherCrossbowman",
         "Name": "Cad",
@@ -1745,10 +1745,10 @@
         "SchadenMin": 50,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 22
+        "Erfahrungspunkte": 22
     },
     {
-        "Nummer": 257,
+        "Nummer": 113,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherEliteSoldier",
         "Name": "Grouch",
@@ -1758,10 +1758,10 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 20
+        "Erfahrungspunkte": 20
     },
     {
-        "Nummer": 258,
+        "Nummer": 114,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherCannoneer",
         "Name": "Whiner",
@@ -1771,14 +1771,14 @@
         "SchadenMin": 70,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 30,
+        "Erfahrungspunkte": 30,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 259,
+        "Nummer": 115,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherEliteCavalry",
         "Name": "Scallywag",
@@ -1788,14 +1788,14 @@
         "SchadenMin": 25,
         "SchadenMax": 50,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 80,
+        "Erfahrungspunkte": 80,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillAttackWeakestTarget"
         ]
     },
     {
-        "Nummer": 260,
+        "Nummer": 116,
         "Gruppierung": 1,
         "Kennung": "Deer_Unit",
         "Name": "Deer",
@@ -1805,10 +1805,10 @@
         "SchadenMin": 5,
         "SchadenMax": 10,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2
+        "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 270,
+        "Nummer": 117,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeRecruit",
         "Name": "Frost Ibex",
@@ -1818,13 +1818,13 @@
         "SchadenMin": 120,
         "SchadenMax": 150,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 79,
+        "Erfahrungspunkte": 79,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 271,
+        "Nummer": 118,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeMilitia",
         "Name": "Frost Bear",
@@ -1834,13 +1834,13 @@
         "SchadenMin": 160,
         "SchadenMax": 200,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 110,
+        "Erfahrungspunkte": 110,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 272,
+        "Nummer": 119,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeCavalry",
         "Name": "Frost Fox",
@@ -1850,7 +1850,7 @@
         "SchadenMin": 80,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 53,
+        "Erfahrungspunkte": 53,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -1858,7 +1858,7 @@
         ]
     },
     {
-        "Nummer": 273,
+        "Nummer": 120,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeAir",
         "Name": "Frost Eagle",
@@ -1868,7 +1868,7 @@
         "SchadenMin": 90,
         "SchadenMax": 150,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 77,
+        "Erfahrungspunkte": 77,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -1876,7 +1876,7 @@
         ]
     },
     {
-        "Nummer": 274,
+        "Nummer": 121,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeBowman",
         "Name": "Frost Wolf",
@@ -1886,13 +1886,13 @@
         "SchadenMin": 200,
         "SchadenMax": 250,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 68,
+        "Erfahrungspunkte": 68,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 275,
+        "Nummer": 122,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeLongbowman",
         "Name": "Frost Leopard",
@@ -1902,13 +1902,13 @@
         "SchadenMin": 240,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 89,
+        "Erfahrungspunkte": 89,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 276,
+        "Nummer": 123,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeCannoneer",
         "Name": "Frost Giant",
@@ -1918,14 +1918,14 @@
         "SchadenMin": 280,
         "SchadenMax": 350,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 170,
+        "Erfahrungspunkte": 170,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 288,
+        "Nummer": 124,
         "Gruppierung": 1,
         "Kennung": "EnemyCannoneer",
         "Name": "Cannoneer",
@@ -1935,13 +1935,13 @@
         "SchadenMin": 60,
         "SchadenMax": 120,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 30,
+        "Erfahrungspunkte": 30,
         "Fähigkeiten": [
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 289,
+        "Nummer": 125,
         "Gruppierung": 1,
         "Kennung": "MiniGolemRecruit",
         "Name": "Miniature Clay Golem",
@@ -1951,10 +1951,10 @@
         "SchadenMin": 20,
         "SchadenMax": 40,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 7
+        "Erfahrungspunkte": 7
     },
     {
-        "Nummer": 290,
+        "Nummer": 126,
         "Gruppierung": 1,
         "Kennung": "MiniGolemMilitia",
         "Name": "Miniature Rock Golem",
@@ -1964,10 +1964,10 @@
         "SchadenMin": 30,
         "SchadenMax": 60,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 10
+        "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 291,
+        "Nummer": 127,
         "Gruppierung": 1,
         "Kennung": "MiniGolemCavalry",
         "Name": "Miniature Ice Golem",
@@ -1977,14 +1977,14 @@
         "SchadenMin": 15,
         "SchadenMax": 30,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 4,
+        "Erfahrungspunkte": 4,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 292,
+        "Nummer": 128,
         "Gruppierung": 1,
         "Kennung": "MiniGolemCannoneer",
         "Name": "Miniature Lava Golem",
@@ -1994,14 +1994,14 @@
         "SchadenMin": 50,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 11,
+        "Erfahrungspunkte": 11,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 500,
+        "Nummer": 129,
         "Gruppierung": 1,
         "Kennung": "BanditBoss1",
         "Name": "Skunk",
@@ -2011,14 +2011,14 @@
         "SchadenMin": 1,
         "SchadenMax": 100,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 200,
+        "Erfahrungspunkte": 200,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 501,
+        "Nummer": 130,
         "Gruppierung": 1,
         "Kennung": "BanditBoss2",
         "Name": "One-Eyed Bert",
@@ -2028,14 +2028,14 @@
         "SchadenMin": 300,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 100,
+        "Erfahrungspunkte": 100,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 515,
+        "Nummer": 131,
         "Gruppierung": 1,
         "Kennung": "KingdomBoss1",
         "Name": "Sir Robin",
@@ -2045,7 +2045,7 @@
         "SchadenMin": 200,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 200,
+        "Erfahrungspunkte": 200,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage",
@@ -2053,7 +2053,7 @@
         ]
     },
     {
-        "Nummer": 516,
+        "Nummer": 132,
         "Gruppierung": 1,
         "Kennung": "KingdomBoss2",
         "Name": "Big Bertha",
@@ -2063,7 +2063,7 @@
         "SchadenMin": 50,
         "SchadenMax": 150,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 350,
+        "Erfahrungspunkte": 350,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage",
@@ -2071,7 +2071,7 @@
         ]
     },
     {
-        "Nummer": 520,
+        "Nummer": 133,
         "Gruppierung": 1,
         "Kennung": "CultBoss2",
         "Name": "Dark High Priest",
@@ -2081,14 +2081,14 @@
         "SchadenMin": 800,
         "SchadenMax": 1000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 350,
+        "Erfahrungspunkte": 350,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 521,
+        "Nummer": 134,
         "Gruppierung": 1,
         "Kennung": "CultBoss4",
         "Name": "Preacher of Flames",
@@ -2098,7 +2098,7 @@
         "SchadenMin": 500,
         "SchadenMax": 700,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 250,
+        "Erfahrungspunkte": 250,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2106,7 +2106,7 @@
         ]
     },
     {
-        "Nummer": 530,
+        "Nummer": 135,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss1",
         "Name": "Giant Bogor",
@@ -2116,14 +2116,14 @@
         "SchadenMin": 100,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 400,
+        "Erfahrungspunkte": 400,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 531,
+        "Nummer": 136,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss2",
         "Name": "Giant Gogor",
@@ -2133,14 +2133,14 @@
         "SchadenMin": 100,
         "SchadenMax": 250,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 350,
+        "Erfahrungspunkte": 350,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 532,
+        "Nummer": 137,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss3",
         "Name": "Unicorn",
@@ -2150,13 +2150,13 @@
         "SchadenMin": 250,
         "SchadenMax": 400,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 300,
+        "Erfahrungspunkte": 300,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 533,
+        "Nummer": 138,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss4",
         "Name": "Furious Boar",
@@ -2166,13 +2166,13 @@
         "SchadenMin": 200,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 400,
+        "Erfahrungspunkte": 400,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 534,
+        "Nummer": 139,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss5",
         "Name": "Evil King",
@@ -2182,13 +2182,13 @@
         "SchadenMin": 200,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 250,
+        "Erfahrungspunkte": 250,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 535,
+        "Nummer": 140,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss6",
         "Name": "Iron Fist",
@@ -2198,14 +2198,14 @@
         "SchadenMin": 200,
         "SchadenMax": 250,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 300,
+        "Erfahrungspunkte": 300,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 536,
+        "Nummer": 141,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss7",
         "Name": "Giant Bear",
@@ -2215,14 +2215,14 @@
         "SchadenMin": 400,
         "SchadenMax": 750,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 600,
+        "Erfahrungspunkte": 600,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 537,
+        "Nummer": 142,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss8",
         "Name": "Rivaling Tailor",
@@ -2232,7 +2232,7 @@
         "SchadenMin": 150,
         "SchadenMax": 250,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 350,
+        "Erfahrungspunkte": 350,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2240,7 +2240,7 @@
         ]
     },
     {
-        "Nummer": 538,
+        "Nummer": 143,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss9",
         "Name": "Black Bull",
@@ -2250,13 +2250,13 @@
         "SchadenMin": 250,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 500,
+        "Erfahrungspunkte": 500,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 539,
+        "Nummer": 144,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss10",
         "Name": "Dark Magician",
@@ -2266,13 +2266,13 @@
         "SchadenMin": 2000,
         "SchadenMax": 2500,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1000,
+        "Erfahrungspunkte": 1000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 540,
+        "Nummer": 145,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss11",
         "Name": "Lying Goat",
@@ -2282,14 +2282,14 @@
         "SchadenMin": 100,
         "SchadenMax": 150,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 100,
+        "Erfahrungspunkte": 100,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 541,
+        "Nummer": 146,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss12",
         "Name": "Cudgel Claus",
@@ -2299,13 +2299,13 @@
         "SchadenMin": 200,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 250,
+        "Erfahrungspunkte": 250,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 542,
+        "Nummer": 147,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss13",
         "Name": "Assassin",
@@ -2315,7 +2315,7 @@
         "SchadenMin": 200,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 350,
+        "Erfahrungspunkte": 350,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillAttackWeakestTarget",
@@ -2323,7 +2323,7 @@
         ]
     },
     {
-        "Nummer": 543,
+        "Nummer": 148,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss14",
         "Name": "Greedy Inn-Keeper",
@@ -2333,7 +2333,7 @@
         "SchadenMin": 1500,
         "SchadenMax": 2000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 950,
+        "Erfahrungspunkte": 950,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2341,7 +2341,7 @@
         ]
     },
     {
-        "Nummer": 550,
+        "Nummer": 149,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossPiper",
         "Name": "The Pied Piper of Hamelin",
@@ -2351,7 +2351,7 @@
         "SchadenMin": 200,
         "SchadenMax": 450,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 1900,
+        "Erfahrungspunkte": 1900,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike",
@@ -2359,7 +2359,7 @@
         ]
     },
     {
-        "Nummer": 551,
+        "Nummer": 150,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossMayor",
         "Name": "The Mayor",
@@ -2369,13 +2369,13 @@
         "SchadenMin": 400,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3200,
+        "Erfahrungspunkte": 3200,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 552,
+        "Nummer": 151,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossRatKing",
         "Name": "The King of Rats",
@@ -2385,14 +2385,14 @@
         "SchadenMin": 200,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 1300,
+        "Erfahrungspunkte": 1300,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 553,
+        "Nummer": 152,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossEvilQueen",
         "Name": "Ilsebille, the Evil Queen",
@@ -2402,13 +2402,13 @@
         "SchadenMin": 400,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3200,
+        "Erfahrungspunkte": 3200,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 554,
+        "Nummer": 153,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossHuntsman",
         "Name": "Royal Huntsmen Leader",
@@ -2418,14 +2418,14 @@
         "SchadenMin": 200,
         "SchadenMax": 700,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 1500,
+        "Erfahrungspunkte": 1500,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 555,
+        "Nummer": 154,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossStepmother",
         "Name": "The Evil Stepmother",
@@ -2435,13 +2435,13 @@
         "SchadenMin": 400,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 3200,
+        "Erfahrungspunkte": 3200,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 556,
+        "Nummer": 155,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossCaptain",
         "Name": "Royal Captain",
@@ -2451,13 +2451,13 @@
         "SchadenMin": 300,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1500,
+        "Erfahrungspunkte": 1500,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 557,
+        "Nummer": 156,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossJuggernaut",
         "Name": "Royal Juggernaut",
@@ -2467,14 +2467,14 @@
         "SchadenMin": 200,
         "SchadenMax": 1000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 2300,
+        "Erfahrungspunkte": 2300,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 570,
+        "Nummer": 157,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss1",
         "Name": "Shrewd Thief",
@@ -2484,13 +2484,13 @@
         "SchadenMin": 250,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 52,
+        "Erfahrungspunkte": 52,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 571,
+        "Nummer": 158,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss2",
         "Name": "Smart Thief",
@@ -2500,13 +2500,13 @@
         "SchadenMin": 500,
         "SchadenMax": 1000,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 200,
+        "Erfahrungspunkte": 200,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 572,
+        "Nummer": 159,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss3",
         "Name": "Mysterious Thief",
@@ -2516,13 +2516,13 @@
         "SchadenMin": 1000,
         "SchadenMax": 2000,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 740,
+        "Erfahrungspunkte": 740,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 573,
+        "Nummer": 160,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss4",
         "Name": "Treacherous Thief",
@@ -2532,13 +2532,13 @@
         "SchadenMin": 250,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1700,
+        "Erfahrungspunkte": 1700,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 574,
+        "Nummer": 161,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss5",
         "Name": "Snooty Thief",
@@ -2548,13 +2548,13 @@
         "SchadenMin": 500,
         "SchadenMax": 1000,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 5000,
+        "Erfahrungspunkte": 5000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 575,
+        "Nummer": 162,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss6",
         "Name": "Grayed Thief",
@@ -2564,14 +2564,14 @@
         "SchadenMin": 375,
         "SchadenMax": 750,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 54,
+        "Erfahrungspunkte": 54,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillAttackWeakestTarget"
         ]
     },
     {
-        "Nummer": 576,
+        "Nummer": 163,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss7",
         "Name": "Sneaking Thief",
@@ -2581,14 +2581,14 @@
         "SchadenMin": 250,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 62,
+        "Erfahrungspunkte": 62,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 577,
+        "Nummer": 164,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss8",
         "Name": "Scarred Thief",
@@ -2598,7 +2598,7 @@
         "SchadenMin": 150,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 39,
+        "Erfahrungspunkte": 39,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike",
@@ -2606,7 +2606,7 @@
         ]
     },
     {
-        "Nummer": 578,
+        "Nummer": 165,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss9",
         "Name": "Greedy Thief",
@@ -2616,7 +2616,7 @@
         "SchadenMin": 2500,
         "SchadenMax": 5000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 470,
+        "Erfahrungspunkte": 470,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike",
@@ -2624,7 +2624,7 @@
         ]
     },
     {
-        "Nummer": 579,
+        "Nummer": 166,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss10",
         "Name": "Silly Thief",
@@ -2634,14 +2634,14 @@
         "SchadenMin": 2000,
         "SchadenMax": 4000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 1800,
+        "Erfahrungspunkte": 1800,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 590,
+        "Nummer": 167,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBoss1",
         "Name": "Steersman",
@@ -2651,13 +2651,13 @@
         "SchadenMin": 250,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 8300,
+        "Erfahrungspunkte": 8300,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 591,
+        "Nummer": 168,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBoss2",
         "Name": "Mutineer",
@@ -2667,14 +2667,14 @@
         "SchadenMin": 2500,
         "SchadenMax": 5000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 450,
+        "Erfahrungspunkte": 450,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 592,
+        "Nummer": 169,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBoss3",
         "Name": "Captain",
@@ -2684,14 +2684,14 @@
         "SchadenMin": 4000,
         "SchadenMax": 8000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 560,
+        "Erfahrungspunkte": 560,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 600,
+        "Nummer": 170,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditLord",
         "Name": "Bandit Lord",
@@ -2701,14 +2701,14 @@
         "SchadenMin": 3500,
         "SchadenMax": 7000,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1400,
+        "Erfahrungspunkte": 1400,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 601,
+        "Nummer": 171,
         "Gruppierung": 1,
         "Kennung": "OrientalCrumpyParrot",
         "Name": "Grumpy Parrot",
@@ -2718,7 +2718,7 @@
         "SchadenMin": 2000,
         "SchadenMax": 4000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 1100,
+        "Erfahrungspunkte": 1100,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2726,7 +2726,7 @@
         ]
     },
     {
-        "Nummer": 602,
+        "Nummer": 172,
         "Gruppierung": 1,
         "Kennung": "OrientalOasisGuardian",
         "Name": "Oasis Guardian",
@@ -2736,13 +2736,13 @@
         "SchadenMin": 5000,
         "SchadenMax": 10000,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 1700,
+        "Erfahrungspunkte": 1700,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 603,
+        "Nummer": 173,
         "Gruppierung": 1,
         "Kennung": "OrientalBolderWorm",
         "Name": "Boulder Worm",
@@ -2752,7 +2752,7 @@
         "SchadenMin": 150,
         "SchadenMax": 300,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 6600,
+        "Erfahrungspunkte": 6600,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2760,7 +2760,7 @@
         ]
     },
     {
-        "Nummer": 604,
+        "Nummer": 174,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBat",
         "Name": "Giant Bat",
@@ -2770,14 +2770,14 @@
         "SchadenMin": 450,
         "SchadenMax": 900,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 5000,
+        "Erfahrungspunkte": 5000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 605,
+        "Nummer": 175,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBlossom1",
         "Name": "Hungry Blossom",
@@ -2787,7 +2787,7 @@
         "SchadenMin": 2250,
         "SchadenMax": 4500,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 680,
+        "Erfahrungspunkte": 680,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2795,7 +2795,7 @@
         ]
     },
     {
-        "Nummer": 606,
+        "Nummer": 176,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBlossom2",
         "Name": "Fierce Blossom",
@@ -2805,7 +2805,7 @@
         "SchadenMin": 2750,
         "SchadenMax": 5500,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 930,
+        "Erfahrungspunkte": 930,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2813,7 +2813,7 @@
         ]
     },
     {
-        "Nummer": 607,
+        "Nummer": 177,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBlossom3",
         "Name": "Bulbous Blossom",
@@ -2823,7 +2823,7 @@
         "SchadenMin": 3250,
         "SchadenMax": 6500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 920,
+        "Erfahrungspunkte": 920,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2831,7 +2831,7 @@
         ]
     },
     {
-        "Nummer": 608,
+        "Nummer": 178,
         "Gruppierung": 1,
         "Kennung": "OrientalLibraryBoss",
         "Name": "Library Golem",
@@ -2841,14 +2841,14 @@
         "SchadenMin": 1750,
         "SchadenMax": 3500,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2500,
+        "Erfahrungspunkte": 2500,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 609,
+        "Nummer": 179,
         "Gruppierung": 1,
         "Kennung": "OrientalStoneStatue1",
         "Name": "Large Stone Statue",
@@ -2858,14 +2858,14 @@
         "SchadenMin": 450,
         "SchadenMax": 1000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 13000,
+        "Erfahrungspunkte": 13000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 610,
+        "Nummer": 180,
         "Gruppierung": 1,
         "Kennung": "OrientalStoneStatue2",
         "Name": "Mossy Stone Statue",
@@ -2875,14 +2875,14 @@
         "SchadenMin": 400,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 17000,
+        "Erfahrungspunkte": 17000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 611,
+        "Nummer": 181,
         "Gruppierung": 1,
         "Kennung": "OrientalCannonTower1",
         "Name": "Giant Cannon",
@@ -2892,14 +2892,14 @@
         "SchadenMin": 7500,
         "SchadenMax": 15000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 1600,
+        "Erfahrungspunkte": 1600,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 613,
+        "Nummer": 182,
         "Gruppierung": 1,
         "Kennung": "OrientalInformant",
         "Name": "Informant",
@@ -2909,13 +2909,13 @@
         "SchadenMin": 4500,
         "SchadenMax": 9000,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 2000,
+        "Erfahrungspunkte": 2000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 614,
+        "Nummer": 183,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantSeaSnake",
         "Name": "Giant Sea Snake",
@@ -2925,14 +2925,14 @@
         "SchadenMin": 300,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 23000,
+        "Erfahrungspunkte": 23000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 615,
+        "Nummer": 184,
         "Gruppierung": 1,
         "Kennung": "OrientalGuard1",
         "Name": "Grumpy Guard",
@@ -2942,7 +2942,7 @@
         "SchadenMin": 500,
         "SchadenMax": 1000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 910,
+        "Erfahrungspunkte": 910,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2950,7 +2950,7 @@
         ]
     },
     {
-        "Nummer": 616,
+        "Nummer": 185,
         "Gruppierung": 1,
         "Kennung": "OrientalGuard2",
         "Name": "Insane Guard",
@@ -2960,7 +2960,7 @@
         "SchadenMin": 250,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 1700,
+        "Erfahrungspunkte": 1700,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2968,7 +2968,7 @@
         ]
     },
     {
-        "Nummer": 617,
+        "Nummer": 186,
         "Gruppierung": 1,
         "Kennung": "OrientalCorruptedBolderWorm",
         "Name": "Corrupted Boulder Worm",
@@ -2978,7 +2978,7 @@
         "SchadenMin": 3500,
         "SchadenMax": 5000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 66000,
+        "Erfahrungspunkte": 66000,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage",
@@ -2986,7 +2986,7 @@
         ]
     },
     {
-        "Nummer": 618,
+        "Nummer": 187,
         "Gruppierung": 1,
         "Kennung": "OrientalCorruptedGiantBat",
         "Name": "Corrupted Giant Bat",
@@ -2996,14 +2996,14 @@
         "SchadenMin": 5500,
         "SchadenMax": 7000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 60000,
+        "Erfahrungspunkte": 60000,
         "Fähigkeiten": [
             "UnitSkillSplashDamage",
             "UnitSkillFirstStrike"
         ]
     },
     {
-        "Nummer": 630,
+        "Nummer": 188,
         "Gruppierung": 1,
         "Kennung": "ChupacabraBoss",
         "Name": "El Chupacabra",
@@ -3013,14 +3013,14 @@
         "SchadenMin": 350,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 700,
+        "Erfahrungspunkte": 700,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillLastStrike"
         ]
     },
     {
-        "Nummer": 631,
+        "Nummer": 189,
         "Gruppierung": 1,
         "Kennung": "DragonBoss",
         "Name": "Ancient Dragon",
@@ -3030,14 +3030,14 @@
         "SchadenMin": 500,
         "SchadenMax": 750,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 400,
+        "Erfahrungspunkte": 400,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 640,
+        "Nummer": 190,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBoss1",
         "Name": "Denis the Delinquent",
@@ -3047,14 +3047,14 @@
         "SchadenMin": 100,
         "SchadenMax": 200,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 1500,
+        "Erfahrungspunkte": 1500,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillAttackWeakestTarget"
         ]
     },
     {
-        "Nummer": 641,
+        "Nummer": 191,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBoss2",
         "Name": "Alex the Troublemaker",
@@ -3064,14 +3064,14 @@
         "SchadenMin": 700,
         "SchadenMax": 1500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 7500,
+        "Erfahrungspunkte": 7500,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 642,
+        "Nummer": 192,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBoss3",
         "Name": "Bob the Miscreant",
@@ -3081,14 +3081,14 @@
         "SchadenMin": 1250,
         "SchadenMax": 2500,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 17500,
+        "Erfahrungspunkte": 17500,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 650,
+        "Nummer": 193,
         "Gruppierung": 1,
         "Kennung": "ChristmasBoss1",
         "Name": "Croaker",
@@ -3098,7 +3098,7 @@
         "SchadenMin": 500,
         "SchadenMax": 700,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 200,
+        "Erfahrungspunkte": 200,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillLastStrike",
@@ -3106,7 +3106,7 @@
         ]
     },
     {
-        "Nummer": 653,
+        "Nummer": 194,
         "Gruppierung": 1,
         "Kennung": "BirthdayShaman",
         "Name": "Mystical Shaman",
@@ -3116,14 +3116,14 @@
         "SchadenMin": 200,
         "SchadenMax": 500,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 500,
+        "Erfahrungspunkte": 500,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 654,
+        "Nummer": 195,
         "Gruppierung": 1,
         "Kennung": "TMC_v1_NordsRightHandBoss",
         "Name": "Steel Beard",
@@ -3133,14 +3133,14 @@
         "SchadenMin": 1500,
         "SchadenMax": 3000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 4900,
+        "Erfahrungspunkte": 4900,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 655,
+        "Nummer": 196,
         "Gruppierung": 1,
         "Kennung": "TMC_ColossalEagleBoss",
         "Name": "Colossal Eagle",
@@ -3150,14 +3150,14 @@
         "SchadenMin": 6400,
         "SchadenMax": 6500,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 26000,
+        "Erfahrungspunkte": 26000,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 656,
+        "Nummer": 197,
         "Gruppierung": 1,
         "Kennung": "TMC_BossMammoth",
         "Name": "Mammoth",
@@ -3167,14 +3167,14 @@
         "SchadenMin": 1400,
         "SchadenMax": 1600,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 76000,
+        "Erfahrungspunkte": 76000,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 657,
+        "Nummer": 198,
         "Gruppierung": 1,
         "Kennung": "TMC_BossWinterTerror",
         "Name": "Winter Terror",
@@ -3184,7 +3184,7 @@
         "SchadenMin": 9500,
         "SchadenMax": 10000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 22000,
+        "Erfahrungspunkte": 22000,
         "Fähigkeiten": [
             "UnitSkillAttackWeakestTarget",
             "UnitSkillFirstStrike",
@@ -3192,7 +3192,7 @@
         ]
     },
     {
-        "Nummer": 658,
+        "Nummer": 199,
         "Gruppierung": 1,
         "Kennung": "TMC_BossSmilodon",
         "Name": "Smilodon",
@@ -3202,14 +3202,14 @@
         "SchadenMin": 17000,
         "SchadenMax": 18000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 34000,
+        "Erfahrungspunkte": 34000,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 659,
+        "Nummer": 200,
         "Gruppierung": 1,
         "Kennung": "TMC_BossEnormousIbex",
         "Name": "Enormous Ibex",
@@ -3219,7 +3219,7 @@
         "SchadenMin": 1000,
         "SchadenMax": 1500,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 10000,
+        "Erfahrungspunkte": 10000,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage",
@@ -3227,7 +3227,7 @@
         ]
     },
     {
-        "Nummer": 660,
+        "Nummer": 201,
         "Gruppierung": 1,
         "Kennung": "TMC_BossGhastlyWolf",
         "Name": "Ghastly Wolf",
@@ -3237,7 +3237,7 @@
         "SchadenMin": 5000,
         "SchadenMax": 6000,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 11000,
+        "Erfahrungspunkte": 11000,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage",
@@ -3245,7 +3245,7 @@
         ]
     },
     {
-        "Nummer": 661,
+        "Nummer": 202,
         "Gruppierung": 1,
         "Kennung": "TMC_BossParagonElk",
         "Name": "Paragon Elk",
@@ -3255,14 +3255,14 @@
         "SchadenMin": 5000,
         "SchadenMax": 6000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 29000,
+        "Erfahrungspunkte": 29000,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 662,
+        "Nummer": 203,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_0",
         "Name": "Risi",
@@ -3272,7 +3272,7 @@
         "SchadenMin": 550,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 1,
-        "kokemuspisteet": 99000,
+        "Erfahrungspunkte": 99000,
         "Fähigkeiten": [
             "UnitSkillFirstStrike",
             "UnitSkillSplashDamage",
@@ -3280,7 +3280,7 @@
         ]
     },
     {
-        "Nummer": 663,
+        "Nummer": 204,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_1",
         "Name": "Risi",
@@ -3290,7 +3290,7 @@
         "SchadenMin": 550,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 99000,
+        "Erfahrungspunkte": 99000,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage",
@@ -3298,7 +3298,7 @@
         ]
     },
     {
-        "Nummer": 664,
+        "Nummer": 205,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_2",
         "Name": "Risi",
@@ -3308,7 +3308,7 @@
         "SchadenMin": 550,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 89000,
+        "Erfahrungspunkte": 89000,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage",
@@ -3316,7 +3316,7 @@
         ]
     },
     {
-        "Nummer": 665,
+        "Nummer": 206,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_3",
         "Name": "Risi",
@@ -3326,7 +3326,7 @@
         "SchadenMin": 500,
         "SchadenMax": 550,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 89000,
+        "Erfahrungspunkte": 89000,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage",
@@ -3334,7 +3334,7 @@
         ]
     },
     {
-        "Nummer": 666,
+        "Nummer": 207,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_4",
         "Name": "Risi",
@@ -3344,7 +3344,7 @@
         "SchadenMin": 500,
         "SchadenMax": 550,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 89000,
+        "Erfahrungspunkte": 89000,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage",
@@ -3352,7 +3352,7 @@
         ]
     },
     {
-        "Nummer": 667,
+        "Nummer": 208,
         "Gruppierung": 1,
         "Kennung": "TMC_BossNordsLeader",
         "Name": "Bandit Lord Björn",
@@ -3362,13 +3362,13 @@
         "SchadenMin": 3000,
         "SchadenMax": 4000,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 6900,
+        "Erfahrungspunkte": 6900,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 668,
+        "Nummer": 209,
         "Gruppierung": 1,
         "Kennung": "MadScientistBoss",
         "Name": "Mad Scientist",
@@ -3378,14 +3378,14 @@
         "SchadenMin": 750,
         "SchadenMax": 1000,
         "Angriffsreihenfolge": 3,
-        "kokemuspisteet": 130,
+        "Erfahrungspunkte": 130,
         "Fähigkeiten": [
             "UnitSkillLastStrike",
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 669,
+        "Nummer": 210,
         "Gruppierung": 1,
         "Kennung": "DarkLordBoss",
         "Name": "Dark Lord",
@@ -3395,13 +3395,13 @@
         "SchadenMin": 300,
         "SchadenMax": 600,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 170,
+        "Erfahrungspunkte": 170,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 671,
+        "Nummer": 211,
         "Gruppierung": 1,
         "Kennung": "ChristmasBossTwin1",
         "Name": "Ribbitha",
@@ -3411,13 +3411,13 @@
         "SchadenMin": 700,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 100,
+        "Erfahrungspunkte": 100,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 672,
+        "Nummer": 212,
         "Gruppierung": 1,
         "Kennung": "ChristmasBossTwin2",
         "Name": "Ribbitha",
@@ -3427,13 +3427,13 @@
         "SchadenMin": 700,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 150,
+        "Erfahrungspunkte": 150,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 673,
+        "Nummer": 213,
         "Gruppierung": 1,
         "Kennung": "ChristmasBossTwin3",
         "Name": "Ribbitha",
@@ -3443,23 +3443,23 @@
         "SchadenMin": 700,
         "SchadenMax": 800,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 200,
+        "Erfahrungspunkte": 200,
         "Fähigkeiten": [
             "UnitSkillSplashDamage"
         ]
     },
     {
-        "Nummer": 800,
+        "Nummer": 214,
         "Gruppierung": 1,
         "Kennung": "TreasureShipLoot",
         "Name": "Treasure",
         "Klassifikation": 6,
         "Lebenspunkte": 1,
         "Angriffsreihenfolge": 2,
-        "kokemuspisteet": 250
+        "Erfahrungspunkte": 250
     },
     {
-        "Nummer": 901,
+        "Nummer": 215,
         "Gruppierung": 2,
         "Kennung": "General",
         "Name": "General",
@@ -3471,7 +3471,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 903,
+        "Nummer": 216,
         "Gruppierung": 2,
         "Kennung": "StarGeneral2",
         "Name": "Master of Defense",
@@ -3487,7 +3487,7 @@
         ]
     },
     {
-        "Nummer": 904,
+        "Nummer": 217,
         "Gruppierung": 2,
         "Kennung": "StarGeneral3",
         "Name": "Master of Martial Arts",
@@ -3504,7 +3504,7 @@
         ]
     },
     {
-        "Nummer": 906,
+        "Nummer": 218,
         "Gruppierung": 2,
         "Kennung": "HalloweenGeneralDracul",
         "Name": "Lord Dracul",
@@ -3520,7 +3520,7 @@
         ]
     },
     {
-        "Nummer": 907,
+        "Nummer": 219,
         "Gruppierung": 2,
         "Kennung": "GeneralVargus",
         "Name": "Champion Vargus",
@@ -3537,7 +3537,7 @@
         ]
     },
     {
-        "Nummer": 908,
+        "Nummer": 220,
         "Gruppierung": 2,
         "Kennung": "GeneralAnslem",
         "Name": "Champion Anslem",
@@ -3554,7 +3554,7 @@
         ]
     },
     {
-        "Nummer": 909,
+        "Nummer": 221,
         "Gruppierung": 2,
         "Kennung": "GeneralNusala",
         "Name": "Champion Nusala",
@@ -3572,7 +3572,7 @@
         ]
     },
     {
-        "Nummer": 910,
+        "Nummer": 222,
         "Gruppierung": 2,
         "Kennung": "MasterGeneral",
         "Name": "Battle Hardened General",
@@ -3584,7 +3584,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 911,
+        "Nummer": 223,
         "Gruppierung": 2,
         "Kennung": "HalloweenGeneral",
         "Name": "Grim Reaper General",
@@ -3596,7 +3596,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 912,
+        "Nummer": 224,
         "Gruppierung": 2,
         "Kennung": "RetailBoxGeneral",
         "Name": "General Bighelmet",
@@ -3608,7 +3608,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 913,
+        "Nummer": 225,
         "Gruppierung": 2,
         "Kennung": "EasterGeneral",
         "Name": "Veteran",
@@ -3620,7 +3620,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 914,
+        "Nummer": 226,
         "Gruppierung": 2,
         "Kennung": "RetailBox2General",
         "Name": "General Log",
@@ -3632,7 +3632,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 915,
+        "Nummer": 227,
         "Gruppierung": 2,
         "Kennung": "MajorGeneral",
         "Name": "Major General",
@@ -3644,7 +3644,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 918,
+        "Nummer": 228,
         "Gruppierung": 2,
         "Kennung": "GeneralMary",
         "Name": "General Mary Christmas",
@@ -3659,7 +3659,7 @@
         ]
     },
     {
-        "Nummer": 919,
+        "Nummer": 229,
         "Gruppierung": 2,
         "Kennung": "MedicGeneral",
         "Name": "Field Medic General",
@@ -3674,7 +3674,7 @@
         ]
     },
     {
-        "Nummer": 920,
+        "Nummer": 230,
         "Gruppierung": 2,
         "Kennung": "MadScientistGeneral",
         "Name": "Mad Scientist",
@@ -3692,7 +3692,7 @@
         ]
     },
     {
-        "Nummer": 921,
+        "Nummer": 231,
         "Gruppierung": 2,
         "Kennung": "BorisGeneral",
         "Name": "General Boris",
@@ -3710,7 +3710,7 @@
         ]
     },
     {
-        "Nummer": 922,
+        "Nummer": 232,
         "Gruppierung": 2,
         "Kennung": "Anniversary2019General",
         "Name": "Older Gemini General",
@@ -3728,7 +3728,7 @@
         ]
     },
     {
-        "Nummer": 923,
+        "Nummer": 233,
         "Gruppierung": 2,
         "Kennung": "Halloween2019General",
         "Name": "Younger Gemini General",
@@ -3745,7 +3745,7 @@
         ]
     },
     {
-        "Nummer": 924,
+        "Nummer": 234,
         "Gruppierung": 2,
         "Kennung": "Xmas2019General",
         "Name": "Steadfast General",
@@ -3762,7 +3762,7 @@
         ]
     },
     {
-        "Nummer": 925,
+        "Nummer": 235,
         "Gruppierung": 2,
         "Kennung": "AssassinGeneral",
         "Name": "Cloaked General",
@@ -3779,7 +3779,7 @@
         ]
     },
     {
-        "Nummer": 926,
+        "Nummer": 236,
         "Gruppierung": 2,
         "Kennung": "SylvanaGeneral",
         "Name": "General Sylvana",
@@ -3797,7 +3797,7 @@
         ]
     },
     {
-        "Nummer": 927,
+        "Nummer": 237,
         "Gruppierung": 2,
         "Kennung": "GeneralTrembleBeard",
         "Name": "General Tremble Beard",
@@ -3815,7 +3815,7 @@
         ]
     },
     {
-        "Nummer": 928,
+        "Nummer": 238,
         "Gruppierung": 2,
         "Kennung": "GhostGeneral",
         "Name": "Ghost General",
@@ -3833,7 +3833,7 @@
         ]
     },
     {
-        "Nummer": 929,
+        "Nummer": 239,
         "Gruppierung": 2,
         "Kennung": "FrostyGeneral",
         "Name": "Frosty General",
@@ -3849,7 +3849,7 @@
         ]
     },
     {
-        "Nummer": 930,
+        "Nummer": 240,
         "Gruppierung": 2,
         "Kennung": "LonerGeneral",
         "Name": "Loner General",
@@ -3866,7 +3866,7 @@
         ]
     },
     {
-        "Nummer": 931,
+        "Nummer": 241,
         "Gruppierung": 2,
         "Kennung": "GeneralLoudmouth",
         "Name": "General Loudmouth",
@@ -3882,7 +3882,7 @@
         ]
     },
     {
-        "Nummer": 932,
+        "Nummer": 242,
         "Gruppierung": 2,
         "Kennung": "NutcrackerGeneral",
         "Name": "Nutcracker General",
@@ -3898,7 +3898,7 @@
         ]
     },
     {
-        "Nummer": 933,
+        "Nummer": 243,
         "Gruppierung": 2,
         "Kennung": "MiraculousGeneral",
         "Name": "Miraculous General",
@@ -3914,7 +3914,7 @@
         ]
     },
     {
-        "Nummer": 934,
+        "Nummer": 244,
         "Gruppierung": 2,
         "Kennung": "ResoluteGeneral",
         "Name": "Resolute General",
@@ -3930,7 +3930,7 @@
         ]
     },
     {
-        "Nummer": 950,
+        "Nummer": 245,
         "Gruppierung": 2,
         "Kennung": "JuanGeneral",
         "Name": "General Juan",
