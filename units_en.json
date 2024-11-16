@@ -1,0 +1,3951 @@
+[
+    {
+        "Number": 0,
+        "Identifier": "Missing",
+        "Name": "Missing"
+    },
+    {
+        "Number": 1,
+        "Grouping": 1,
+        "Identifier": "Recruit",
+        "Name": "Recruit",
+        "Classification": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 180,
+        "HealthPoints": 40,
+        "Accuracy": 80,
+        "DamageMin": 15,
+        "DamageMax": 30,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2
+    },
+    {
+        "Number": 2,
+        "Grouping": 1,
+        "Identifier": "Militia",
+        "Name": "Militia",
+        "Classification": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 480,
+        "HealthPoints": 60,
+        "Accuracy": 80,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 9
+    },
+    {
+        "Number": 6,
+        "Grouping": 1,
+        "Identifier": "Bowman",
+        "Name": "Bowman",
+        "Classification": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 240,
+        "HealthPoints": 10,
+        "Accuracy": 80,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3
+    },
+    {
+        "Number": 5,
+        "Grouping": 1,
+        "Identifier": "Cavalry",
+        "Name": "Cavalry",
+        "Classification": 4,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "HealthPoints": 5,
+        "Accuracy": 80,
+        "DamageMin": 5,
+        "DamageMax": 10,
+        "AttackOrder": 1,
+        "ExperiencePoints": 8,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 3,
+        "Grouping": 1,
+        "Identifier": "Soldier",
+        "Name": "Soldier",
+        "Classification": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "HealthPoints": 90,
+        "Accuracy": 85,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 6
+    },
+    {
+        "Number": 7,
+        "Grouping": 1,
+        "Identifier": "Longbowman",
+        "Name": "Longbowman",
+        "Classification": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 480,
+        "HealthPoints": 10,
+        "Accuracy": 80,
+        "DamageMin": 30,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 8
+    },
+    {
+        "Number": 4,
+        "Grouping": 1,
+        "Identifier": "EliteSoldier",
+        "Name": "Elite Soldier",
+        "Classification": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "HealthPoints": 120,
+        "Accuracy": 90,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 20
+    },
+    {
+        "Number": 8,
+        "Grouping": 1,
+        "Identifier": "Crossbowman",
+        "Name": "Crossbowman",
+        "Classification": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "HealthPoints": 10,
+        "Accuracy": 80,
+        "DamageMin": 45,
+        "DamageMax": 90,
+        "AttackOrder": 2,
+        "ExperiencePoints": 20
+    },
+    {
+        "Number": 9,
+        "Grouping": 1,
+        "Identifier": "Cannoneer",
+        "Name": "Cannoneer",
+        "Classification": 5,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "HealthPoints": 60,
+        "Accuracy": 90,
+        "DamageMin": 60,
+        "DamageMax": 120,
+        "AttackOrder": 3,
+        "ExperiencePoints": 30,
+        "Skills": [
+            "UnitSkillBonusDamageBuildings",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 10,
+        "Grouping": 1,
+        "Identifier": "Swordsman",
+        "Name": "Swordsman",
+        "Classification": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 900,
+        "HealthPoints": 150,
+        "Accuracy": 90,
+        "DamageMin": 40,
+        "DamageMax": 80,
+        "AttackOrder": 2,
+        "ExperiencePoints": 49
+    },
+    {
+        "Number": 11,
+        "Grouping": 1,
+        "Identifier": "MountedSwordsman",
+        "Name": "Mounted Swordsman",
+        "Classification": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 1800,
+        "HealthPoints": 250,
+        "Accuracy": 90,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 2,
+        "ExperiencePoints": 66
+    },
+    {
+        "Number": 12,
+        "Grouping": 1,
+        "Identifier": "Knight",
+        "Name": "Knight",
+        "Classification": 4,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "HealthPoints": 80,
+        "Accuracy": 90,
+        "DamageMin": 35,
+        "DamageMax": 70,
+        "AttackOrder": 1,
+        "ExperiencePoints": 18,
+        "Skills": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 13,
+        "Grouping": 1,
+        "Identifier": "Marksman",
+        "Name": "Marksman",
+        "Classification": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 900,
+        "HealthPoints": 50,
+        "Accuracy": 90,
+        "DamageMin": 50,
+        "DamageMax": 100,
+        "AttackOrder": 2,
+        "ExperiencePoints": 21
+    },
+    {
+        "Number": 14,
+        "Grouping": 1,
+        "Identifier": "ArmoredMarksman",
+        "Name": "Armored Marksman",
+        "Classification": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 1800,
+        "HealthPoints": 50,
+        "Accuracy": 90,
+        "DamageMin": 100,
+        "DamageMax": 200,
+        "AttackOrder": 2,
+        "ExperiencePoints": 69,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 15,
+        "Grouping": 1,
+        "Identifier": "MountedMarksman",
+        "Name": "Mounted Marksman",
+        "Classification": 4,
+        "pelaajayksikkö": true,
+        "barracksAika": 1800,
+        "HealthPoints": 50,
+        "Accuracy": 90,
+        "DamageMin": 50,
+        "DamageMax": 100,
+        "AttackOrder": 1,
+        "ExperiencePoints": 38,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 16,
+        "Grouping": 1,
+        "Identifier": "Besieger",
+        "Name": "Besieger",
+        "Classification": 5,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "HealthPoints": 80,
+        "Accuracy": 90,
+        "DamageMin": 100,
+        "DamageMax": 200,
+        "AttackOrder": 3,
+        "ExperiencePoints": 70,
+        "Skills": [
+            "UnitSkillBonusDamageBuildings",
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 50,
+        "Grouping": 1,
+        "Identifier": "TMC_BossFrostBearMatriarch",
+        "Name": "Frost Bear Matriarch",
+        "Classification": 2,
+        "HealthPoints": 600000,
+        "Accuracy": 85,
+        "DamageMin": 300,
+        "DamageMax": 600,
+        "AttackOrder": 1,
+        "ExperiencePoints": 60000,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 51,
+        "Grouping": 1,
+        "Identifier": "TMC_BossRavagingOx",
+        "Name": "Ravaging Ox",
+        "Classification": 2,
+        "HealthPoints": 100000,
+        "Accuracy": 50,
+        "DamageMin": 600,
+        "DamageMax": 800,
+        "AttackOrder": 1,
+        "ExperiencePoints": 10000,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 52,
+        "Grouping": 1,
+        "Identifier": "TMC_BossGargantuanLynx",
+        "Name": "Gargantuan Lynx",
+        "Classification": 2,
+        "HealthPoints": 20000,
+        "Accuracy": 50,
+        "DamageMin": 2500,
+        "DamageMax": 3500,
+        "AttackOrder": 1,
+        "ExperiencePoints": 7200,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 100,
+        "Grouping": 1,
+        "Identifier": "BanditBoss5",
+        "Name": "Wild Mary",
+        "Classification": 2,
+        "HealthPoints": 60000,
+        "Accuracy": 50,
+        "DamageMin": 740,
+        "DamageMax": 800,
+        "AttackOrder": 1,
+        "ExperiencePoints": 430,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 101,
+        "Grouping": 1,
+        "Identifier": "BanditBoss4",
+        "Name": "Chuck",
+        "Classification": 2,
+        "HealthPoints": 9000,
+        "Accuracy": 50,
+        "DamageMin": 2000,
+        "DamageMax": 2500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 250,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 102,
+        "Grouping": 1,
+        "Identifier": "BanditBoss3",
+        "Name": "Metal Tooth",
+        "Classification": 2,
+        "HealthPoints": 11000,
+        "Accuracy": 50,
+        "DamageMin": 250,
+        "DamageMax": 500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 160,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 103,
+        "Grouping": 1,
+        "Identifier": "BanditRecruit",
+        "Name": "Scavenger",
+        "Classification": 6,
+        "HealthPoints": 40,
+        "Accuracy": 60,
+        "DamageMin": 15,
+        "DamageMax": 30,
+        "AttackOrder": 2,
+        "ExperiencePoints": 4
+    },
+    {
+        "Number": 104,
+        "Grouping": 1,
+        "Identifier": "BanditMilitia",
+        "Name": "Thug",
+        "Classification": 6,
+        "HealthPoints": 60,
+        "Accuracy": 60,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3
+    },
+    {
+        "Number": 105,
+        "Grouping": 1,
+        "Identifier": "BanditCavalry",
+        "Name": "Guard Dog",
+        "Classification": 4,
+        "HealthPoints": 5,
+        "Accuracy": 60,
+        "DamageMin": 5,
+        "DamageMax": 10,
+        "AttackOrder": 1,
+        "ExperiencePoints": 4,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 106,
+        "Grouping": 1,
+        "Identifier": "BanditSoldier",
+        "Name": "Roughneck",
+        "Classification": 6,
+        "HealthPoints": 90,
+        "Accuracy": 60,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 6
+    },
+    {
+        "Number": 107,
+        "Grouping": 1,
+        "Identifier": "BanditBowman",
+        "Name": "Stone Thrower",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 60,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3
+    },
+    {
+        "Number": 108,
+        "Grouping": 1,
+        "Identifier": "BanditLongbowman",
+        "Name": "Ranger",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 60,
+        "DamageMin": 30,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 4
+    },
+    {
+        "Number": 110,
+        "Grouping": 1,
+        "Identifier": "PirateCavalry",
+        "Name": "Caltrop",
+        "Classification": 4,
+        "HealthPoints": 4,
+        "Accuracy": 33,
+        "DamageMax": 20,
+        "AttackOrder": 1,
+        "ExperiencePoints": 1,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 111,
+        "Grouping": 1,
+        "Identifier": "PirateRecruit",
+        "Name": "Deckscrubber",
+        "Classification": 6,
+        "HealthPoints": 15,
+        "Accuracy": 50,
+        "DamageMin": 10,
+        "DamageMax": 15,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1
+    },
+    {
+        "Number": 112,
+        "Grouping": 1,
+        "Identifier": "PirateMilitia",
+        "Name": "Sabrerattler",
+        "Classification": 6,
+        "HealthPoints": 30,
+        "Accuracy": 50,
+        "DamageMin": 10,
+        "DamageMax": 20,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2
+    },
+    {
+        "Number": 113,
+        "Grouping": 1,
+        "Identifier": "PirateBoss1",
+        "Name": "Crazy Ship's Cook",
+        "Classification": 2,
+        "HealthPoints": 5000,
+        "Accuracy": 66,
+        "DamageMin": 200,
+        "DamageMax": 300,
+        "AttackOrder": 1,
+        "ExperiencePoints": 200,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 114,
+        "Grouping": 1,
+        "Identifier": "PirateBowman",
+        "Name": "Knife Thrower",
+        "Classification": 3,
+        "HealthPoints": 5,
+        "Accuracy": 50,
+        "DamageMin": 10,
+        "DamageMax": 20,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1
+    },
+    {
+        "Number": 115,
+        "Grouping": 1,
+        "Identifier": "PirateLongbowman",
+        "Name": "Gunman",
+        "Classification": 3,
+        "HealthPoints": 5,
+        "Accuracy": 50,
+        "DamageMin": 20,
+        "DamageMax": 30,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2
+    },
+    {
+        "Number": 116,
+        "Grouping": 1,
+        "Identifier": "PirateCaptain",
+        "Name": "Petty Officer Second class",
+        "Classification": 6,
+        "HealthPoints": 60,
+        "Accuracy": 70,
+        "DamageMin": 40,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 6,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 120,
+        "Grouping": 1,
+        "Identifier": "KingdomRecruit",
+        "Name": "Recruit Deserter",
+        "Classification": 6,
+        "HealthPoints": 40,
+        "Accuracy": 60,
+        "DamageMin": 15,
+        "DamageMax": 30,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2
+    },
+    {
+        "Number": 121,
+        "Grouping": 1,
+        "Identifier": "KingdomMilitia",
+        "Name": "Militia Deserter",
+        "Classification": 6,
+        "HealthPoints": 60,
+        "Accuracy": 60,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 4
+    },
+    {
+        "Number": 122,
+        "Grouping": 1,
+        "Identifier": "KingdomCavalry",
+        "Name": "Cavalry Deserter",
+        "Classification": 4,
+        "HealthPoints": 5,
+        "Accuracy": 60,
+        "DamageMin": 5,
+        "DamageMax": 10,
+        "AttackOrder": 1,
+        "ExperiencePoints": 4,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 123,
+        "Grouping": 1,
+        "Identifier": "KingdomSoldier",
+        "Name": "Soldier Deserter",
+        "Classification": 6,
+        "HealthPoints": 90,
+        "Accuracy": 65,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 6
+    },
+    {
+        "Number": 124,
+        "Grouping": 1,
+        "Identifier": "KingdomEliteSoldier",
+        "Name": "Elite Soldier Deserter",
+        "Classification": 6,
+        "HealthPoints": 120,
+        "Accuracy": 70,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 8
+    },
+    {
+        "Number": 125,
+        "Grouping": 1,
+        "Identifier": "KingdomBowman",
+        "Name": "Bowman Deserter",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 60,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3
+    },
+    {
+        "Number": 126,
+        "Grouping": 1,
+        "Identifier": "KingdomLongbowman",
+        "Name": "Longbowman Deserter",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 60,
+        "DamageMin": 30,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 5
+    },
+    {
+        "Number": 127,
+        "Grouping": 1,
+        "Identifier": "KingdomCrossbowman",
+        "Name": "Crossbowman Deserter",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 60,
+        "DamageMin": 45,
+        "DamageMax": 90,
+        "AttackOrder": 2,
+        "ExperiencePoints": 7
+    },
+    {
+        "Number": 128,
+        "Grouping": 1,
+        "Identifier": "KingdomCannoneer",
+        "Name": "Cannoneer Deserter",
+        "Classification": 5,
+        "HealthPoints": 60,
+        "Accuracy": 70,
+        "DamageMin": 60,
+        "DamageMax": 120,
+        "AttackOrder": 3,
+        "ExperiencePoints": 15,
+        "Skills": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 130,
+        "Grouping": 1,
+        "Identifier": "CultBoss3",
+        "Name": "Spawn of Hell",
+        "Classification": 2,
+        "HealthPoints": 35000,
+        "Accuracy": 75,
+        "DamageMin": 700,
+        "DamageMax": 800,
+        "AttackOrder": 1,
+        "ExperiencePoints": 500,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 131,
+        "Grouping": 1,
+        "Identifier": "CultRecruit",
+        "Name": "Cultist",
+        "Classification": 6,
+        "HealthPoints": 40,
+        "Accuracy": 80,
+        "DamageMin": 15,
+        "DamageMax": 30,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3
+    },
+    {
+        "Number": 132,
+        "Grouping": 1,
+        "Identifier": "CultBoss1",
+        "Name": "Witch of the Swamp",
+        "Classification": 2,
+        "HealthPoints": 13000,
+        "Accuracy": 75,
+        "DamageMin": 400,
+        "DamageMax": 600,
+        "AttackOrder": 1,
+        "ExperiencePoints": 250,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 133,
+        "Grouping": 1,
+        "Identifier": "CultCavalry",
+        "Name": "Shadowsneaker",
+        "Classification": 4,
+        "HealthPoints": 5,
+        "Accuracy": 60,
+        "DamageMax": 5,
+        "AttackOrder": 1,
+        "ExperiencePoints": 6,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 134,
+        "Grouping": 1,
+        "Identifier": "CultBowman",
+        "Name": "Fanatic",
+        "Classification": 3,
+        "HealthPoints": 20,
+        "Accuracy": 90,
+        "DamageMin": 30,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 6
+    },
+    {
+        "Number": 135,
+        "Grouping": 1,
+        "Identifier": "CultLongbowman",
+        "Name": "Dark Priest",
+        "Classification": 3,
+        "HealthPoints": 20,
+        "Accuracy": 100,
+        "DamageMin": 40,
+        "DamageMax": 80,
+        "AttackOrder": 2,
+        "ExperiencePoints": 8
+    },
+    {
+        "Number": 136,
+        "Grouping": 1,
+        "Identifier": "CultCrossbowman",
+        "Name": "Firedancer",
+        "Classification": 3,
+        "HealthPoints": 30,
+        "Accuracy": 100,
+        "DamageMin": 60,
+        "DamageMax": 120,
+        "AttackOrder": 2,
+        "ExperiencePoints": 14
+    },
+    {
+        "Number": 137,
+        "Grouping": 1,
+        "Identifier": "CultCanoneer",
+        "Name": "Dancing Dervish",
+        "Classification": 5,
+        "HealthPoints": 90,
+        "Accuracy": 90,
+        "DamageMin": 60,
+        "DamageMax": 120,
+        "AttackOrder": 3,
+        "ExperiencePoints": 20,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 140,
+        "Grouping": 1,
+        "Identifier": "RaidersRecruit",
+        "Name": "Nomad",
+        "Classification": 6,
+        "HealthPoints": 30,
+        "Accuracy": 60,
+        "DamageMin": 10,
+        "DamageMax": 20,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2
+    },
+    {
+        "Number": 141,
+        "Grouping": 1,
+        "Identifier": "RaidersCavalry",
+        "Name": "Lance Rider",
+        "Classification": 4,
+        "HealthPoints": 20,
+        "Accuracy": 90,
+        "DamageMin": 5,
+        "DamageMax": 20,
+        "AttackOrder": 1,
+        "ExperiencePoints": 4,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 142,
+        "Grouping": 1,
+        "Identifier": "RaidersCavalryBow",
+        "Name": "Riding Bowman",
+        "Classification": 4,
+        "HealthPoints": 20,
+        "Accuracy": 90,
+        "DamageMin": 30,
+        "DamageMax": 40,
+        "AttackOrder": 1,
+        "ExperiencePoints": 6,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 143,
+        "Grouping": 1,
+        "Identifier": "RaidersCavalryLongbow",
+        "Name": "Riding Amazonian Guard",
+        "Classification": 4,
+        "HealthPoints": 20,
+        "Accuracy": 90,
+        "DamageMin": 40,
+        "DamageMax": 60,
+        "AttackOrder": 1,
+        "ExperiencePoints": 8,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 144,
+        "Grouping": 1,
+        "Identifier": "RaidersCavalryCrossbow",
+        "Name": "Cataphract",
+        "Classification": 4,
+        "HealthPoints": 20,
+        "Accuracy": 100,
+        "DamageMin": 90,
+        "DamageMax": 90,
+        "AttackOrder": 1,
+        "ExperiencePoints": 12,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 145,
+        "Grouping": 1,
+        "Identifier": "RaidersBoss1",
+        "Name": "Uproarious Bull",
+        "Classification": 2,
+        "HealthPoints": 2000,
+        "Accuracy": 100,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 1,
+        "ExperiencePoints": 50,
+        "Skills": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 146,
+        "Grouping": 1,
+        "Identifier": "RaidersBowman",
+        "Name": "Composite Bowman",
+        "Classification": 3,
+        "HealthPoints": 20,
+        "Accuracy": 80,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 3,
+        "ExperiencePoints": 2,
+        "Skills": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 150,
+        "Grouping": 1,
+        "Identifier": "NordsEliteSoldier",
+        "Name": "Jomsviking",
+        "Classification": 5,
+        "HealthPoints": 140,
+        "Accuracy": 95,
+        "DamageMin": 60,
+        "DamageMax": 80,
+        "AttackOrder": 3,
+        "ExperiencePoints": 14,
+        "Skills": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 151,
+        "Grouping": 1,
+        "Identifier": "NordsSoldier",
+        "Name": "Housecarl",
+        "Classification": 5,
+        "HealthPoints": 140,
+        "Accuracy": 90,
+        "DamageMin": 40,
+        "DamageMax": 50,
+        "AttackOrder": 3,
+        "ExperiencePoints": 10,
+        "Skills": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 152,
+        "Grouping": 1,
+        "Identifier": "NordsMilitia",
+        "Name": "Karl",
+        "Classification": 5,
+        "HealthPoints": 80,
+        "Accuracy": 90,
+        "DamageMin": 40,
+        "DamageMax": 50,
+        "AttackOrder": 3,
+        "ExperiencePoints": 6,
+        "Skills": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 153,
+        "Grouping": 1,
+        "Identifier": "NordsRecruit",
+        "Name": "Thrall",
+        "Classification": 5,
+        "HealthPoints": 60,
+        "Accuracy": 85,
+        "DamageMin": 20,
+        "DamageMax": 25,
+        "AttackOrder": 3,
+        "ExperiencePoints": 3,
+        "Skills": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 154,
+        "Grouping": 1,
+        "Identifier": "NordsBowman",
+        "Name": "Valkyrie",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 60,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3
+    },
+    {
+        "Number": 155,
+        "Grouping": 1,
+        "Identifier": "NordsCanoneer",
+        "Name": "Berserk",
+        "Classification": 5,
+        "HealthPoints": 90,
+        "Accuracy": 70,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 3,
+        "ExperiencePoints": 20,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 160,
+        "Grouping": 1,
+        "Identifier": "NeutralCavalry",
+        "Name": "Grey Wolf",
+        "Classification": 4,
+        "HealthPoints": 10,
+        "Accuracy": 80,
+        "DamageMin": 2,
+        "DamageMax": 3,
+        "AttackOrder": 1,
+        "ExperiencePoints": 1,
+        "Skills": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 180,
+        "Grouping": 1,
+        "Identifier": "MayaRecruit",
+        "Name": "Tribesman",
+        "Classification": 6,
+        "HealthPoints": 40,
+        "Accuracy": 80,
+        "DamageMin": 15,
+        "DamageMax": 30,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1
+    },
+    {
+        "Number": 181,
+        "Grouping": 1,
+        "Identifier": "MayaCavalry",
+        "Name": "Shaman",
+        "Classification": 4,
+        "HealthPoints": 5,
+        "Accuracy": 60,
+        "DamageMax": 5,
+        "AttackOrder": 1,
+        "ExperiencePoints": 1,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 182,
+        "Grouping": 1,
+        "Identifier": "MayaCanoneer",
+        "Name": "Jaguar Warrior",
+        "Classification": 5,
+        "HealthPoints": 90,
+        "Accuracy": 90,
+        "DamageMin": 60,
+        "DamageMax": 120,
+        "AttackOrder": 3,
+        "ExperiencePoints": 2,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 190,
+        "Grouping": 1,
+        "Identifier": "WildlifeRecruit",
+        "Name": "Boar",
+        "Classification": 6,
+        "HealthPoints": 100,
+        "Accuracy": 85,
+        "DamageMin": 30,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 12
+    },
+    {
+        "Number": 191,
+        "Grouping": 1,
+        "Identifier": "WildlifeMilitia",
+        "Name": "Bear",
+        "Classification": 6,
+        "HealthPoints": 140,
+        "Accuracy": 95,
+        "DamageMin": 70,
+        "DamageMax": 90,
+        "AttackOrder": 2,
+        "ExperiencePoints": 18,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 192,
+        "Grouping": 1,
+        "Identifier": "WildlifeBowman",
+        "Name": "Wolf",
+        "Classification": 3,
+        "HealthPoints": 40,
+        "Accuracy": 85,
+        "DamageMin": 60,
+        "DamageMax": 100,
+        "AttackOrder": 2,
+        "ExperiencePoints": 10
+    },
+    {
+        "Number": 193,
+        "Grouping": 1,
+        "Identifier": "WildlifeLongbowman",
+        "Name": "Wolf Packleader",
+        "Classification": 3,
+        "HealthPoints": 60,
+        "Accuracy": 95,
+        "DamageMin": 80,
+        "DamageMax": 120,
+        "AttackOrder": 2,
+        "ExperiencePoints": 15,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 194,
+        "Grouping": 1,
+        "Identifier": "WildlifeCavalry",
+        "Name": "Fox",
+        "Classification": 4,
+        "HealthPoints": 30,
+        "Accuracy": 95,
+        "DamageMin": 10,
+        "DamageMax": 40,
+        "AttackOrder": 1,
+        "ExperiencePoints": 12,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 195,
+        "Grouping": 1,
+        "Identifier": "WildlifeCannoneer",
+        "Name": "Giant",
+        "Classification": 5,
+        "HealthPoints": 160,
+        "Accuracy": 95,
+        "DamageMin": 60,
+        "DamageMax": 90,
+        "AttackOrder": 3,
+        "ExperiencePoints": 26,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 196,
+        "Grouping": 1,
+        "Identifier": "EpicRaidKingdomRecruit",
+        "Name": "Royal Recruit",
+        "Classification": 6,
+        "HealthPoints": 120,
+        "Accuracy": 85,
+        "DamageMin": 30,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 14
+    },
+    {
+        "Number": 197,
+        "Grouping": 1,
+        "Identifier": "EpicRaidKingdomMilitia",
+        "Name": "Royal Militia",
+        "Classification": 6,
+        "HealthPoints": 160,
+        "Accuracy": 95,
+        "DamageMin": 70,
+        "DamageMax": 90,
+        "AttackOrder": 2,
+        "ExperiencePoints": 17,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 199,
+        "Grouping": 1,
+        "Identifier": "EpicRaidKingdomBowman",
+        "Name": "Royal Bowman",
+        "Classification": 3,
+        "HealthPoints": 40,
+        "Accuracy": 85,
+        "DamageMin": 60,
+        "DamageMax": 120,
+        "AttackOrder": 2,
+        "ExperiencePoints": 12
+    },
+    {
+        "Number": 200,
+        "Grouping": 1,
+        "Identifier": "EpicRaidKingdomLongbowman",
+        "Name": "Royal Longbowman",
+        "Classification": 3,
+        "HealthPoints": 60,
+        "Accuracy": 95,
+        "DamageMin": 80,
+        "DamageMax": 140,
+        "AttackOrder": 2,
+        "ExperiencePoints": 16,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 201,
+        "Grouping": 1,
+        "Identifier": "EpicRaidKingdomCavalry",
+        "Name": "Royal Cavalry",
+        "Classification": 4,
+        "HealthPoints": 40,
+        "Accuracy": 95,
+        "DamageMin": 10,
+        "DamageMax": 60,
+        "AttackOrder": 1,
+        "ExperiencePoints": 15,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 202,
+        "Grouping": 1,
+        "Identifier": "EpicRaidKingdomCannoneer",
+        "Name": "Royal Cannoneer",
+        "Classification": 5,
+        "HealthPoints": 200,
+        "Accuracy": 95,
+        "DamageMin": 60,
+        "DamageMax": 90,
+        "AttackOrder": 3,
+        "ExperiencePoints": 28,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 220,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditRecruit",
+        "Name": "Sword Clasher",
+        "Classification": 6,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 75,
+        "DamageMax": 150,
+        "AttackOrder": 2,
+        "ExperiencePoints": 27,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 221,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditMilitia",
+        "Name": "Sword Wielder",
+        "Classification": 6,
+        "HealthPoints": 300,
+        "Accuracy": 80,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 2,
+        "ExperiencePoints": 35,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 222,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditSoldier",
+        "Name": "Sword Master",
+        "Classification": 6,
+        "HealthPoints": 500,
+        "Accuracy": 80,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 2,
+        "ExperiencePoints": 55,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 223,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditCavalry",
+        "Name": "Horseman",
+        "Classification": 4,
+        "HealthPoints": 50,
+        "Accuracy": 80,
+        "DamageMin": 50,
+        "DamageMax": 100,
+        "AttackOrder": 1,
+        "ExperiencePoints": 22,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 224,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBowman",
+        "Name": "Dune Marksman",
+        "Classification": 3,
+        "HealthPoints": 30,
+        "Accuracy": 80,
+        "DamageMin": 100,
+        "DamageMax": 200,
+        "AttackOrder": 2,
+        "ExperiencePoints": 26,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 225,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditLongbowman",
+        "Name": "Desert Marksman",
+        "Classification": 3,
+        "HealthPoints": 80,
+        "Accuracy": 80,
+        "DamageMin": 50,
+        "DamageMax": 100,
+        "AttackOrder": 2,
+        "ExperiencePoints": 15,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 226,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditCavalryBowman",
+        "Name": "Mounted Bowman",
+        "Classification": 4,
+        "HealthPoints": 70,
+        "Accuracy": 80,
+        "DamageMin": 35,
+        "DamageMax": 70,
+        "AttackOrder": 1,
+        "ExperiencePoints": 23,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 227,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditCanoneer",
+        "Name": "Stone Cannon",
+        "Classification": 5,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 150,
+        "DamageMax": 300,
+        "AttackOrder": 3,
+        "ExperiencePoints": 36,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 230,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorRecruit",
+        "Name": "Sailor",
+        "Classification": 6,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 50,
+        "DamageMax": 100,
+        "AttackOrder": 2,
+        "ExperiencePoints": 21,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 231,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorMilitia",
+        "Name": "Battle Hardened Sailor",
+        "Classification": 6,
+        "HealthPoints": 200,
+        "Accuracy": 80,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 2,
+        "ExperiencePoints": 26,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 232,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorCavalry",
+        "Name": "Mounted Sailor",
+        "Classification": 4,
+        "HealthPoints": 50,
+        "Accuracy": 80,
+        "DamageMin": 35,
+        "DamageMax": 70,
+        "AttackOrder": 1,
+        "ExperiencePoints": 17,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 233,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorBowman",
+        "Name": "Boatswain",
+        "Classification": 4,
+        "HealthPoints": 40,
+        "Accuracy": 80,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 1,
+        "ExperiencePoints": 15,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 234,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorLongbowman",
+        "Name": "Petty Officer Second Class",
+        "Classification": 3,
+        "HealthPoints": 70,
+        "Accuracy": 80,
+        "DamageMin": 35,
+        "DamageMax": 70,
+        "AttackOrder": 2,
+        "ExperiencePoints": 17,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 235,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorCanoneer",
+        "Name": "Cannon Master",
+        "Classification": 5,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 100,
+        "DamageMax": 200,
+        "AttackOrder": 3,
+        "ExperiencePoints": 27,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 240,
+        "Grouping": 1,
+        "Identifier": "OrientalApe1",
+        "Name": "Stick-wielding Ape",
+        "Classification": 6,
+        "HealthPoints": 150,
+        "Accuracy": 95,
+        "DamageMin": 90,
+        "DamageMax": 180,
+        "AttackOrder": 2,
+        "ExperiencePoints": 37,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 241,
+        "Grouping": 1,
+        "Identifier": "OrientalApe2",
+        "Name": "Stone-throwing Ape",
+        "Classification": 4,
+        "HealthPoints": 70,
+        "Accuracy": 95,
+        "DamageMin": 125,
+        "DamageMax": 250,
+        "AttackOrder": 1,
+        "ExperiencePoints": 67,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 242,
+        "Grouping": 1,
+        "Identifier": "OrientalApe3",
+        "Name": "Alpha Ape",
+        "Classification": 5,
+        "HealthPoints": 500,
+        "Accuracy": 95,
+        "DamageMin": 35,
+        "DamageMax": 70,
+        "AttackOrder": 3,
+        "ExperiencePoints": 56,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 243,
+        "Grouping": 1,
+        "Identifier": "OrientalApe4",
+        "Name": "Nervous Ape",
+        "Classification": 4,
+        "HealthPoints": 100,
+        "Accuracy": 95,
+        "DamageMin": 80,
+        "DamageMax": 160,
+        "AttackOrder": 1,
+        "ExperiencePoints": 40,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 277,
+        "Grouping": 1,
+        "Identifier": "BlondeBowman",
+        "Name": "Blonde Bowman",
+        "Classification": 3,
+        "HealthPoints": 70,
+        "Accuracy": 80,
+        "DamageMin": 100,
+        "DamageMax": 150,
+        "AttackOrder": 2,
+        "ExperiencePoints": 25,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 278,
+        "Grouping": 1,
+        "Identifier": "DefensiveMiner",
+        "Name": "Defensive Miner",
+        "Classification": 6,
+        "HealthPoints": 150,
+        "Accuracy": 80,
+        "DamageMin": 75,
+        "DamageMax": 100,
+        "AttackOrder": 2,
+        "ExperiencePoints": 20,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 279,
+        "Grouping": 1,
+        "Identifier": "GoldenGuard",
+        "Name": "Golden Guard",
+        "Classification": 5,
+        "HealthPoints": 280,
+        "Accuracy": 85,
+        "DamageMin": 150,
+        "DamageMax": 220,
+        "AttackOrder": 3,
+        "ExperiencePoints": 55,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 293,
+        "Grouping": 1,
+        "Identifier": "RecklessRider",
+        "Name": "Reckless Rider",
+        "Classification": 4,
+        "HealthPoints": 60,
+        "Accuracy": 80,
+        "DamageMin": 130,
+        "DamageMax": 200,
+        "AttackOrder": 1,
+        "ExperiencePoints": 45,
+        "Skills": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 294,
+        "Grouping": 1,
+        "Identifier": "FirmDefender",
+        "Name": "Firm Defender",
+        "Classification": 6,
+        "HealthPoints": 200,
+        "Accuracy": 80,
+        "DamageMin": 90,
+        "DamageMax": 130,
+        "AttackOrder": 2,
+        "ExperiencePoints": 30,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 674,
+        "Grouping": 1,
+        "Identifier": "SlickBanditBoss",
+        "Name": "Slick Bandit Boss",
+        "Classification": 2,
+        "HealthPoints": 6000,
+        "Accuracy": 40,
+        "DamageMin": 2200,
+        "DamageMax": 3000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 700,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 250,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherRecruit",
+        "Name": "Rascal",
+        "Classification": 6,
+        "HealthPoints": 20,
+        "Accuracy": 90,
+        "DamageMin": 15,
+        "DamageMax": 30,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2
+    },
+    {
+        "Number": 251,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherMilitia",
+        "Name": "Vandal",
+        "Classification": 6,
+        "HealthPoints": 50,
+        "Accuracy": 90,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 9
+    },
+    {
+        "Number": 252,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherSoldier",
+        "Name": "Bully",
+        "Classification": 6,
+        "HealthPoints": 90,
+        "Accuracy": 90,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 10
+    },
+    {
+        "Number": 253,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherCavalry",
+        "Name": "Prankster",
+        "Classification": 4,
+        "HealthPoints": 20,
+        "Accuracy": 80,
+        "DamageMin": 10,
+        "DamageMax": 20,
+        "AttackOrder": 1,
+        "ExperiencePoints": 9,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 254,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherBowman",
+        "Name": "Ruffian",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 90,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 2,
+        "ExperiencePoints": 5
+    },
+    {
+        "Number": 255,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherLongbowman",
+        "Name": "Scoundrel",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 90,
+        "DamageMin": 40,
+        "DamageMax": 75,
+        "AttackOrder": 2,
+        "ExperiencePoints": 10
+    },
+    {
+        "Number": 256,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherCrossbowman",
+        "Name": "Cad",
+        "Classification": 3,
+        "HealthPoints": 10,
+        "Accuracy": 90,
+        "DamageMin": 50,
+        "DamageMax": 100,
+        "AttackOrder": 2,
+        "ExperiencePoints": 22
+    },
+    {
+        "Number": 257,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherEliteSoldier",
+        "Name": "Grouch",
+        "Classification": 6,
+        "HealthPoints": 120,
+        "Accuracy": 90,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 20
+    },
+    {
+        "Number": 258,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherCannoneer",
+        "Name": "Whiner",
+        "Classification": 5,
+        "HealthPoints": 40,
+        "Accuracy": 90,
+        "DamageMin": 70,
+        "DamageMax": 120,
+        "AttackOrder": 3,
+        "ExperiencePoints": 30,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 259,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherEliteCavalry",
+        "Name": "Scallywag",
+        "Classification": 4,
+        "HealthPoints": 50,
+        "Accuracy": 90,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 1,
+        "ExperiencePoints": 80,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 260,
+        "Grouping": 1,
+        "Identifier": "Deer_Unit",
+        "Name": "Deer",
+        "Classification": 6,
+        "HealthPoints": 15,
+        "Accuracy": 80,
+        "DamageMin": 5,
+        "DamageMax": 10,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2
+    },
+    {
+        "Number": 270,
+        "Grouping": 1,
+        "Identifier": "EliteWildlifeRecruit",
+        "Name": "Frost Ibex",
+        "Classification": 6,
+        "HealthPoints": 250,
+        "Accuracy": 85,
+        "DamageMin": 120,
+        "DamageMax": 150,
+        "AttackOrder": 2,
+        "ExperiencePoints": 79,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 271,
+        "Grouping": 1,
+        "Identifier": "EliteWildlifeMilitia",
+        "Name": "Frost Bear",
+        "Classification": 6,
+        "HealthPoints": 350,
+        "Accuracy": 90,
+        "DamageMin": 160,
+        "DamageMax": 200,
+        "AttackOrder": 2,
+        "ExperiencePoints": 110,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 272,
+        "Grouping": 1,
+        "Identifier": "EliteWildlifeCavalry",
+        "Name": "Frost Fox",
+        "Classification": 4,
+        "HealthPoints": 75,
+        "Accuracy": 90,
+        "DamageMin": 80,
+        "DamageMax": 100,
+        "AttackOrder": 1,
+        "ExperiencePoints": 53,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 273,
+        "Grouping": 1,
+        "Identifier": "EliteWildlifeAir",
+        "Name": "Frost Eagle",
+        "Classification": 4,
+        "HealthPoints": 100,
+        "Accuracy": 95,
+        "DamageMin": 90,
+        "DamageMax": 150,
+        "AttackOrder": 1,
+        "ExperiencePoints": 77,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 274,
+        "Grouping": 1,
+        "Identifier": "EliteWildlifeBowman",
+        "Name": "Frost Wolf",
+        "Classification": 3,
+        "HealthPoints": 100,
+        "Accuracy": 85,
+        "DamageMin": 200,
+        "DamageMax": 250,
+        "AttackOrder": 2,
+        "ExperiencePoints": 68,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 275,
+        "Grouping": 1,
+        "Identifier": "EliteWildlifeLongbowman",
+        "Name": "Frost Leopard",
+        "Classification": 3,
+        "HealthPoints": 150,
+        "Accuracy": 90,
+        "DamageMin": 240,
+        "DamageMax": 300,
+        "AttackOrder": 2,
+        "ExperiencePoints": 89,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 276,
+        "Grouping": 1,
+        "Identifier": "EliteWildlifeCannoneer",
+        "Name": "Frost Giant",
+        "Classification": 5,
+        "HealthPoints": 500,
+        "Accuracy": 90,
+        "DamageMin": 280,
+        "DamageMax": 350,
+        "AttackOrder": 3,
+        "ExperiencePoints": 170,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 288,
+        "Grouping": 1,
+        "Identifier": "EnemyCannoneer",
+        "Name": "Cannoneer",
+        "Classification": 5,
+        "HealthPoints": 60,
+        "Accuracy": 90,
+        "DamageMin": 60,
+        "DamageMax": 120,
+        "AttackOrder": 3,
+        "ExperiencePoints": 30,
+        "Skills": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 289,
+        "Grouping": 1,
+        "Identifier": "MiniGolemRecruit",
+        "Name": "Miniature Clay Golem",
+        "Classification": 6,
+        "HealthPoints": 110,
+        "Accuracy": 50,
+        "DamageMin": 20,
+        "DamageMax": 40,
+        "AttackOrder": 2,
+        "ExperiencePoints": 7
+    },
+    {
+        "Number": 290,
+        "Grouping": 1,
+        "Identifier": "MiniGolemMilitia",
+        "Name": "Miniature Rock Golem",
+        "Classification": 6,
+        "HealthPoints": 150,
+        "Accuracy": 50,
+        "DamageMin": 30,
+        "DamageMax": 60,
+        "AttackOrder": 2,
+        "ExperiencePoints": 10
+    },
+    {
+        "Number": 291,
+        "Grouping": 1,
+        "Identifier": "MiniGolemCavalry",
+        "Name": "Miniature Ice Golem",
+        "Classification": 4,
+        "HealthPoints": 50,
+        "Accuracy": 50,
+        "DamageMin": 15,
+        "DamageMax": 30,
+        "AttackOrder": 1,
+        "ExperiencePoints": 4,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 292,
+        "Grouping": 1,
+        "Identifier": "MiniGolemCannoneer",
+        "Name": "Miniature Lava Golem",
+        "Classification": 5,
+        "HealthPoints": 120,
+        "Accuracy": 60,
+        "DamageMin": 50,
+        "DamageMax": 100,
+        "AttackOrder": 3,
+        "ExperiencePoints": 11,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 500,
+        "Grouping": 1,
+        "Identifier": "BanditBoss1",
+        "Name": "Skunk",
+        "Classification": 2,
+        "HealthPoints": 5000,
+        "Accuracy": 50,
+        "DamageMin": 1,
+        "DamageMax": 100,
+        "AttackOrder": 3,
+        "ExperiencePoints": 200,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 501,
+        "Grouping": 1,
+        "Identifier": "BanditBoss2",
+        "Name": "One-Eyed Bert",
+        "Classification": 2,
+        "HealthPoints": 6000,
+        "Accuracy": 50,
+        "DamageMin": 300,
+        "DamageMax": 500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 100,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 515,
+        "Grouping": 1,
+        "Identifier": "KingdomBoss1",
+        "Name": "Sir Robin",
+        "Classification": 2,
+        "HealthPoints": 12000,
+        "Accuracy": 80,
+        "DamageMin": 200,
+        "DamageMax": 600,
+        "AttackOrder": 1,
+        "ExperiencePoints": 200,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 516,
+        "Grouping": 1,
+        "Identifier": "KingdomBoss2",
+        "Name": "Big Bertha",
+        "Classification": 2,
+        "HealthPoints": 40000,
+        "Accuracy": 75,
+        "DamageMin": 50,
+        "DamageMax": 150,
+        "AttackOrder": 3,
+        "ExperiencePoints": 350,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 520,
+        "Grouping": 1,
+        "Identifier": "CultBoss2",
+        "Name": "Dark High Priest",
+        "Classification": 2,
+        "HealthPoints": 15000,
+        "Accuracy": 75,
+        "DamageMin": 800,
+        "DamageMax": 1000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 350,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 521,
+        "Grouping": 1,
+        "Identifier": "CultBoss4",
+        "Name": "Preacher of Flames",
+        "Classification": 2,
+        "HealthPoints": 11000,
+        "Accuracy": 75,
+        "DamageMin": 500,
+        "DamageMax": 700,
+        "AttackOrder": 3,
+        "ExperiencePoints": 250,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 530,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss1",
+        "Name": "Giant Bogor",
+        "Classification": 2,
+        "HealthPoints": 90000,
+        "Accuracy": 60,
+        "DamageMin": 100,
+        "DamageMax": 300,
+        "AttackOrder": 3,
+        "ExperiencePoints": 400,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 531,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss2",
+        "Name": "Giant Gogor",
+        "Classification": 2,
+        "HealthPoints": 70000,
+        "Accuracy": 80,
+        "DamageMin": 100,
+        "DamageMax": 250,
+        "AttackOrder": 3,
+        "ExperiencePoints": 350,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 532,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss3",
+        "Name": "Unicorn",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 90,
+        "DamageMin": 250,
+        "DamageMax": 400,
+        "AttackOrder": 2,
+        "ExperiencePoints": 300,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 533,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss4",
+        "Name": "Furious Boar",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 90,
+        "DamageMin": 200,
+        "DamageMax": 300,
+        "AttackOrder": 2,
+        "ExperiencePoints": 400,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 534,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss5",
+        "Name": "Evil King",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 80,
+        "DamageMin": 200,
+        "DamageMax": 300,
+        "AttackOrder": 2,
+        "ExperiencePoints": 250,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 535,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss6",
+        "Name": "Iron Fist",
+        "Classification": 2,
+        "HealthPoints": 45000,
+        "Accuracy": 85,
+        "DamageMin": 200,
+        "DamageMax": 250,
+        "AttackOrder": 1,
+        "ExperiencePoints": 300,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 536,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss7",
+        "Name": "Giant Bear",
+        "Classification": 2,
+        "HealthPoints": 55000,
+        "Accuracy": 60,
+        "DamageMin": 400,
+        "DamageMax": 750,
+        "AttackOrder": 3,
+        "ExperiencePoints": 600,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 537,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss8",
+        "Name": "Rivaling Tailor",
+        "Classification": 2,
+        "HealthPoints": 40000,
+        "Accuracy": 75,
+        "DamageMin": 150,
+        "DamageMax": 250,
+        "AttackOrder": 3,
+        "ExperiencePoints": 350,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 538,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss9",
+        "Name": "Black Bull",
+        "Classification": 2,
+        "HealthPoints": 60000,
+        "Accuracy": 90,
+        "DamageMin": 250,
+        "DamageMax": 300,
+        "AttackOrder": 2,
+        "ExperiencePoints": 500,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 539,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss10",
+        "Name": "Dark Magician",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 80,
+        "DamageMin": 2000,
+        "DamageMax": 2500,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1000,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 540,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss11",
+        "Name": "Lying Goat",
+        "Classification": 2,
+        "HealthPoints": 25000,
+        "Accuracy": 85,
+        "DamageMin": 100,
+        "DamageMax": 150,
+        "AttackOrder": 2,
+        "ExperiencePoints": 100,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 541,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss12",
+        "Name": "Cudgel Claus",
+        "Classification": 2,
+        "HealthPoints": 40000,
+        "Accuracy": 80,
+        "DamageMin": 200,
+        "DamageMax": 300,
+        "AttackOrder": 2,
+        "ExperiencePoints": 250,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 542,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss13",
+        "Name": "Assassin",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 80,
+        "DamageMin": 200,
+        "DamageMax": 300,
+        "AttackOrder": 1,
+        "ExperiencePoints": 350,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 543,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBoss14",
+        "Name": "Greedy Inn-Keeper",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 80,
+        "DamageMin": 1500,
+        "DamageMax": 2000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 950,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 550,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossPiper",
+        "Name": "The Pied Piper of Hamelin",
+        "Classification": 2,
+        "HealthPoints": 55000,
+        "Accuracy": 90,
+        "DamageMin": 200,
+        "DamageMax": 450,
+        "AttackOrder": 1,
+        "ExperiencePoints": 1900,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 551,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossMayor",
+        "Name": "The Mayor",
+        "Classification": 2,
+        "HealthPoints": 95000,
+        "Accuracy": 80,
+        "DamageMin": 400,
+        "DamageMax": 600,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3200,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 552,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossRatKing",
+        "Name": "The King of Rats",
+        "Classification": 2,
+        "HealthPoints": 40000,
+        "Accuracy": 60,
+        "DamageMin": 200,
+        "DamageMax": 800,
+        "AttackOrder": 3,
+        "ExperiencePoints": 1300,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 553,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossEvilQueen",
+        "Name": "Ilsebille, the Evil Queen",
+        "Classification": 2,
+        "HealthPoints": 95000,
+        "Accuracy": 80,
+        "DamageMin": 400,
+        "DamageMax": 600,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3200,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 554,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossHuntsman",
+        "Name": "Royal Huntsmen Leader",
+        "Classification": 2,
+        "HealthPoints": 45000,
+        "Accuracy": 90,
+        "DamageMin": 200,
+        "DamageMax": 700,
+        "AttackOrder": 3,
+        "ExperiencePoints": 1500,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 555,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossStepmother",
+        "Name": "The Evil Stepmother",
+        "Classification": 2,
+        "HealthPoints": 95000,
+        "Accuracy": 80,
+        "DamageMin": 400,
+        "DamageMax": 600,
+        "AttackOrder": 2,
+        "ExperiencePoints": 3200,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 556,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossCaptain",
+        "Name": "Royal Captain",
+        "Classification": 2,
+        "HealthPoints": 45000,
+        "Accuracy": 80,
+        "DamageMin": 300,
+        "DamageMax": 500,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1500,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 557,
+        "Grouping": 1,
+        "Identifier": "EpicRaidBossJuggernaut",
+        "Name": "Royal Juggernaut",
+        "Classification": 2,
+        "HealthPoints": 70000,
+        "Accuracy": 35,
+        "DamageMin": 200,
+        "DamageMax": 1000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 2300,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 570,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss1",
+        "Name": "Shrewd Thief",
+        "Classification": 2,
+        "HealthPoints": 1000,
+        "Accuracy": 80,
+        "DamageMin": 250,
+        "DamageMax": 500,
+        "AttackOrder": 2,
+        "ExperiencePoints": 52,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 571,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss2",
+        "Name": "Smart Thief",
+        "Classification": 2,
+        "HealthPoints": 5000,
+        "Accuracy": 80,
+        "DamageMin": 500,
+        "DamageMax": 1000,
+        "AttackOrder": 2,
+        "ExperiencePoints": 200,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 572,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss3",
+        "Name": "Mysterious Thief",
+        "Classification": 2,
+        "HealthPoints": 20000,
+        "Accuracy": 80,
+        "DamageMin": 1000,
+        "DamageMax": 2000,
+        "AttackOrder": 2,
+        "ExperiencePoints": 740,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 573,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss4",
+        "Name": "Treacherous Thief",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 80,
+        "DamageMin": 250,
+        "DamageMax": 500,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1700,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 574,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss5",
+        "Name": "Snooty Thief",
+        "Classification": 2,
+        "HealthPoints": 150000,
+        "Accuracy": 80,
+        "DamageMin": 500,
+        "DamageMax": 1000,
+        "AttackOrder": 2,
+        "ExperiencePoints": 5000,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 575,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss6",
+        "Name": "Grayed Thief",
+        "Classification": 2,
+        "HealthPoints": 500,
+        "Accuracy": 80,
+        "DamageMin": 375,
+        "DamageMax": 750,
+        "AttackOrder": 2,
+        "ExperiencePoints": 54,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 576,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss7",
+        "Name": "Sneaking Thief",
+        "Classification": 2,
+        "HealthPoints": 1000,
+        "Accuracy": 80,
+        "DamageMin": 250,
+        "DamageMax": 500,
+        "AttackOrder": 1,
+        "ExperiencePoints": 62,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 577,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss8",
+        "Name": "Scarred Thief",
+        "Classification": 2,
+        "HealthPoints": 500,
+        "Accuracy": 80,
+        "DamageMin": 150,
+        "DamageMax": 300,
+        "AttackOrder": 1,
+        "ExperiencePoints": 39,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 578,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss9",
+        "Name": "Greedy Thief",
+        "Classification": 2,
+        "HealthPoints": 10000,
+        "Accuracy": 80,
+        "DamageMin": 2500,
+        "DamageMax": 5000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 470,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 579,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditBoss10",
+        "Name": "Silly Thief",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 80,
+        "DamageMin": 2000,
+        "DamageMax": 4000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 1800,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 590,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorBoss1",
+        "Name": "Steersman",
+        "Classification": 2,
+        "HealthPoints": 250000,
+        "Accuracy": 80,
+        "DamageMin": 250,
+        "DamageMax": 500,
+        "AttackOrder": 2,
+        "ExperiencePoints": 8300,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 591,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorBoss2",
+        "Name": "Mutineer",
+        "Classification": 2,
+        "HealthPoints": 5000,
+        "Accuracy": 80,
+        "DamageMin": 2500,
+        "DamageMax": 5000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 450,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 592,
+        "Grouping": 1,
+        "Identifier": "OrientalSailorBoss3",
+        "Name": "Captain",
+        "Classification": 2,
+        "HealthPoints": 10000,
+        "Accuracy": 80,
+        "DamageMin": 4000,
+        "DamageMax": 8000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 560,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 600,
+        "Grouping": 1,
+        "Identifier": "OrientalBanditLord",
+        "Name": "Bandit Lord",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 90,
+        "DamageMin": 3500,
+        "DamageMax": 7000,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1400,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 601,
+        "Grouping": 1,
+        "Identifier": "OrientalCrumpyParrot",
+        "Name": "Grumpy Parrot",
+        "Classification": 2,
+        "HealthPoints": 25000,
+        "Accuracy": 95,
+        "DamageMin": 2000,
+        "DamageMax": 4000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 1100,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 602,
+        "Grouping": 1,
+        "Identifier": "OrientalOasisGuardian",
+        "Name": "Oasis Guardian",
+        "Classification": 2,
+        "HealthPoints": 40000,
+        "Accuracy": 90,
+        "DamageMin": 5000,
+        "DamageMax": 10000,
+        "AttackOrder": 2,
+        "ExperiencePoints": 1700,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 603,
+        "Grouping": 1,
+        "Identifier": "OrientalBolderWorm",
+        "Name": "Boulder Worm",
+        "Classification": 2,
+        "HealthPoints": 200000,
+        "Accuracy": 80,
+        "DamageMin": 150,
+        "DamageMax": 300,
+        "AttackOrder": 3,
+        "ExperiencePoints": 6600,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 604,
+        "Grouping": 1,
+        "Identifier": "OrientalGiantBat",
+        "Name": "Giant Bat",
+        "Classification": 2,
+        "HealthPoints": 150000,
+        "Accuracy": 90,
+        "DamageMin": 450,
+        "DamageMax": 900,
+        "AttackOrder": 1,
+        "ExperiencePoints": 5000,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 605,
+        "Grouping": 1,
+        "Identifier": "OrientalGiantBlossom1",
+        "Name": "Hungry Blossom",
+        "Classification": 2,
+        "HealthPoints": 10000,
+        "Accuracy": 90,
+        "DamageMin": 2250,
+        "DamageMax": 4500,
+        "AttackOrder": 1,
+        "ExperiencePoints": 680,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 606,
+        "Grouping": 1,
+        "Identifier": "OrientalGiantBlossom2",
+        "Name": "Fierce Blossom",
+        "Classification": 2,
+        "HealthPoints": 15000,
+        "Accuracy": 90,
+        "DamageMin": 2750,
+        "DamageMax": 5500,
+        "AttackOrder": 1,
+        "ExperiencePoints": 930,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 607,
+        "Grouping": 1,
+        "Identifier": "OrientalGiantBlossom3",
+        "Name": "Bulbous Blossom",
+        "Classification": 2,
+        "HealthPoints": 20000,
+        "Accuracy": 90,
+        "DamageMin": 3250,
+        "DamageMax": 6500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 920,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 608,
+        "Grouping": 1,
+        "Identifier": "OrientalLibraryBoss",
+        "Name": "Library Golem",
+        "Classification": 2,
+        "HealthPoints": 70000,
+        "Accuracy": 90,
+        "DamageMin": 1750,
+        "DamageMax": 3500,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2500,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 609,
+        "Grouping": 1,
+        "Identifier": "OrientalStoneStatue1",
+        "Name": "Large Stone Statue",
+        "Classification": 2,
+        "HealthPoints": 400000,
+        "Accuracy": 90,
+        "DamageMin": 450,
+        "DamageMax": 1000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 13000,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 610,
+        "Grouping": 1,
+        "Identifier": "OrientalStoneStatue2",
+        "Name": "Mossy Stone Statue",
+        "Classification": 2,
+        "HealthPoints": 500000,
+        "Accuracy": 90,
+        "DamageMin": 400,
+        "DamageMax": 800,
+        "AttackOrder": 3,
+        "ExperiencePoints": 17000,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 611,
+        "Grouping": 1,
+        "Identifier": "OrientalCannonTower1",
+        "Name": "Giant Cannon",
+        "Classification": 2,
+        "HealthPoints": 35000,
+        "Accuracy": 85,
+        "DamageMin": 7500,
+        "DamageMax": 15000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 1600,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 613,
+        "Grouping": 1,
+        "Identifier": "OrientalInformant",
+        "Name": "Informant",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 90,
+        "DamageMin": 4500,
+        "DamageMax": 9000,
+        "AttackOrder": 2,
+        "ExperiencePoints": 2000,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 614,
+        "Grouping": 1,
+        "Identifier": "OrientalGiantSeaSnake",
+        "Name": "Giant Sea Snake",
+        "Classification": 2,
+        "HealthPoints": 700000,
+        "Accuracy": 80,
+        "DamageMin": 300,
+        "DamageMax": 600,
+        "AttackOrder": 3,
+        "ExperiencePoints": 23000,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 615,
+        "Grouping": 1,
+        "Identifier": "OrientalGuard1",
+        "Name": "Grumpy Guard",
+        "Classification": 2,
+        "HealthPoints": 25000,
+        "Accuracy": 90,
+        "DamageMin": 500,
+        "DamageMax": 1000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 910,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 616,
+        "Grouping": 1,
+        "Identifier": "OrientalGuard2",
+        "Name": "Insane Guard",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 90,
+        "DamageMin": 250,
+        "DamageMax": 500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 1700,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 617,
+        "Grouping": 1,
+        "Identifier": "OrientalCorruptedBolderWorm",
+        "Name": "Corrupted Boulder Worm",
+        "Classification": 2,
+        "HealthPoints": 100000,
+        "Accuracy": 80,
+        "DamageMin": 3500,
+        "DamageMax": 5000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 66000,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 618,
+        "Grouping": 1,
+        "Identifier": "OrientalCorruptedGiantBat",
+        "Name": "Corrupted Giant Bat",
+        "Classification": 2,
+        "HealthPoints": 150000,
+        "Accuracy": 90,
+        "DamageMin": 5500,
+        "DamageMax": 7000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 60000,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 630,
+        "Grouping": 1,
+        "Identifier": "ChupacabraBoss",
+        "Name": "El Chupacabra",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 90,
+        "DamageMin": 350,
+        "DamageMax": 500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 700,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Number": 631,
+        "Grouping": 1,
+        "Identifier": "DragonBoss",
+        "Name": "Ancient Dragon",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 50,
+        "DamageMin": 500,
+        "DamageMax": 750,
+        "AttackOrder": 1,
+        "ExperiencePoints": 400,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 640,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherBoss1",
+        "Name": "Denis the Delinquent",
+        "Classification": 2,
+        "HealthPoints": 5000,
+        "Accuracy": 80,
+        "DamageMin": 100,
+        "DamageMax": 200,
+        "AttackOrder": 1,
+        "ExperiencePoints": 1500,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 641,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherBoss2",
+        "Name": "Alex the Troublemaker",
+        "Classification": 2,
+        "HealthPoints": 17000,
+        "Accuracy": 90,
+        "DamageMin": 700,
+        "DamageMax": 1500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 7500,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 642,
+        "Grouping": 1,
+        "Identifier": "PartyCrasherBoss3",
+        "Name": "Bob the Miscreant",
+        "Classification": 2,
+        "HealthPoints": 35000,
+        "Accuracy": 70,
+        "DamageMin": 1250,
+        "DamageMax": 2500,
+        "AttackOrder": 3,
+        "ExperiencePoints": 17500,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 650,
+        "Grouping": 1,
+        "Identifier": "ChristmasBoss1",
+        "Name": "Croaker",
+        "Classification": 2,
+        "HealthPoints": 10000,
+        "Accuracy": 50,
+        "DamageMin": 500,
+        "DamageMax": 700,
+        "AttackOrder": 3,
+        "ExperiencePoints": 200,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 653,
+        "Grouping": 1,
+        "Identifier": "BirthdayShaman",
+        "Name": "Mystical Shaman",
+        "Classification": 2,
+        "HealthPoints": 9000,
+        "Accuracy": 70,
+        "DamageMin": 200,
+        "DamageMax": 500,
+        "AttackOrder": 2,
+        "ExperiencePoints": 500,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 654,
+        "Grouping": 1,
+        "Identifier": "TMC_v1_NordsRightHandBoss",
+        "Name": "Steel Beard",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 50,
+        "DamageMin": 1500,
+        "DamageMax": 3000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 4900,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 655,
+        "Grouping": 1,
+        "Identifier": "TMC_ColossalEagleBoss",
+        "Name": "Colossal Eagle",
+        "Classification": 2,
+        "HealthPoints": 150000,
+        "Accuracy": 85,
+        "DamageMin": 6400,
+        "DamageMax": 6500,
+        "AttackOrder": 1,
+        "ExperiencePoints": 26000,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 656,
+        "Grouping": 1,
+        "Identifier": "TMC_BossMammoth",
+        "Name": "Mammoth",
+        "Classification": 2,
+        "HealthPoints": 750000,
+        "Accuracy": 90,
+        "DamageMin": 1400,
+        "DamageMax": 1600,
+        "AttackOrder": 1,
+        "ExperiencePoints": 76000,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 657,
+        "Grouping": 1,
+        "Identifier": "TMC_BossWinterTerror",
+        "Name": "Winter Terror",
+        "Classification": 2,
+        "HealthPoints": 45000,
+        "Accuracy": 75,
+        "DamageMin": 9500,
+        "DamageMax": 10000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 22000,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 658,
+        "Grouping": 1,
+        "Identifier": "TMC_BossSmilodon",
+        "Name": "Smilodon",
+        "Classification": 2,
+        "HealthPoints": 45000,
+        "Accuracy": 35,
+        "DamageMin": 17000,
+        "DamageMax": 18000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 34000,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 659,
+        "Grouping": 1,
+        "Identifier": "TMC_BossEnormousIbex",
+        "Name": "Enormous Ibex",
+        "Classification": 2,
+        "HealthPoints": 80000,
+        "Accuracy": 50,
+        "DamageMin": 1000,
+        "DamageMax": 1500,
+        "AttackOrder": 1,
+        "ExperiencePoints": 10000,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 660,
+        "Grouping": 1,
+        "Identifier": "TMC_BossGhastlyWolf",
+        "Name": "Ghastly Wolf",
+        "Classification": 2,
+        "HealthPoints": 10000,
+        "Accuracy": 50,
+        "DamageMin": 5000,
+        "DamageMax": 6000,
+        "AttackOrder": 1,
+        "ExperiencePoints": 11000,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 661,
+        "Grouping": 1,
+        "Identifier": "TMC_BossParagonElk",
+        "Name": "Paragon Elk",
+        "Classification": 2,
+        "HealthPoints": 250000,
+        "Accuracy": 75,
+        "DamageMin": 5000,
+        "DamageMax": 6000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 29000,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 662,
+        "Grouping": 1,
+        "Identifier": "TMC_BossFrostGiantKing_0",
+        "Name": "Risi",
+        "Classification": 2,
+        "HealthPoints": 1000000,
+        "Accuracy": 95,
+        "DamageMin": 550,
+        "DamageMax": 600,
+        "AttackOrder": 1,
+        "ExperiencePoints": 99000,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 663,
+        "Grouping": 1,
+        "Identifier": "TMC_BossFrostGiantKing_1",
+        "Name": "Risi",
+        "Classification": 2,
+        "HealthPoints": 1000000,
+        "Accuracy": 95,
+        "DamageMin": 550,
+        "DamageMax": 600,
+        "AttackOrder": 3,
+        "ExperiencePoints": 99000,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 664,
+        "Grouping": 1,
+        "Identifier": "TMC_BossFrostGiantKing_2",
+        "Name": "Risi",
+        "Classification": 2,
+        "HealthPoints": 900000,
+        "Accuracy": 95,
+        "DamageMin": 550,
+        "DamageMax": 600,
+        "AttackOrder": 3,
+        "ExperiencePoints": 89000,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 665,
+        "Grouping": 1,
+        "Identifier": "TMC_BossFrostGiantKing_3",
+        "Name": "Risi",
+        "Classification": 2,
+        "HealthPoints": 900000,
+        "Accuracy": 95,
+        "DamageMin": 500,
+        "DamageMax": 550,
+        "AttackOrder": 3,
+        "ExperiencePoints": 89000,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 666,
+        "Grouping": 1,
+        "Identifier": "TMC_BossFrostGiantKing_4",
+        "Name": "Risi",
+        "Classification": 2,
+        "HealthPoints": 900000,
+        "Accuracy": 15,
+        "DamageMin": 500,
+        "DamageMax": 550,
+        "AttackOrder": 3,
+        "ExperiencePoints": 89000,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 667,
+        "Grouping": 1,
+        "Identifier": "TMC_BossNordsLeader",
+        "Name": "Bandit Lord Björn",
+        "Classification": 2,
+        "HealthPoints": 35000,
+        "Accuracy": 90,
+        "DamageMin": 3000,
+        "DamageMax": 4000,
+        "AttackOrder": 2,
+        "ExperiencePoints": 6900,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 668,
+        "Grouping": 1,
+        "Identifier": "MadScientistBoss",
+        "Name": "Mad Scientist",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 85,
+        "DamageMin": 750,
+        "DamageMax": 1000,
+        "AttackOrder": 3,
+        "ExperiencePoints": 130,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 669,
+        "Grouping": 1,
+        "Identifier": "DarkLordBoss",
+        "Name": "Dark Lord",
+        "Classification": 2,
+        "HealthPoints": 50000,
+        "Accuracy": 80,
+        "DamageMin": 300,
+        "DamageMax": 600,
+        "AttackOrder": 2,
+        "ExperiencePoints": 170,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 671,
+        "Grouping": 1,
+        "Identifier": "ChristmasBossTwin1",
+        "Name": "Ribbitha",
+        "Classification": 2,
+        "HealthPoints": 30000,
+        "Accuracy": 80,
+        "DamageMin": 700,
+        "DamageMax": 800,
+        "AttackOrder": 2,
+        "ExperiencePoints": 100,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 672,
+        "Grouping": 1,
+        "Identifier": "ChristmasBossTwin2",
+        "Name": "Ribbitha",
+        "Classification": 2,
+        "HealthPoints": 45000,
+        "Accuracy": 80,
+        "DamageMin": 700,
+        "DamageMax": 800,
+        "AttackOrder": 2,
+        "ExperiencePoints": 150,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 673,
+        "Grouping": 1,
+        "Identifier": "ChristmasBossTwin3",
+        "Name": "Ribbitha",
+        "Classification": 2,
+        "HealthPoints": 65000,
+        "Accuracy": 80,
+        "DamageMin": 700,
+        "DamageMax": 800,
+        "AttackOrder": 2,
+        "ExperiencePoints": 200,
+        "Skills": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 800,
+        "Grouping": 1,
+        "Identifier": "TreasureShipLoot",
+        "Name": "Treasure",
+        "Classification": 6,
+        "HealthPoints": 1,
+        "AttackOrder": 2,
+        "ExperiencePoints": 250
+    },
+    {
+        "Number": 901,
+        "Grouping": 2,
+        "Identifier": "General",
+        "Name": "General",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2
+    },
+    {
+        "Number": 903,
+        "Grouping": 2,
+        "Identifier": "StarGeneral2",
+        "Name": "Master of Defense",
+        "Classification": 1,
+        "HealthPoints": 5000,
+        "Accuracy": 80,
+        "DamageMin": 25,
+        "DamageMax": 50,
+        "AttackOrder": 2,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Number": 904,
+        "Grouping": 2,
+        "Identifier": "StarGeneral3",
+        "Name": "Master of Martial Arts",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 450,
+        "DamageMax": 500,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Number": 906,
+        "Grouping": 2,
+        "Identifier": "HalloweenGeneralDracul",
+        "Name": "Lord Dracul",
+        "Classification": 1,
+        "HealthPoints": 999,
+        "Accuracy": 77,
+        "DamageMin": 111,
+        "DamageMax": 333,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Number": 907,
+        "Grouping": 2,
+        "Identifier": "GeneralVargus",
+        "Name": "Champion Vargus",
+        "Classification": 1,
+        "HealthPoints": 200,
+        "Accuracy": 80,
+        "DamageMin": 750,
+        "DamageMax": 1250,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_Vargus"
+        ]
+    },
+    {
+        "Number": 908,
+        "Grouping": 2,
+        "Identifier": "GeneralAnslem",
+        "Name": "Champion Anslem",
+        "Classification": 1,
+        "HealthPoints": 150,
+        "Accuracy": 50,
+        "DamageMin": 1000,
+        "DamageMax": 1500,
+        "AttackOrder": 2,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget",
+            "Trait_Anslem"
+        ]
+    },
+    {
+        "Number": 909,
+        "Grouping": 2,
+        "Identifier": "GeneralNusala",
+        "Name": "Champion Nusala",
+        "Classification": 1,
+        "HealthPoints": 150,
+        "Accuracy": 90,
+        "DamageMin": 1000,
+        "DamageMax": 1500,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "Trait_Nusala"
+        ]
+    },
+    {
+        "Number": 910,
+        "Grouping": 2,
+        "Identifier": "MasterGeneral",
+        "Name": "Battle Hardened General",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2
+    },
+    {
+        "Number": 911,
+        "Grouping": 2,
+        "Identifier": "HalloweenGeneral",
+        "Name": "Grim Reaper General",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2
+    },
+    {
+        "Number": 912,
+        "Grouping": 2,
+        "Identifier": "RetailBoxGeneral",
+        "Name": "General Bighelmet",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2
+    },
+    {
+        "Number": 913,
+        "Grouping": 2,
+        "Identifier": "EasterGeneral",
+        "Name": "Veteran",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2
+    },
+    {
+        "Number": 914,
+        "Grouping": 2,
+        "Identifier": "RetailBox2General",
+        "Name": "General Log",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2
+    },
+    {
+        "Number": 915,
+        "Grouping": 2,
+        "Identifier": "MajorGeneral",
+        "Name": "Major General",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2
+    },
+    {
+        "Number": 918,
+        "Grouping": 2,
+        "Identifier": "GeneralMary",
+        "Name": "General Mary Christmas",
+        "Classification": 1,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 125,
+        "DamageMax": 250,
+        "AttackOrder": 2,
+        "Skills": [
+            "Trait_MaryDoubleXP"
+        ]
+    },
+    {
+        "Number": 919,
+        "Grouping": 2,
+        "Identifier": "MedicGeneral",
+        "Name": "Field Medic General",
+        "Classification": 1,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 120,
+        "DamageMax": 120,
+        "AttackOrder": 2,
+        "Skills": [
+            "Trait_MedicResurrectLosses"
+        ]
+    },
+    {
+        "Number": 920,
+        "Grouping": 2,
+        "Identifier": "MadScientistGeneral",
+        "Name": "Mad Scientist",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 60,
+        "DamageMin": 300,
+        "DamageMax": 600,
+        "AttackOrder": 3,
+        "Skills": [
+            "UnitSkillBonusDamageBuildings",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike",
+            "Trait_MadScientist"
+        ]
+    },
+    {
+        "Number": 921,
+        "Grouping": 2,
+        "Identifier": "BorisGeneral",
+        "Name": "General Boris",
+        "Classification": 1,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 700,
+        "DamageMax": 1000,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Boris"
+        ]
+    },
+    {
+        "Number": 922,
+        "Grouping": 2,
+        "Identifier": "Anniversary2019General",
+        "Name": "Older Gemini General",
+        "Classification": 1,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 125,
+        "DamageMax": 250,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_Anniversary2019General"
+        ]
+    },
+    {
+        "Number": 923,
+        "Grouping": 2,
+        "Identifier": "Halloween2019General",
+        "Name": "Younger Gemini General",
+        "Classification": 1,
+        "HealthPoints": 2000,
+        "Accuracy": 90,
+        "DamageMin": 4500,
+        "DamageMax": 5000,
+        "AttackOrder": 2,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Halloween2019General"
+        ]
+    },
+    {
+        "Number": 924,
+        "Grouping": 2,
+        "Identifier": "Xmas2019General",
+        "Name": "Steadfast General",
+        "Classification": 1,
+        "HealthPoints": 10000,
+        "Accuracy": 70,
+        "DamageMin": 100,
+        "DamageMax": 200,
+        "AttackOrder": 2,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Xmas2019General"
+        ]
+    },
+    {
+        "Number": 925,
+        "Grouping": 2,
+        "Identifier": "AssassinGeneral",
+        "Name": "Cloaked General",
+        "Classification": 1,
+        "HealthPoints": 1000,
+        "Accuracy": 10,
+        "DamageMin": 500,
+        "DamageMax": 5000,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_AssassinGeneral"
+        ]
+    },
+    {
+        "Number": 926,
+        "Grouping": 2,
+        "Identifier": "SylvanaGeneral",
+        "Name": "General Sylvana",
+        "Classification": 1,
+        "HealthPoints": 100,
+        "Accuracy": 80,
+        "DamageMin": 700,
+        "DamageMax": 1000,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Sylvana"
+        ]
+    },
+    {
+        "Number": 927,
+        "Grouping": 2,
+        "Identifier": "GeneralTrembleBeard",
+        "Name": "General Tremble Beard",
+        "Classification": 1,
+        "HealthPoints": 1,
+        "Accuracy": 90,
+        "DamageMin": 375,
+        "DamageMax": 425,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_TrembleBeard"
+        ]
+    },
+    {
+        "Number": 928,
+        "Grouping": 2,
+        "Identifier": "GhostGeneral",
+        "Name": "Ghost General",
+        "Classification": 1,
+        "HealthPoints": 2,
+        "Accuracy": 85,
+        "DamageMin": 777,
+        "DamageMax": 999,
+        "AttackOrder": 3,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_GhostGeneral"
+        ]
+    },
+    {
+        "Number": 929,
+        "Grouping": 2,
+        "Identifier": "FrostyGeneral",
+        "Name": "Frosty General",
+        "Classification": 1,
+        "HealthPoints": 2412,
+        "Accuracy": 24,
+        "DamageMin": 2412,
+        "DamageMax": 2612,
+        "AttackOrder": 2,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "Trait_FrostyGeneral"
+        ]
+    },
+    {
+        "Number": 930,
+        "Grouping": 2,
+        "Identifier": "LonerGeneral",
+        "Name": "Loner General",
+        "Classification": 1,
+        "HealthPoints": 500,
+        "Accuracy": 95,
+        "DamageMin": 500,
+        "DamageMax": 2000,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_LonerGeneral"
+        ]
+    },
+    {
+        "Number": 931,
+        "Grouping": 2,
+        "Identifier": "GeneralLoudmouth",
+        "Name": "General Loudmouth",
+        "Classification": 1,
+        "HealthPoints": 300,
+        "Accuracy": 80,
+        "DamageMin": 800,
+        "DamageMax": 1100,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillFirstStrike",
+            "Trait_Loudmouth"
+        ]
+    },
+    {
+        "Number": 932,
+        "Grouping": 2,
+        "Identifier": "NutcrackerGeneral",
+        "Name": "Nutcracker General",
+        "Classification": 1,
+        "HealthPoints": 3000,
+        "Accuracy": 70,
+        "DamageMin": 500,
+        "DamageMax": 2000,
+        "AttackOrder": 2,
+        "Skills": [
+            "UnitSkillAttackWeakestTarget",
+            "Trait_Nutcracker"
+        ]
+    },
+    {
+        "Number": 933,
+        "Grouping": 2,
+        "Identifier": "MiraculousGeneral",
+        "Name": "Miraculous General",
+        "Classification": 1,
+        "HealthPoints": 300,
+        "Accuracy": 80,
+        "DamageMin": 400,
+        "DamageMax": 800,
+        "AttackOrder": 3,
+        "Skills": [
+            "UnitSkillLastStrike",
+            "Trait_Miraculous"
+        ]
+    },
+    {
+        "Number": 934,
+        "Grouping": 2,
+        "Identifier": "ResoluteGeneral",
+        "Name": "Resolute General",
+        "Classification": 1,
+        "HealthPoints": 3000,
+        "Accuracy": 85,
+        "DamageMin": 400,
+        "DamageMax": 600,
+        "AttackOrder": 2,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "Trait_Resolute"
+        ]
+    },
+    {
+        "Number": 950,
+        "Grouping": 2,
+        "Identifier": "JuanGeneral",
+        "Name": "General Juan",
+        "Classification": 1,
+        "HealthPoints": 500,
+        "Accuracy": 80,
+        "DamageMin": 700,
+        "DamageMax": 800,
+        "AttackOrder": 1,
+        "Skills": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "Trait_MaryDoubleXP",
+            "Trait_Anniversary2019General"
+        ]
+    }
+]
