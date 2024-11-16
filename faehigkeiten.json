@@ -1,0 +1,3951 @@
+[
+    {
+        "Nummer": 0,
+        "Kennung": "Missing",
+        "Name": "Missing"
+    },
+    {
+        "Nummer": 1,
+        "Gruppierung": 1,
+        "Kennung": "Recruit",
+        "Name": "Recruit",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 180,
+        "Lebenspunkte": 40,
+        "Trefferquote": 80,
+        "SchadenMin": 15,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2
+    },
+    {
+        "Nummer": 2,
+        "Gruppierung": 1,
+        "Kennung": "Militia",
+        "Name": "Militia",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 480,
+        "Lebenspunkte": 60,
+        "Trefferquote": 80,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 9
+    },
+    {
+        "Nummer": 6,
+        "Gruppierung": 1,
+        "Kennung": "Bowman",
+        "Name": "Bowman",
+        "Klassifikation": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 240,
+        "Lebenspunkte": 10,
+        "Trefferquote": 80,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3
+    },
+    {
+        "Nummer": 5,
+        "Gruppierung": 1,
+        "Kennung": "Cavalry",
+        "Name": "Cavalry",
+        "Klassifikation": 4,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "Lebenspunkte": 5,
+        "Trefferquote": 80,
+        "SchadenMin": 5,
+        "SchadenMax": 10,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 8,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 3,
+        "Gruppierung": 1,
+        "Kennung": "Soldier",
+        "Name": "Soldier",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "Lebenspunkte": 90,
+        "Trefferquote": 85,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 6
+    },
+    {
+        "Nummer": 7,
+        "Gruppierung": 1,
+        "Kennung": "Longbowman",
+        "Name": "Longbowman",
+        "Klassifikation": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 480,
+        "Lebenspunkte": 10,
+        "Trefferquote": 80,
+        "SchadenMin": 30,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 8
+    },
+    {
+        "Nummer": 4,
+        "Gruppierung": 1,
+        "Kennung": "EliteSoldier",
+        "Name": "Elite Soldier",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "Lebenspunkte": 120,
+        "Trefferquote": 90,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 20
+    },
+    {
+        "Nummer": 8,
+        "Gruppierung": 1,
+        "Kennung": "Crossbowman",
+        "Name": "Crossbowman",
+        "Klassifikation": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 720,
+        "Lebenspunkte": 10,
+        "Trefferquote": 80,
+        "SchadenMin": 45,
+        "SchadenMax": 90,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 20
+    },
+    {
+        "Nummer": 9,
+        "Gruppierung": 1,
+        "Kennung": "Cannoneer",
+        "Name": "Cannoneer",
+        "Klassifikation": 5,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "Lebenspunkte": 60,
+        "Trefferquote": 90,
+        "SchadenMin": 60,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 30,
+        "Fähigkeiten": [
+            "UnitSkillBonusDamageBuildings",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 10,
+        "Gruppierung": 1,
+        "Kennung": "Swordsman",
+        "Name": "Swordsman",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 900,
+        "Lebenspunkte": 150,
+        "Trefferquote": 90,
+        "SchadenMin": 40,
+        "SchadenMax": 80,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 49
+    },
+    {
+        "Nummer": 11,
+        "Gruppierung": 1,
+        "Kennung": "MountedSwordsman",
+        "Name": "Mounted Swordsman",
+        "Klassifikation": 6,
+        "pelaajayksikkö": true,
+        "barracksAika": 1800,
+        "Lebenspunkte": 250,
+        "Trefferquote": 90,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 66
+    },
+    {
+        "Nummer": 12,
+        "Gruppierung": 1,
+        "Kennung": "Knight",
+        "Name": "Knight",
+        "Klassifikation": 4,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "Lebenspunkte": 80,
+        "Trefferquote": 90,
+        "SchadenMin": 35,
+        "SchadenMax": 70,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 18,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 13,
+        "Gruppierung": 1,
+        "Kennung": "Marksman",
+        "Name": "Marksman",
+        "Klassifikation": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 900,
+        "Lebenspunkte": 50,
+        "Trefferquote": 90,
+        "SchadenMin": 50,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 21
+    },
+    {
+        "Nummer": 14,
+        "Gruppierung": 1,
+        "Kennung": "ArmoredMarksman",
+        "Name": "Armored Marksman",
+        "Klassifikation": 3,
+        "pelaajayksikkö": true,
+        "barracksAika": 1800,
+        "Lebenspunkte": 50,
+        "Trefferquote": 90,
+        "SchadenMin": 100,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 69,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 15,
+        "Gruppierung": 1,
+        "Kennung": "MountedMarksman",
+        "Name": "Mounted Marksman",
+        "Klassifikation": 4,
+        "pelaajayksikkö": true,
+        "barracksAika": 1800,
+        "Lebenspunkte": 50,
+        "Trefferquote": 90,
+        "SchadenMin": 50,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 38,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 16,
+        "Gruppierung": 1,
+        "Kennung": "Besieger",
+        "Name": "Besieger",
+        "Klassifikation": 5,
+        "pelaajayksikkö": true,
+        "barracksAika": 1200,
+        "Lebenspunkte": 80,
+        "Trefferquote": 90,
+        "SchadenMin": 100,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 70,
+        "Fähigkeiten": [
+            "UnitSkillBonusDamageBuildings",
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 50,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossFrostBearMatriarch",
+        "Name": "Frost Bear Matriarch",
+        "Klassifikation": 2,
+        "Lebenspunkte": 600000,
+        "Trefferquote": 85,
+        "SchadenMin": 300,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 60000,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 51,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossRavagingOx",
+        "Name": "Ravaging Ox",
+        "Klassifikation": 2,
+        "Lebenspunkte": 100000,
+        "Trefferquote": 50,
+        "SchadenMin": 600,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 10000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 52,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossGargantuanLynx",
+        "Name": "Gargantuan Lynx",
+        "Klassifikation": 2,
+        "Lebenspunkte": 20000,
+        "Trefferquote": 50,
+        "SchadenMin": 2500,
+        "SchadenMax": 3500,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 7200,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 100,
+        "Gruppierung": 1,
+        "Kennung": "BanditBoss5",
+        "Name": "Wild Mary",
+        "Klassifikation": 2,
+        "Lebenspunkte": 60000,
+        "Trefferquote": 50,
+        "SchadenMin": 740,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 430,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 101,
+        "Gruppierung": 1,
+        "Kennung": "BanditBoss4",
+        "Name": "Chuck",
+        "Klassifikation": 2,
+        "Lebenspunkte": 9000,
+        "Trefferquote": 50,
+        "SchadenMin": 2000,
+        "SchadenMax": 2500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 250,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 102,
+        "Gruppierung": 1,
+        "Kennung": "BanditBoss3",
+        "Name": "Metal Tooth",
+        "Klassifikation": 2,
+        "Lebenspunkte": 11000,
+        "Trefferquote": 50,
+        "SchadenMin": 250,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 160,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 103,
+        "Gruppierung": 1,
+        "Kennung": "BanditRecruit",
+        "Name": "Scavenger",
+        "Klassifikation": 6,
+        "Lebenspunkte": 40,
+        "Trefferquote": 60,
+        "SchadenMin": 15,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 4
+    },
+    {
+        "Nummer": 104,
+        "Gruppierung": 1,
+        "Kennung": "BanditMilitia",
+        "Name": "Thug",
+        "Klassifikation": 6,
+        "Lebenspunkte": 60,
+        "Trefferquote": 60,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3
+    },
+    {
+        "Nummer": 105,
+        "Gruppierung": 1,
+        "Kennung": "BanditCavalry",
+        "Name": "Guard Dog",
+        "Klassifikation": 4,
+        "Lebenspunkte": 5,
+        "Trefferquote": 60,
+        "SchadenMin": 5,
+        "SchadenMax": 10,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 4,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 106,
+        "Gruppierung": 1,
+        "Kennung": "BanditSoldier",
+        "Name": "Roughneck",
+        "Klassifikation": 6,
+        "Lebenspunkte": 90,
+        "Trefferquote": 60,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 6
+    },
+    {
+        "Nummer": 107,
+        "Gruppierung": 1,
+        "Kennung": "BanditBowman",
+        "Name": "Stone Thrower",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 60,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3
+    },
+    {
+        "Nummer": 108,
+        "Gruppierung": 1,
+        "Kennung": "BanditLongbowman",
+        "Name": "Ranger",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 60,
+        "SchadenMin": 30,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 4
+    },
+    {
+        "Nummer": 110,
+        "Gruppierung": 1,
+        "Kennung": "PirateCavalry",
+        "Name": "Caltrop",
+        "Klassifikation": 4,
+        "Lebenspunkte": 4,
+        "Trefferquote": 33,
+        "SchadenMax": 20,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 1,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 111,
+        "Gruppierung": 1,
+        "Kennung": "PirateRecruit",
+        "Name": "Deckscrubber",
+        "Klassifikation": 6,
+        "Lebenspunkte": 15,
+        "Trefferquote": 50,
+        "SchadenMin": 10,
+        "SchadenMax": 15,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1
+    },
+    {
+        "Nummer": 112,
+        "Gruppierung": 1,
+        "Kennung": "PirateMilitia",
+        "Name": "Sabrerattler",
+        "Klassifikation": 6,
+        "Lebenspunkte": 30,
+        "Trefferquote": 50,
+        "SchadenMin": 10,
+        "SchadenMax": 20,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2
+    },
+    {
+        "Nummer": 113,
+        "Gruppierung": 1,
+        "Kennung": "PirateBoss1",
+        "Name": "Crazy Ship's Cook",
+        "Klassifikation": 2,
+        "Lebenspunkte": 5000,
+        "Trefferquote": 66,
+        "SchadenMin": 200,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 200,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 114,
+        "Gruppierung": 1,
+        "Kennung": "PirateBowman",
+        "Name": "Knife Thrower",
+        "Klassifikation": 3,
+        "Lebenspunkte": 5,
+        "Trefferquote": 50,
+        "SchadenMin": 10,
+        "SchadenMax": 20,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1
+    },
+    {
+        "Nummer": 115,
+        "Gruppierung": 1,
+        "Kennung": "PirateLongbowman",
+        "Name": "Gunman",
+        "Klassifikation": 3,
+        "Lebenspunkte": 5,
+        "Trefferquote": 50,
+        "SchadenMin": 20,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2
+    },
+    {
+        "Nummer": 116,
+        "Gruppierung": 1,
+        "Kennung": "PirateCaptain",
+        "Name": "Petty Officer Second class",
+        "Klassifikation": 6,
+        "Lebenspunkte": 60,
+        "Trefferquote": 70,
+        "SchadenMin": 40,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 6,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 120,
+        "Gruppierung": 1,
+        "Kennung": "KingdomRecruit",
+        "Name": "Recruit Deserter",
+        "Klassifikation": 6,
+        "Lebenspunkte": 40,
+        "Trefferquote": 60,
+        "SchadenMin": 15,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2
+    },
+    {
+        "Nummer": 121,
+        "Gruppierung": 1,
+        "Kennung": "KingdomMilitia",
+        "Name": "Militia Deserter",
+        "Klassifikation": 6,
+        "Lebenspunkte": 60,
+        "Trefferquote": 60,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 4
+    },
+    {
+        "Nummer": 122,
+        "Gruppierung": 1,
+        "Kennung": "KingdomCavalry",
+        "Name": "Cavalry Deserter",
+        "Klassifikation": 4,
+        "Lebenspunkte": 5,
+        "Trefferquote": 60,
+        "SchadenMin": 5,
+        "SchadenMax": 10,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 4,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 123,
+        "Gruppierung": 1,
+        "Kennung": "KingdomSoldier",
+        "Name": "Soldier Deserter",
+        "Klassifikation": 6,
+        "Lebenspunkte": 90,
+        "Trefferquote": 65,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 6
+    },
+    {
+        "Nummer": 124,
+        "Gruppierung": 1,
+        "Kennung": "KingdomEliteSoldier",
+        "Name": "Elite Soldier Deserter",
+        "Klassifikation": 6,
+        "Lebenspunkte": 120,
+        "Trefferquote": 70,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 8
+    },
+    {
+        "Nummer": 125,
+        "Gruppierung": 1,
+        "Kennung": "KingdomBowman",
+        "Name": "Bowman Deserter",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 60,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3
+    },
+    {
+        "Nummer": 126,
+        "Gruppierung": 1,
+        "Kennung": "KingdomLongbowman",
+        "Name": "Longbowman Deserter",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 60,
+        "SchadenMin": 30,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 5
+    },
+    {
+        "Nummer": 127,
+        "Gruppierung": 1,
+        "Kennung": "KingdomCrossbowman",
+        "Name": "Crossbowman Deserter",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 60,
+        "SchadenMin": 45,
+        "SchadenMax": 90,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 7
+    },
+    {
+        "Nummer": 128,
+        "Gruppierung": 1,
+        "Kennung": "KingdomCannoneer",
+        "Name": "Cannoneer Deserter",
+        "Klassifikation": 5,
+        "Lebenspunkte": 60,
+        "Trefferquote": 70,
+        "SchadenMin": 60,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 15,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 130,
+        "Gruppierung": 1,
+        "Kennung": "CultBoss3",
+        "Name": "Spawn of Hell",
+        "Klassifikation": 2,
+        "Lebenspunkte": 35000,
+        "Trefferquote": 75,
+        "SchadenMin": 700,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 500,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 131,
+        "Gruppierung": 1,
+        "Kennung": "CultRecruit",
+        "Name": "Cultist",
+        "Klassifikation": 6,
+        "Lebenspunkte": 40,
+        "Trefferquote": 80,
+        "SchadenMin": 15,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3
+    },
+    {
+        "Nummer": 132,
+        "Gruppierung": 1,
+        "Kennung": "CultBoss1",
+        "Name": "Witch of the Swamp",
+        "Klassifikation": 2,
+        "Lebenspunkte": 13000,
+        "Trefferquote": 75,
+        "SchadenMin": 400,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 250,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 133,
+        "Gruppierung": 1,
+        "Kennung": "CultCavalry",
+        "Name": "Shadowsneaker",
+        "Klassifikation": 4,
+        "Lebenspunkte": 5,
+        "Trefferquote": 60,
+        "SchadenMax": 5,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 6,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 134,
+        "Gruppierung": 1,
+        "Kennung": "CultBowman",
+        "Name": "Fanatic",
+        "Klassifikation": 3,
+        "Lebenspunkte": 20,
+        "Trefferquote": 90,
+        "SchadenMin": 30,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 6
+    },
+    {
+        "Nummer": 135,
+        "Gruppierung": 1,
+        "Kennung": "CultLongbowman",
+        "Name": "Dark Priest",
+        "Klassifikation": 3,
+        "Lebenspunkte": 20,
+        "Trefferquote": 100,
+        "SchadenMin": 40,
+        "SchadenMax": 80,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 8
+    },
+    {
+        "Nummer": 136,
+        "Gruppierung": 1,
+        "Kennung": "CultCrossbowman",
+        "Name": "Firedancer",
+        "Klassifikation": 3,
+        "Lebenspunkte": 30,
+        "Trefferquote": 100,
+        "SchadenMin": 60,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 14
+    },
+    {
+        "Nummer": 137,
+        "Gruppierung": 1,
+        "Kennung": "CultCanoneer",
+        "Name": "Dancing Dervish",
+        "Klassifikation": 5,
+        "Lebenspunkte": 90,
+        "Trefferquote": 90,
+        "SchadenMin": 60,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 20,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 140,
+        "Gruppierung": 1,
+        "Kennung": "RaidersRecruit",
+        "Name": "Nomad",
+        "Klassifikation": 6,
+        "Lebenspunkte": 30,
+        "Trefferquote": 60,
+        "SchadenMin": 10,
+        "SchadenMax": 20,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2
+    },
+    {
+        "Nummer": 141,
+        "Gruppierung": 1,
+        "Kennung": "RaidersCavalry",
+        "Name": "Lance Rider",
+        "Klassifikation": 4,
+        "Lebenspunkte": 20,
+        "Trefferquote": 90,
+        "SchadenMin": 5,
+        "SchadenMax": 20,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 4,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 142,
+        "Gruppierung": 1,
+        "Kennung": "RaidersCavalryBow",
+        "Name": "Riding Bowman",
+        "Klassifikation": 4,
+        "Lebenspunkte": 20,
+        "Trefferquote": 90,
+        "SchadenMin": 30,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 6,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 143,
+        "Gruppierung": 1,
+        "Kennung": "RaidersCavalryLongbow",
+        "Name": "Riding Amazonian Guard",
+        "Klassifikation": 4,
+        "Lebenspunkte": 20,
+        "Trefferquote": 90,
+        "SchadenMin": 40,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 8,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 144,
+        "Gruppierung": 1,
+        "Kennung": "RaidersCavalryCrossbow",
+        "Name": "Cataphract",
+        "Klassifikation": 4,
+        "Lebenspunkte": 20,
+        "Trefferquote": 100,
+        "SchadenMin": 90,
+        "SchadenMax": 90,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 12,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 145,
+        "Gruppierung": 1,
+        "Kennung": "RaidersBoss1",
+        "Name": "Uproarious Bull",
+        "Klassifikation": 2,
+        "Lebenspunkte": 2000,
+        "Trefferquote": 100,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 50,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 146,
+        "Gruppierung": 1,
+        "Kennung": "RaidersBowman",
+        "Name": "Composite Bowman",
+        "Klassifikation": 3,
+        "Lebenspunkte": 20,
+        "Trefferquote": 80,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 2,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 150,
+        "Gruppierung": 1,
+        "Kennung": "NordsEliteSoldier",
+        "Name": "Jomsviking",
+        "Klassifikation": 5,
+        "Lebenspunkte": 140,
+        "Trefferquote": 95,
+        "SchadenMin": 60,
+        "SchadenMax": 80,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 14,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 151,
+        "Gruppierung": 1,
+        "Kennung": "NordsSoldier",
+        "Name": "Housecarl",
+        "Klassifikation": 5,
+        "Lebenspunkte": 140,
+        "Trefferquote": 90,
+        "SchadenMin": 40,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 10,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 152,
+        "Gruppierung": 1,
+        "Kennung": "NordsMilitia",
+        "Name": "Karl",
+        "Klassifikation": 5,
+        "Lebenspunkte": 80,
+        "Trefferquote": 90,
+        "SchadenMin": 40,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 6,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 153,
+        "Gruppierung": 1,
+        "Kennung": "NordsRecruit",
+        "Name": "Thrall",
+        "Klassifikation": 5,
+        "Lebenspunkte": 60,
+        "Trefferquote": 85,
+        "SchadenMin": 20,
+        "SchadenMax": 25,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 3,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 154,
+        "Gruppierung": 1,
+        "Kennung": "NordsBowman",
+        "Name": "Valkyrie",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 60,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3
+    },
+    {
+        "Nummer": 155,
+        "Gruppierung": 1,
+        "Kennung": "NordsCanoneer",
+        "Name": "Berserk",
+        "Klassifikation": 5,
+        "Lebenspunkte": 90,
+        "Trefferquote": 70,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 20,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 160,
+        "Gruppierung": 1,
+        "Kennung": "NeutralCavalry",
+        "Name": "Grey Wolf",
+        "Klassifikation": 4,
+        "Lebenspunkte": 10,
+        "Trefferquote": 80,
+        "SchadenMin": 2,
+        "SchadenMax": 3,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 1,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 180,
+        "Gruppierung": 1,
+        "Kennung": "MayaRecruit",
+        "Name": "Tribesman",
+        "Klassifikation": 6,
+        "Lebenspunkte": 40,
+        "Trefferquote": 80,
+        "SchadenMin": 15,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1
+    },
+    {
+        "Nummer": 181,
+        "Gruppierung": 1,
+        "Kennung": "MayaCavalry",
+        "Name": "Shaman",
+        "Klassifikation": 4,
+        "Lebenspunkte": 5,
+        "Trefferquote": 60,
+        "SchadenMax": 5,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 1,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 182,
+        "Gruppierung": 1,
+        "Kennung": "MayaCanoneer",
+        "Name": "Jaguar Warrior",
+        "Klassifikation": 5,
+        "Lebenspunkte": 90,
+        "Trefferquote": 90,
+        "SchadenMin": 60,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 2,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 190,
+        "Gruppierung": 1,
+        "Kennung": "WildlifeRecruit",
+        "Name": "Boar",
+        "Klassifikation": 6,
+        "Lebenspunkte": 100,
+        "Trefferquote": 85,
+        "SchadenMin": 30,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 12
+    },
+    {
+        "Nummer": 191,
+        "Gruppierung": 1,
+        "Kennung": "WildlifeMilitia",
+        "Name": "Bear",
+        "Klassifikation": 6,
+        "Lebenspunkte": 140,
+        "Trefferquote": 95,
+        "SchadenMin": 70,
+        "SchadenMax": 90,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 18,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 192,
+        "Gruppierung": 1,
+        "Kennung": "WildlifeBowman",
+        "Name": "Wolf",
+        "Klassifikation": 3,
+        "Lebenspunkte": 40,
+        "Trefferquote": 85,
+        "SchadenMin": 60,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 10
+    },
+    {
+        "Nummer": 193,
+        "Gruppierung": 1,
+        "Kennung": "WildlifeLongbowman",
+        "Name": "Wolf Packleader",
+        "Klassifikation": 3,
+        "Lebenspunkte": 60,
+        "Trefferquote": 95,
+        "SchadenMin": 80,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 15,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 194,
+        "Gruppierung": 1,
+        "Kennung": "WildlifeCavalry",
+        "Name": "Fox",
+        "Klassifikation": 4,
+        "Lebenspunkte": 30,
+        "Trefferquote": 95,
+        "SchadenMin": 10,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 12,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 195,
+        "Gruppierung": 1,
+        "Kennung": "WildlifeCannoneer",
+        "Name": "Giant",
+        "Klassifikation": 5,
+        "Lebenspunkte": 160,
+        "Trefferquote": 95,
+        "SchadenMin": 60,
+        "SchadenMax": 90,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 26,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 196,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidKingdomRecruit",
+        "Name": "Royal Recruit",
+        "Klassifikation": 6,
+        "Lebenspunkte": 120,
+        "Trefferquote": 85,
+        "SchadenMin": 30,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 14
+    },
+    {
+        "Nummer": 197,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidKingdomMilitia",
+        "Name": "Royal Militia",
+        "Klassifikation": 6,
+        "Lebenspunkte": 160,
+        "Trefferquote": 95,
+        "SchadenMin": 70,
+        "SchadenMax": 90,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 17,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 199,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidKingdomBowman",
+        "Name": "Royal Bowman",
+        "Klassifikation": 3,
+        "Lebenspunkte": 40,
+        "Trefferquote": 85,
+        "SchadenMin": 60,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 12
+    },
+    {
+        "Nummer": 200,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidKingdomLongbowman",
+        "Name": "Royal Longbowman",
+        "Klassifikation": 3,
+        "Lebenspunkte": 60,
+        "Trefferquote": 95,
+        "SchadenMin": 80,
+        "SchadenMax": 140,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 16,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 201,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidKingdomCavalry",
+        "Name": "Royal Cavalry",
+        "Klassifikation": 4,
+        "Lebenspunkte": 40,
+        "Trefferquote": 95,
+        "SchadenMin": 10,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 15,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 202,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidKingdomCannoneer",
+        "Name": "Royal Cannoneer",
+        "Klassifikation": 5,
+        "Lebenspunkte": 200,
+        "Trefferquote": 95,
+        "SchadenMin": 60,
+        "SchadenMax": 90,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 28,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 220,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditRecruit",
+        "Name": "Sword Clasher",
+        "Klassifikation": 6,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 75,
+        "SchadenMax": 150,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 27,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 221,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditMilitia",
+        "Name": "Sword Wielder",
+        "Klassifikation": 6,
+        "Lebenspunkte": 300,
+        "Trefferquote": 80,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 35,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 222,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditSoldier",
+        "Name": "Sword Master",
+        "Klassifikation": 6,
+        "Lebenspunkte": 500,
+        "Trefferquote": 80,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 55,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 223,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditCavalry",
+        "Name": "Horseman",
+        "Klassifikation": 4,
+        "Lebenspunkte": 50,
+        "Trefferquote": 80,
+        "SchadenMin": 50,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 22,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 224,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBowman",
+        "Name": "Dune Marksman",
+        "Klassifikation": 3,
+        "Lebenspunkte": 30,
+        "Trefferquote": 80,
+        "SchadenMin": 100,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 26,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 225,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditLongbowman",
+        "Name": "Desert Marksman",
+        "Klassifikation": 3,
+        "Lebenspunkte": 80,
+        "Trefferquote": 80,
+        "SchadenMin": 50,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 15,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 226,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditCavalryBowman",
+        "Name": "Mounted Bowman",
+        "Klassifikation": 4,
+        "Lebenspunkte": 70,
+        "Trefferquote": 80,
+        "SchadenMin": 35,
+        "SchadenMax": 70,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 23,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 227,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditCanoneer",
+        "Name": "Stone Cannon",
+        "Klassifikation": 5,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 150,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 36,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 230,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorRecruit",
+        "Name": "Sailor",
+        "Klassifikation": 6,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 50,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 21,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 231,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorMilitia",
+        "Name": "Battle Hardened Sailor",
+        "Klassifikation": 6,
+        "Lebenspunkte": 200,
+        "Trefferquote": 80,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 26,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 232,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorCavalry",
+        "Name": "Mounted Sailor",
+        "Klassifikation": 4,
+        "Lebenspunkte": 50,
+        "Trefferquote": 80,
+        "SchadenMin": 35,
+        "SchadenMax": 70,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 17,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 233,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorBowman",
+        "Name": "Boatswain",
+        "Klassifikation": 4,
+        "Lebenspunkte": 40,
+        "Trefferquote": 80,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 15,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 234,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorLongbowman",
+        "Name": "Petty Officer Second Class",
+        "Klassifikation": 3,
+        "Lebenspunkte": 70,
+        "Trefferquote": 80,
+        "SchadenMin": 35,
+        "SchadenMax": 70,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 17,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 235,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorCanoneer",
+        "Name": "Cannon Master",
+        "Klassifikation": 5,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 100,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 27,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 240,
+        "Gruppierung": 1,
+        "Kennung": "OrientalApe1",
+        "Name": "Stick-wielding Ape",
+        "Klassifikation": 6,
+        "Lebenspunkte": 150,
+        "Trefferquote": 95,
+        "SchadenMin": 90,
+        "SchadenMax": 180,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 37,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 241,
+        "Gruppierung": 1,
+        "Kennung": "OrientalApe2",
+        "Name": "Stone-throwing Ape",
+        "Klassifikation": 4,
+        "Lebenspunkte": 70,
+        "Trefferquote": 95,
+        "SchadenMin": 125,
+        "SchadenMax": 250,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 67,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 242,
+        "Gruppierung": 1,
+        "Kennung": "OrientalApe3",
+        "Name": "Alpha Ape",
+        "Klassifikation": 5,
+        "Lebenspunkte": 500,
+        "Trefferquote": 95,
+        "SchadenMin": 35,
+        "SchadenMax": 70,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 56,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 243,
+        "Gruppierung": 1,
+        "Kennung": "OrientalApe4",
+        "Name": "Nervous Ape",
+        "Klassifikation": 4,
+        "Lebenspunkte": 100,
+        "Trefferquote": 95,
+        "SchadenMin": 80,
+        "SchadenMax": 160,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 40,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 277,
+        "Gruppierung": 1,
+        "Kennung": "BlondeBowman",
+        "Name": "Blonde Bowman",
+        "Klassifikation": 3,
+        "Lebenspunkte": 70,
+        "Trefferquote": 80,
+        "SchadenMin": 100,
+        "SchadenMax": 150,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 25,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 278,
+        "Gruppierung": 1,
+        "Kennung": "DefensiveMiner",
+        "Name": "Defensive Miner",
+        "Klassifikation": 6,
+        "Lebenspunkte": 150,
+        "Trefferquote": 80,
+        "SchadenMin": 75,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 20,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 279,
+        "Gruppierung": 1,
+        "Kennung": "GoldenGuard",
+        "Name": "Golden Guard",
+        "Klassifikation": 5,
+        "Lebenspunkte": 280,
+        "Trefferquote": 85,
+        "SchadenMin": 150,
+        "SchadenMax": 220,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 55,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 293,
+        "Gruppierung": 1,
+        "Kennung": "RecklessRider",
+        "Name": "Reckless Rider",
+        "Klassifikation": 4,
+        "Lebenspunkte": 60,
+        "Trefferquote": 80,
+        "SchadenMin": 130,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 45,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 294,
+        "Gruppierung": 1,
+        "Kennung": "FirmDefender",
+        "Name": "Firm Defender",
+        "Klassifikation": 6,
+        "Lebenspunkte": 200,
+        "Trefferquote": 80,
+        "SchadenMin": 90,
+        "SchadenMax": 130,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 30,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 674,
+        "Gruppierung": 1,
+        "Kennung": "SlickBanditBoss",
+        "Name": "Slick Bandit Boss",
+        "Klassifikation": 2,
+        "Lebenspunkte": 6000,
+        "Trefferquote": 40,
+        "SchadenMin": 2200,
+        "SchadenMax": 3000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 700,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 250,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherRecruit",
+        "Name": "Rascal",
+        "Klassifikation": 6,
+        "Lebenspunkte": 20,
+        "Trefferquote": 90,
+        "SchadenMin": 15,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2
+    },
+    {
+        "Nummer": 251,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherMilitia",
+        "Name": "Vandal",
+        "Klassifikation": 6,
+        "Lebenspunkte": 50,
+        "Trefferquote": 90,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 9
+    },
+    {
+        "Nummer": 252,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherSoldier",
+        "Name": "Bully",
+        "Klassifikation": 6,
+        "Lebenspunkte": 90,
+        "Trefferquote": 90,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 10
+    },
+    {
+        "Nummer": 253,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherCavalry",
+        "Name": "Prankster",
+        "Klassifikation": 4,
+        "Lebenspunkte": 20,
+        "Trefferquote": 80,
+        "SchadenMin": 10,
+        "SchadenMax": 20,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 9,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 254,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherBowman",
+        "Name": "Ruffian",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 90,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 5
+    },
+    {
+        "Nummer": 255,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherLongbowman",
+        "Name": "Scoundrel",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 90,
+        "SchadenMin": 40,
+        "SchadenMax": 75,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 10
+    },
+    {
+        "Nummer": 256,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherCrossbowman",
+        "Name": "Cad",
+        "Klassifikation": 3,
+        "Lebenspunkte": 10,
+        "Trefferquote": 90,
+        "SchadenMin": 50,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 22
+    },
+    {
+        "Nummer": 257,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherEliteSoldier",
+        "Name": "Grouch",
+        "Klassifikation": 6,
+        "Lebenspunkte": 120,
+        "Trefferquote": 90,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 20
+    },
+    {
+        "Nummer": 258,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherCannoneer",
+        "Name": "Whiner",
+        "Klassifikation": 5,
+        "Lebenspunkte": 40,
+        "Trefferquote": 90,
+        "SchadenMin": 70,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 30,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 259,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherEliteCavalry",
+        "Name": "Scallywag",
+        "Klassifikation": 4,
+        "Lebenspunkte": 50,
+        "Trefferquote": 90,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 80,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 260,
+        "Gruppierung": 1,
+        "Kennung": "Deer_Unit",
+        "Name": "Deer",
+        "Klassifikation": 6,
+        "Lebenspunkte": 15,
+        "Trefferquote": 80,
+        "SchadenMin": 5,
+        "SchadenMax": 10,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2
+    },
+    {
+        "Nummer": 270,
+        "Gruppierung": 1,
+        "Kennung": "EliteWildlifeRecruit",
+        "Name": "Frost Ibex",
+        "Klassifikation": 6,
+        "Lebenspunkte": 250,
+        "Trefferquote": 85,
+        "SchadenMin": 120,
+        "SchadenMax": 150,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 79,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 271,
+        "Gruppierung": 1,
+        "Kennung": "EliteWildlifeMilitia",
+        "Name": "Frost Bear",
+        "Klassifikation": 6,
+        "Lebenspunkte": 350,
+        "Trefferquote": 90,
+        "SchadenMin": 160,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 110,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 272,
+        "Gruppierung": 1,
+        "Kennung": "EliteWildlifeCavalry",
+        "Name": "Frost Fox",
+        "Klassifikation": 4,
+        "Lebenspunkte": 75,
+        "Trefferquote": 90,
+        "SchadenMin": 80,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 53,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 273,
+        "Gruppierung": 1,
+        "Kennung": "EliteWildlifeAir",
+        "Name": "Frost Eagle",
+        "Klassifikation": 4,
+        "Lebenspunkte": 100,
+        "Trefferquote": 95,
+        "SchadenMin": 90,
+        "SchadenMax": 150,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 77,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 274,
+        "Gruppierung": 1,
+        "Kennung": "EliteWildlifeBowman",
+        "Name": "Frost Wolf",
+        "Klassifikation": 3,
+        "Lebenspunkte": 100,
+        "Trefferquote": 85,
+        "SchadenMin": 200,
+        "SchadenMax": 250,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 68,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 275,
+        "Gruppierung": 1,
+        "Kennung": "EliteWildlifeLongbowman",
+        "Name": "Frost Leopard",
+        "Klassifikation": 3,
+        "Lebenspunkte": 150,
+        "Trefferquote": 90,
+        "SchadenMin": 240,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 89,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 276,
+        "Gruppierung": 1,
+        "Kennung": "EliteWildlifeCannoneer",
+        "Name": "Frost Giant",
+        "Klassifikation": 5,
+        "Lebenspunkte": 500,
+        "Trefferquote": 90,
+        "SchadenMin": 280,
+        "SchadenMax": 350,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 170,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 288,
+        "Gruppierung": 1,
+        "Kennung": "EnemyCannoneer",
+        "Name": "Cannoneer",
+        "Klassifikation": 5,
+        "Lebenspunkte": 60,
+        "Trefferquote": 90,
+        "SchadenMin": 60,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 30,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 289,
+        "Gruppierung": 1,
+        "Kennung": "MiniGolemRecruit",
+        "Name": "Miniature Clay Golem",
+        "Klassifikation": 6,
+        "Lebenspunkte": 110,
+        "Trefferquote": 50,
+        "SchadenMin": 20,
+        "SchadenMax": 40,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 7
+    },
+    {
+        "Nummer": 290,
+        "Gruppierung": 1,
+        "Kennung": "MiniGolemMilitia",
+        "Name": "Miniature Rock Golem",
+        "Klassifikation": 6,
+        "Lebenspunkte": 150,
+        "Trefferquote": 50,
+        "SchadenMin": 30,
+        "SchadenMax": 60,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 10
+    },
+    {
+        "Nummer": 291,
+        "Gruppierung": 1,
+        "Kennung": "MiniGolemCavalry",
+        "Name": "Miniature Ice Golem",
+        "Klassifikation": 4,
+        "Lebenspunkte": 50,
+        "Trefferquote": 50,
+        "SchadenMin": 15,
+        "SchadenMax": 30,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 4,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 292,
+        "Gruppierung": 1,
+        "Kennung": "MiniGolemCannoneer",
+        "Name": "Miniature Lava Golem",
+        "Klassifikation": 5,
+        "Lebenspunkte": 120,
+        "Trefferquote": 60,
+        "SchadenMin": 50,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 11,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 500,
+        "Gruppierung": 1,
+        "Kennung": "BanditBoss1",
+        "Name": "Skunk",
+        "Klassifikation": 2,
+        "Lebenspunkte": 5000,
+        "Trefferquote": 50,
+        "SchadenMin": 1,
+        "SchadenMax": 100,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 200,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 501,
+        "Gruppierung": 1,
+        "Kennung": "BanditBoss2",
+        "Name": "One-Eyed Bert",
+        "Klassifikation": 2,
+        "Lebenspunkte": 6000,
+        "Trefferquote": 50,
+        "SchadenMin": 300,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 100,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 515,
+        "Gruppierung": 1,
+        "Kennung": "KingdomBoss1",
+        "Name": "Sir Robin",
+        "Klassifikation": 2,
+        "Lebenspunkte": 12000,
+        "Trefferquote": 80,
+        "SchadenMin": 200,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 200,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 516,
+        "Gruppierung": 1,
+        "Kennung": "KingdomBoss2",
+        "Name": "Big Bertha",
+        "Klassifikation": 2,
+        "Lebenspunkte": 40000,
+        "Trefferquote": 75,
+        "SchadenMin": 50,
+        "SchadenMax": 150,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 350,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 520,
+        "Gruppierung": 1,
+        "Kennung": "CultBoss2",
+        "Name": "Dark High Priest",
+        "Klassifikation": 2,
+        "Lebenspunkte": 15000,
+        "Trefferquote": 75,
+        "SchadenMin": 800,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 350,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 521,
+        "Gruppierung": 1,
+        "Kennung": "CultBoss4",
+        "Name": "Preacher of Flames",
+        "Klassifikation": 2,
+        "Lebenspunkte": 11000,
+        "Trefferquote": 75,
+        "SchadenMin": 500,
+        "SchadenMax": 700,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 250,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 530,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss1",
+        "Name": "Giant Bogor",
+        "Klassifikation": 2,
+        "Lebenspunkte": 90000,
+        "Trefferquote": 60,
+        "SchadenMin": 100,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 400,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 531,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss2",
+        "Name": "Giant Gogor",
+        "Klassifikation": 2,
+        "Lebenspunkte": 70000,
+        "Trefferquote": 80,
+        "SchadenMin": 100,
+        "SchadenMax": 250,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 350,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 532,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss3",
+        "Name": "Unicorn",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 90,
+        "SchadenMin": 250,
+        "SchadenMax": 400,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 300,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 533,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss4",
+        "Name": "Furious Boar",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 90,
+        "SchadenMin": 200,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 400,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 534,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss5",
+        "Name": "Evil King",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 80,
+        "SchadenMin": 200,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 250,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 535,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss6",
+        "Name": "Iron Fist",
+        "Klassifikation": 2,
+        "Lebenspunkte": 45000,
+        "Trefferquote": 85,
+        "SchadenMin": 200,
+        "SchadenMax": 250,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 300,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 536,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss7",
+        "Name": "Giant Bear",
+        "Klassifikation": 2,
+        "Lebenspunkte": 55000,
+        "Trefferquote": 60,
+        "SchadenMin": 400,
+        "SchadenMax": 750,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 600,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 537,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss8",
+        "Name": "Rivaling Tailor",
+        "Klassifikation": 2,
+        "Lebenspunkte": 40000,
+        "Trefferquote": 75,
+        "SchadenMin": 150,
+        "SchadenMax": 250,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 350,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 538,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss9",
+        "Name": "Black Bull",
+        "Klassifikation": 2,
+        "Lebenspunkte": 60000,
+        "Trefferquote": 90,
+        "SchadenMin": 250,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 500,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 539,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss10",
+        "Name": "Dark Magician",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 80,
+        "SchadenMin": 2000,
+        "SchadenMax": 2500,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 540,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss11",
+        "Name": "Lying Goat",
+        "Klassifikation": 2,
+        "Lebenspunkte": 25000,
+        "Trefferquote": 85,
+        "SchadenMin": 100,
+        "SchadenMax": 150,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 100,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 541,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss12",
+        "Name": "Cudgel Claus",
+        "Klassifikation": 2,
+        "Lebenspunkte": 40000,
+        "Trefferquote": 80,
+        "SchadenMin": 200,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 250,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 542,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss13",
+        "Name": "Assassin",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 80,
+        "SchadenMin": 200,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 350,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 543,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBoss14",
+        "Name": "Greedy Inn-Keeper",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 80,
+        "SchadenMin": 1500,
+        "SchadenMax": 2000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 950,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 550,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossPiper",
+        "Name": "The Pied Piper of Hamelin",
+        "Klassifikation": 2,
+        "Lebenspunkte": 55000,
+        "Trefferquote": 90,
+        "SchadenMin": 200,
+        "SchadenMax": 450,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 1900,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 551,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossMayor",
+        "Name": "The Mayor",
+        "Klassifikation": 2,
+        "Lebenspunkte": 95000,
+        "Trefferquote": 80,
+        "SchadenMin": 400,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3200,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 552,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossRatKing",
+        "Name": "The King of Rats",
+        "Klassifikation": 2,
+        "Lebenspunkte": 40000,
+        "Trefferquote": 60,
+        "SchadenMin": 200,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 1300,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 553,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossEvilQueen",
+        "Name": "Ilsebille, the Evil Queen",
+        "Klassifikation": 2,
+        "Lebenspunkte": 95000,
+        "Trefferquote": 80,
+        "SchadenMin": 400,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3200,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 554,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossHuntsman",
+        "Name": "Royal Huntsmen Leader",
+        "Klassifikation": 2,
+        "Lebenspunkte": 45000,
+        "Trefferquote": 90,
+        "SchadenMin": 200,
+        "SchadenMax": 700,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 1500,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 555,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossStepmother",
+        "Name": "The Evil Stepmother",
+        "Klassifikation": 2,
+        "Lebenspunkte": 95000,
+        "Trefferquote": 80,
+        "SchadenMin": 400,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 3200,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 556,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossCaptain",
+        "Name": "Royal Captain",
+        "Klassifikation": 2,
+        "Lebenspunkte": 45000,
+        "Trefferquote": 80,
+        "SchadenMin": 300,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1500,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 557,
+        "Gruppierung": 1,
+        "Kennung": "EpicRaidBossJuggernaut",
+        "Name": "Royal Juggernaut",
+        "Klassifikation": 2,
+        "Lebenspunkte": 70000,
+        "Trefferquote": 35,
+        "SchadenMin": 200,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 2300,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 570,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss1",
+        "Name": "Shrewd Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 1000,
+        "Trefferquote": 80,
+        "SchadenMin": 250,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 52,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 571,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss2",
+        "Name": "Smart Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 5000,
+        "Trefferquote": 80,
+        "SchadenMin": 500,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 200,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 572,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss3",
+        "Name": "Mysterious Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 20000,
+        "Trefferquote": 80,
+        "SchadenMin": 1000,
+        "SchadenMax": 2000,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 740,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 573,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss4",
+        "Name": "Treacherous Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 80,
+        "SchadenMin": 250,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1700,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 574,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss5",
+        "Name": "Snooty Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 150000,
+        "Trefferquote": 80,
+        "SchadenMin": 500,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 5000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 575,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss6",
+        "Name": "Grayed Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 500,
+        "Trefferquote": 80,
+        "SchadenMin": 375,
+        "SchadenMax": 750,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 54,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 576,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss7",
+        "Name": "Sneaking Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 1000,
+        "Trefferquote": 80,
+        "SchadenMin": 250,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 62,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 577,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss8",
+        "Name": "Scarred Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 500,
+        "Trefferquote": 80,
+        "SchadenMin": 150,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 39,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 578,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss9",
+        "Name": "Greedy Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 10000,
+        "Trefferquote": 80,
+        "SchadenMin": 2500,
+        "SchadenMax": 5000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 470,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 579,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditBoss10",
+        "Name": "Silly Thief",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 80,
+        "SchadenMin": 2000,
+        "SchadenMax": 4000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 1800,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 590,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorBoss1",
+        "Name": "Steersman",
+        "Klassifikation": 2,
+        "Lebenspunkte": 250000,
+        "Trefferquote": 80,
+        "SchadenMin": 250,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 8300,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 591,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorBoss2",
+        "Name": "Mutineer",
+        "Klassifikation": 2,
+        "Lebenspunkte": 5000,
+        "Trefferquote": 80,
+        "SchadenMin": 2500,
+        "SchadenMax": 5000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 450,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 592,
+        "Gruppierung": 1,
+        "Kennung": "OrientalSailorBoss3",
+        "Name": "Captain",
+        "Klassifikation": 2,
+        "Lebenspunkte": 10000,
+        "Trefferquote": 80,
+        "SchadenMin": 4000,
+        "SchadenMax": 8000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 560,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 600,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBanditLord",
+        "Name": "Bandit Lord",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 90,
+        "SchadenMin": 3500,
+        "SchadenMax": 7000,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1400,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 601,
+        "Gruppierung": 1,
+        "Kennung": "OrientalCrumpyParrot",
+        "Name": "Grumpy Parrot",
+        "Klassifikation": 2,
+        "Lebenspunkte": 25000,
+        "Trefferquote": 95,
+        "SchadenMin": 2000,
+        "SchadenMax": 4000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 1100,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 602,
+        "Gruppierung": 1,
+        "Kennung": "OrientalOasisGuardian",
+        "Name": "Oasis Guardian",
+        "Klassifikation": 2,
+        "Lebenspunkte": 40000,
+        "Trefferquote": 90,
+        "SchadenMin": 5000,
+        "SchadenMax": 10000,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 1700,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 603,
+        "Gruppierung": 1,
+        "Kennung": "OrientalBolderWorm",
+        "Name": "Boulder Worm",
+        "Klassifikation": 2,
+        "Lebenspunkte": 200000,
+        "Trefferquote": 80,
+        "SchadenMin": 150,
+        "SchadenMax": 300,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 6600,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 604,
+        "Gruppierung": 1,
+        "Kennung": "OrientalGiantBat",
+        "Name": "Giant Bat",
+        "Klassifikation": 2,
+        "Lebenspunkte": 150000,
+        "Trefferquote": 90,
+        "SchadenMin": 450,
+        "SchadenMax": 900,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 5000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 605,
+        "Gruppierung": 1,
+        "Kennung": "OrientalGiantBlossom1",
+        "Name": "Hungry Blossom",
+        "Klassifikation": 2,
+        "Lebenspunkte": 10000,
+        "Trefferquote": 90,
+        "SchadenMin": 2250,
+        "SchadenMax": 4500,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 680,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 606,
+        "Gruppierung": 1,
+        "Kennung": "OrientalGiantBlossom2",
+        "Name": "Fierce Blossom",
+        "Klassifikation": 2,
+        "Lebenspunkte": 15000,
+        "Trefferquote": 90,
+        "SchadenMin": 2750,
+        "SchadenMax": 5500,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 930,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 607,
+        "Gruppierung": 1,
+        "Kennung": "OrientalGiantBlossom3",
+        "Name": "Bulbous Blossom",
+        "Klassifikation": 2,
+        "Lebenspunkte": 20000,
+        "Trefferquote": 90,
+        "SchadenMin": 3250,
+        "SchadenMax": 6500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 920,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 608,
+        "Gruppierung": 1,
+        "Kennung": "OrientalLibraryBoss",
+        "Name": "Library Golem",
+        "Klassifikation": 2,
+        "Lebenspunkte": 70000,
+        "Trefferquote": 90,
+        "SchadenMin": 1750,
+        "SchadenMax": 3500,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2500,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 609,
+        "Gruppierung": 1,
+        "Kennung": "OrientalStoneStatue1",
+        "Name": "Large Stone Statue",
+        "Klassifikation": 2,
+        "Lebenspunkte": 400000,
+        "Trefferquote": 90,
+        "SchadenMin": 450,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 13000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 610,
+        "Gruppierung": 1,
+        "Kennung": "OrientalStoneStatue2",
+        "Name": "Mossy Stone Statue",
+        "Klassifikation": 2,
+        "Lebenspunkte": 500000,
+        "Trefferquote": 90,
+        "SchadenMin": 400,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 17000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 611,
+        "Gruppierung": 1,
+        "Kennung": "OrientalCannonTower1",
+        "Name": "Giant Cannon",
+        "Klassifikation": 2,
+        "Lebenspunkte": 35000,
+        "Trefferquote": 85,
+        "SchadenMin": 7500,
+        "SchadenMax": 15000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 1600,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 613,
+        "Gruppierung": 1,
+        "Kennung": "OrientalInformant",
+        "Name": "Informant",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 90,
+        "SchadenMin": 4500,
+        "SchadenMax": 9000,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 2000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 614,
+        "Gruppierung": 1,
+        "Kennung": "OrientalGiantSeaSnake",
+        "Name": "Giant Sea Snake",
+        "Klassifikation": 2,
+        "Lebenspunkte": 700000,
+        "Trefferquote": 80,
+        "SchadenMin": 300,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 23000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 615,
+        "Gruppierung": 1,
+        "Kennung": "OrientalGuard1",
+        "Name": "Grumpy Guard",
+        "Klassifikation": 2,
+        "Lebenspunkte": 25000,
+        "Trefferquote": 90,
+        "SchadenMin": 500,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 910,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 616,
+        "Gruppierung": 1,
+        "Kennung": "OrientalGuard2",
+        "Name": "Insane Guard",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 90,
+        "SchadenMin": 250,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 1700,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 617,
+        "Gruppierung": 1,
+        "Kennung": "OrientalCorruptedBolderWorm",
+        "Name": "Corrupted Boulder Worm",
+        "Klassifikation": 2,
+        "Lebenspunkte": 100000,
+        "Trefferquote": 80,
+        "SchadenMin": 3500,
+        "SchadenMax": 5000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 66000,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 618,
+        "Gruppierung": 1,
+        "Kennung": "OrientalCorruptedGiantBat",
+        "Name": "Corrupted Giant Bat",
+        "Klassifikation": 2,
+        "Lebenspunkte": 150000,
+        "Trefferquote": 90,
+        "SchadenMin": 5500,
+        "SchadenMax": 7000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 60000,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 630,
+        "Gruppierung": 1,
+        "Kennung": "ChupacabraBoss",
+        "Name": "El Chupacabra",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 90,
+        "SchadenMin": 350,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 700,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillLastStrike"
+        ]
+    },
+    {
+        "Nummer": 631,
+        "Gruppierung": 1,
+        "Kennung": "DragonBoss",
+        "Name": "Ancient Dragon",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 50,
+        "SchadenMin": 500,
+        "SchadenMax": 750,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 400,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 640,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherBoss1",
+        "Name": "Denis the Delinquent",
+        "Klassifikation": 2,
+        "Lebenspunkte": 5000,
+        "Trefferquote": 80,
+        "SchadenMin": 100,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 1500,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 641,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherBoss2",
+        "Name": "Alex the Troublemaker",
+        "Klassifikation": 2,
+        "Lebenspunkte": 17000,
+        "Trefferquote": 90,
+        "SchadenMin": 700,
+        "SchadenMax": 1500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 7500,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 642,
+        "Gruppierung": 1,
+        "Kennung": "PartyCrasherBoss3",
+        "Name": "Bob the Miscreant",
+        "Klassifikation": 2,
+        "Lebenspunkte": 35000,
+        "Trefferquote": 70,
+        "SchadenMin": 1250,
+        "SchadenMax": 2500,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 17500,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 650,
+        "Gruppierung": 1,
+        "Kennung": "ChristmasBoss1",
+        "Name": "Croaker",
+        "Klassifikation": 2,
+        "Lebenspunkte": 10000,
+        "Trefferquote": 50,
+        "SchadenMin": 500,
+        "SchadenMax": 700,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 200,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 653,
+        "Gruppierung": 1,
+        "Kennung": "BirthdayShaman",
+        "Name": "Mystical Shaman",
+        "Klassifikation": 2,
+        "Lebenspunkte": 9000,
+        "Trefferquote": 70,
+        "SchadenMin": 200,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 500,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 654,
+        "Gruppierung": 1,
+        "Kennung": "TMC_v1_NordsRightHandBoss",
+        "Name": "Steel Beard",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 50,
+        "SchadenMin": 1500,
+        "SchadenMax": 3000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 4900,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 655,
+        "Gruppierung": 1,
+        "Kennung": "TMC_ColossalEagleBoss",
+        "Name": "Colossal Eagle",
+        "Klassifikation": 2,
+        "Lebenspunkte": 150000,
+        "Trefferquote": 85,
+        "SchadenMin": 6400,
+        "SchadenMax": 6500,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 26000,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 656,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossMammoth",
+        "Name": "Mammoth",
+        "Klassifikation": 2,
+        "Lebenspunkte": 750000,
+        "Trefferquote": 90,
+        "SchadenMin": 1400,
+        "SchadenMax": 1600,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 76000,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 657,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossWinterTerror",
+        "Name": "Winter Terror",
+        "Klassifikation": 2,
+        "Lebenspunkte": 45000,
+        "Trefferquote": 75,
+        "SchadenMin": 9500,
+        "SchadenMax": 10000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 22000,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 658,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossSmilodon",
+        "Name": "Smilodon",
+        "Klassifikation": 2,
+        "Lebenspunkte": 45000,
+        "Trefferquote": 35,
+        "SchadenMin": 17000,
+        "SchadenMax": 18000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 34000,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 659,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossEnormousIbex",
+        "Name": "Enormous Ibex",
+        "Klassifikation": 2,
+        "Lebenspunkte": 80000,
+        "Trefferquote": 50,
+        "SchadenMin": 1000,
+        "SchadenMax": 1500,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 10000,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 660,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossGhastlyWolf",
+        "Name": "Ghastly Wolf",
+        "Klassifikation": 2,
+        "Lebenspunkte": 10000,
+        "Trefferquote": 50,
+        "SchadenMin": 5000,
+        "SchadenMax": 6000,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 11000,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 661,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossParagonElk",
+        "Name": "Paragon Elk",
+        "Klassifikation": 2,
+        "Lebenspunkte": 250000,
+        "Trefferquote": 75,
+        "SchadenMin": 5000,
+        "SchadenMax": 6000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 29000,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 662,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossFrostGiantKing_0",
+        "Name": "Risi",
+        "Klassifikation": 2,
+        "Lebenspunkte": 1000000,
+        "Trefferquote": 95,
+        "SchadenMin": 550,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 1,
+        "kokemuspisteet": 99000,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 663,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossFrostGiantKing_1",
+        "Name": "Risi",
+        "Klassifikation": 2,
+        "Lebenspunkte": 1000000,
+        "Trefferquote": 95,
+        "SchadenMin": 550,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 99000,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 664,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossFrostGiantKing_2",
+        "Name": "Risi",
+        "Klassifikation": 2,
+        "Lebenspunkte": 900000,
+        "Trefferquote": 95,
+        "SchadenMin": 550,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 89000,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 665,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossFrostGiantKing_3",
+        "Name": "Risi",
+        "Klassifikation": 2,
+        "Lebenspunkte": 900000,
+        "Trefferquote": 95,
+        "SchadenMin": 500,
+        "SchadenMax": 550,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 89000,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 666,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossFrostGiantKing_4",
+        "Name": "Risi",
+        "Klassifikation": 2,
+        "Lebenspunkte": 900000,
+        "Trefferquote": 15,
+        "SchadenMin": 500,
+        "SchadenMax": 550,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 89000,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 667,
+        "Gruppierung": 1,
+        "Kennung": "TMC_BossNordsLeader",
+        "Name": "Bandit Lord Björn",
+        "Klassifikation": 2,
+        "Lebenspunkte": 35000,
+        "Trefferquote": 90,
+        "SchadenMin": 3000,
+        "SchadenMax": 4000,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 6900,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 668,
+        "Gruppierung": 1,
+        "Kennung": "MadScientistBoss",
+        "Name": "Mad Scientist",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 85,
+        "SchadenMin": 750,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 3,
+        "kokemuspisteet": 130,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 669,
+        "Gruppierung": 1,
+        "Kennung": "DarkLordBoss",
+        "Name": "Dark Lord",
+        "Klassifikation": 2,
+        "Lebenspunkte": 50000,
+        "Trefferquote": 80,
+        "SchadenMin": 300,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 170,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 671,
+        "Gruppierung": 1,
+        "Kennung": "ChristmasBossTwin1",
+        "Name": "Ribbitha",
+        "Klassifikation": 2,
+        "Lebenspunkte": 30000,
+        "Trefferquote": 80,
+        "SchadenMin": 700,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 100,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 672,
+        "Gruppierung": 1,
+        "Kennung": "ChristmasBossTwin2",
+        "Name": "Ribbitha",
+        "Klassifikation": 2,
+        "Lebenspunkte": 45000,
+        "Trefferquote": 80,
+        "SchadenMin": 700,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 150,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 673,
+        "Gruppierung": 1,
+        "Kennung": "ChristmasBossTwin3",
+        "Name": "Ribbitha",
+        "Klassifikation": 2,
+        "Lebenspunkte": 65000,
+        "Trefferquote": 80,
+        "SchadenMin": 700,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 200,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 800,
+        "Gruppierung": 1,
+        "Kennung": "TreasureShipLoot",
+        "Name": "Treasure",
+        "Klassifikation": 6,
+        "Lebenspunkte": 1,
+        "Angriffsreihenfolge": 2,
+        "kokemuspisteet": 250
+    },
+    {
+        "Nummer": 901,
+        "Gruppierung": 2,
+        "Kennung": "General",
+        "Name": "General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2
+    },
+    {
+        "Nummer": 903,
+        "Gruppierung": 2,
+        "Kennung": "StarGeneral2",
+        "Name": "Master of Defense",
+        "Klassifikation": 1,
+        "Lebenspunkte": 5000,
+        "Trefferquote": 80,
+        "SchadenMin": 25,
+        "SchadenMax": 50,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage"
+        ]
+    },
+    {
+        "Nummer": 904,
+        "Gruppierung": 2,
+        "Kennung": "StarGeneral3",
+        "Name": "Master of Martial Arts",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 450,
+        "SchadenMax": 500,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget"
+        ]
+    },
+    {
+        "Nummer": 906,
+        "Gruppierung": 2,
+        "Kennung": "HalloweenGeneralDracul",
+        "Name": "Lord Dracul",
+        "Klassifikation": 1,
+        "Lebenspunkte": 999,
+        "Trefferquote": 77,
+        "SchadenMin": 111,
+        "SchadenMax": 333,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike"
+        ]
+    },
+    {
+        "Nummer": 907,
+        "Gruppierung": 2,
+        "Kennung": "GeneralVargus",
+        "Name": "Champion Vargus",
+        "Klassifikation": 1,
+        "Lebenspunkte": 200,
+        "Trefferquote": 80,
+        "SchadenMin": 750,
+        "SchadenMax": 1250,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_Vargus"
+        ]
+    },
+    {
+        "Nummer": 908,
+        "Gruppierung": 2,
+        "Kennung": "GeneralAnslem",
+        "Name": "Champion Anslem",
+        "Klassifikation": 1,
+        "Lebenspunkte": 150,
+        "Trefferquote": 50,
+        "SchadenMin": 1000,
+        "SchadenMax": 1500,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillAttackWeakestTarget",
+            "Trait_Anslem"
+        ]
+    },
+    {
+        "Nummer": 909,
+        "Gruppierung": 2,
+        "Kennung": "GeneralNusala",
+        "Name": "Champion Nusala",
+        "Klassifikation": 1,
+        "Lebenspunkte": 150,
+        "Trefferquote": 90,
+        "SchadenMin": 1000,
+        "SchadenMax": 1500,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "Trait_Nusala"
+        ]
+    },
+    {
+        "Nummer": 910,
+        "Gruppierung": 2,
+        "Kennung": "MasterGeneral",
+        "Name": "Battle Hardened General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2
+    },
+    {
+        "Nummer": 911,
+        "Gruppierung": 2,
+        "Kennung": "HalloweenGeneral",
+        "Name": "Grim Reaper General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2
+    },
+    {
+        "Nummer": 912,
+        "Gruppierung": 2,
+        "Kennung": "RetailBoxGeneral",
+        "Name": "General Bighelmet",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2
+    },
+    {
+        "Nummer": 913,
+        "Gruppierung": 2,
+        "Kennung": "EasterGeneral",
+        "Name": "Veteran",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2
+    },
+    {
+        "Nummer": 914,
+        "Gruppierung": 2,
+        "Kennung": "RetailBox2General",
+        "Name": "General Log",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2
+    },
+    {
+        "Nummer": 915,
+        "Gruppierung": 2,
+        "Kennung": "MajorGeneral",
+        "Name": "Major General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2
+    },
+    {
+        "Nummer": 918,
+        "Gruppierung": 2,
+        "Kennung": "GeneralMary",
+        "Name": "General Mary Christmas",
+        "Klassifikation": 1,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 125,
+        "SchadenMax": 250,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "Trait_MaryDoubleXP"
+        ]
+    },
+    {
+        "Nummer": 919,
+        "Gruppierung": 2,
+        "Kennung": "MedicGeneral",
+        "Name": "Field Medic General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 120,
+        "SchadenMax": 120,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "Trait_MedicResurrectLosses"
+        ]
+    },
+    {
+        "Nummer": 920,
+        "Gruppierung": 2,
+        "Kennung": "MadScientistGeneral",
+        "Name": "Mad Scientist",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 60,
+        "SchadenMin": 300,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 3,
+        "Fähigkeiten": [
+            "UnitSkillBonusDamageBuildings",
+            "UnitSkillSplashDamage",
+            "UnitSkillLastStrike",
+            "Trait_MadScientist"
+        ]
+    },
+    {
+        "Nummer": 921,
+        "Gruppierung": 2,
+        "Kennung": "BorisGeneral",
+        "Name": "General Boris",
+        "Klassifikation": 1,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 700,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Boris"
+        ]
+    },
+    {
+        "Nummer": 922,
+        "Gruppierung": 2,
+        "Kennung": "Anniversary2019General",
+        "Name": "Older Gemini General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 125,
+        "SchadenMax": 250,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_Anniversary2019General"
+        ]
+    },
+    {
+        "Nummer": 923,
+        "Gruppierung": 2,
+        "Kennung": "Halloween2019General",
+        "Name": "Younger Gemini General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 2000,
+        "Trefferquote": 90,
+        "SchadenMin": 4500,
+        "SchadenMax": 5000,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Halloween2019General"
+        ]
+    },
+    {
+        "Nummer": 924,
+        "Gruppierung": 2,
+        "Kennung": "Xmas2019General",
+        "Name": "Steadfast General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 10000,
+        "Trefferquote": 70,
+        "SchadenMin": 100,
+        "SchadenMax": 200,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Xmas2019General"
+        ]
+    },
+    {
+        "Nummer": 925,
+        "Gruppierung": 2,
+        "Kennung": "AssassinGeneral",
+        "Name": "Cloaked General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1000,
+        "Trefferquote": 10,
+        "SchadenMin": 500,
+        "SchadenMax": 5000,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_AssassinGeneral"
+        ]
+    },
+    {
+        "Nummer": 926,
+        "Gruppierung": 2,
+        "Kennung": "SylvanaGeneral",
+        "Name": "General Sylvana",
+        "Klassifikation": 1,
+        "Lebenspunkte": 100,
+        "Trefferquote": 80,
+        "SchadenMin": 700,
+        "SchadenMax": 1000,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_Sylvana"
+        ]
+    },
+    {
+        "Nummer": 927,
+        "Gruppierung": 2,
+        "Kennung": "GeneralTrembleBeard",
+        "Name": "General Tremble Beard",
+        "Klassifikation": 1,
+        "Lebenspunkte": 1,
+        "Trefferquote": 90,
+        "SchadenMin": 375,
+        "SchadenMax": 425,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_TrembleBeard"
+        ]
+    },
+    {
+        "Nummer": 928,
+        "Gruppierung": 2,
+        "Kennung": "GhostGeneral",
+        "Name": "Ghost General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 2,
+        "Trefferquote": 85,
+        "SchadenMin": 777,
+        "SchadenMax": 999,
+        "Angriffsreihenfolge": 3,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "UnitSkillAttackWeakestTarget",
+            "UnitSkillSplashDamage",
+            "Trait_GhostGeneral"
+        ]
+    },
+    {
+        "Nummer": 929,
+        "Gruppierung": 2,
+        "Kennung": "FrostyGeneral",
+        "Name": "Frosty General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 2412,
+        "Trefferquote": 24,
+        "SchadenMin": 2412,
+        "SchadenMax": 2612,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "Trait_FrostyGeneral"
+        ]
+    },
+    {
+        "Nummer": 930,
+        "Gruppierung": 2,
+        "Kennung": "LonerGeneral",
+        "Name": "Loner General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 500,
+        "Trefferquote": 95,
+        "SchadenMin": 500,
+        "SchadenMax": 2000,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "Trait_LonerGeneral"
+        ]
+    },
+    {
+        "Nummer": 931,
+        "Gruppierung": 2,
+        "Kennung": "GeneralLoudmouth",
+        "Name": "General Loudmouth",
+        "Klassifikation": 1,
+        "Lebenspunkte": 300,
+        "Trefferquote": 80,
+        "SchadenMin": 800,
+        "SchadenMax": 1100,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillFirstStrike",
+            "Trait_Loudmouth"
+        ]
+    },
+    {
+        "Nummer": 932,
+        "Gruppierung": 2,
+        "Kennung": "NutcrackerGeneral",
+        "Name": "Nutcracker General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 3000,
+        "Trefferquote": 70,
+        "SchadenMin": 500,
+        "SchadenMax": 2000,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "UnitSkillAttackWeakestTarget",
+            "Trait_Nutcracker"
+        ]
+    },
+    {
+        "Nummer": 933,
+        "Gruppierung": 2,
+        "Kennung": "MiraculousGeneral",
+        "Name": "Miraculous General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 300,
+        "Trefferquote": 80,
+        "SchadenMin": 400,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 3,
+        "Fähigkeiten": [
+            "UnitSkillLastStrike",
+            "Trait_Miraculous"
+        ]
+    },
+    {
+        "Nummer": 934,
+        "Gruppierung": 2,
+        "Kennung": "ResoluteGeneral",
+        "Name": "Resolute General",
+        "Klassifikation": 1,
+        "Lebenspunkte": 3000,
+        "Trefferquote": 85,
+        "SchadenMin": 400,
+        "SchadenMax": 600,
+        "Angriffsreihenfolge": 2,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "Trait_Resolute"
+        ]
+    },
+    {
+        "Nummer": 950,
+        "Gruppierung": 2,
+        "Kennung": "JuanGeneral",
+        "Name": "General Juan",
+        "Klassifikation": 1,
+        "Lebenspunkte": 500,
+        "Trefferquote": 80,
+        "SchadenMin": 700,
+        "SchadenMax": 800,
+        "Angriffsreihenfolge": 1,
+        "Fähigkeiten": [
+            "UnitSkillSplashDamage",
+            "UnitSkillFirstStrike",
+            "UnitSkillAttackWeakestTarget",
+            "Trait_MaryDoubleXP",
+            "Trait_Anniversary2019General"
+        ]
+    }
+]
