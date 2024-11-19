@@ -1,0 +1,219 @@
+[
+    {
+        "OrderNumber": 0,
+        "Name": "General",
+        "Abbreviation": "GEN",
+        "Capacity": 200,
+        "UnitIdentifier": "General"
+    },
+    {
+        "OrderNumber": 5,
+        "Name": "Master of Defense",
+        "Abbreviation": "MOD",
+        "Capacity": 200,
+        "UnitIdentifier": "StarGeneral2"
+    },
+    {
+        "OrderNumber": 6,
+        "Name": "Master of Martial Arts",
+        "Abbreviation": "MMA",
+        "Capacity": 220,
+        "UnitIdentifier": "StarGeneral3"
+    },
+    {
+        "OrderNumber": 4,
+        "Name": "Lord Dracul",
+        "Abbreviation": "Dracul",
+        "Capacity": 200,
+        "UnitIdentifier": "HalloweenGeneralDracul"
+    },
+    {
+        "OrderNumber": 9,
+        "Name": "Champion Vargus",
+        "Abbreviation": "Vargus",
+        "Capacity": 180,
+        "UnitIdentifier": "GeneralVargus"
+    },
+    {
+        "OrderNumber": 10,
+        "Name": "Champion Anslem",
+        "Abbreviation": "Anslem",
+        "Capacity": 150,
+        "UnitIdentifier": "GeneralAnslem"
+    },
+    {
+        "OrderNumber": 11,
+        "Name": "Champion Nusala",
+        "Abbreviation": "Nusala",
+        "Capacity": 165,
+        "UnitIdentifier": "GeneralNusala"
+    },
+    {
+        "OrderNumber": 1,
+        "Name": "Battle Hardened General",
+        "Abbreviation": "BHG",
+        "Capacity": 200,
+        "UnitIdentifier": "MasterGeneral"
+    },
+    {
+        "OrderNumber": 2,
+        "Name": "Grim Reaper General",
+        "Abbreviation": "Grim",
+        "Capacity": 200,
+        "UnitIdentifier": "HalloweenGeneral"
+    },
+    {
+        "OrderNumber": 3,
+        "Name": "General Bighelmet",
+        "Abbreviation": "Bighelmet",
+        "Capacity": 200,
+        "UnitIdentifier": "RetailBoxGeneral"
+    },
+    {
+        "OrderNumber": 8,
+        "Name": "Veteran",
+        "Abbreviation": "VET",
+        "Capacity": 250,
+        "UnitIdentifier": "EasterGeneral"
+    },
+    {
+        "OrderNumber": 7,
+        "Name": "General Log",
+        "Abbreviation": "Log",
+        "Capacity": 220,
+        "UnitIdentifier": "RetailBox2General"
+    },
+    {
+        "OrderNumber": 12,
+        "Name": "Major General",
+        "Abbreviation": "MG",
+        "Capacity": 270,
+        "UnitIdentifier": "MajorGeneral"
+    },
+    {
+        "OrderNumber": 13,
+        "Name": "General Mary Christmas",
+        "Abbreviation": "Mary",
+        "Capacity": 200,
+        "UnitIdentifier": "GeneralMary"
+    },
+    {
+        "OrderNumber": 14,
+        "Name": "Field Medic General",
+        "Abbreviation": "Medic",
+        "Capacity": 200,
+        "UnitIdentifier": "MedicGeneral"
+    },
+    {
+        "OrderNumber": 15,
+        "Name": "Mad Scientist",
+        "Abbreviation": "MScience",
+        "Capacity": 200,
+        "UnitIdentifier": "MadScientistGeneral"
+    },
+    {
+        "OrderNumber": 16,
+        "Name": "General Boris",
+        "Abbreviation": "Boris",
+        "Capacity": 180,
+        "UnitIdentifier": "BorisGeneral"
+    },
+    {
+        "OrderNumber": 17,
+        "Name": "Older Gemini General",
+        "Abbreviation": "Gemini",
+        "Capacity": 280,
+        "UnitIdentifier": "Anniversary2019General"
+    },
+    {
+        "OrderNumber": 18,
+        "Name": "Younger Gemini General",
+        "Abbreviation": "GeminiY",
+        "Capacity": 140,
+        "UnitIdentifier": "Halloween2019General"
+    },
+    {
+        "OrderNumber": 19,
+        "Name": "Steadfast General",
+        "Abbreviation": "Steadfast",
+        "Capacity": 220,
+        "UnitIdentifier": "Xmas2019General"
+    },
+    {
+        "OrderNumber": 20,
+        "Name": "Cloaked General",
+        "Abbreviation": "Cloaked",
+        "Capacity": 200,
+        "UnitIdentifier": "AssassinGeneral"
+    },
+    {
+        "OrderNumber": 21,
+        "Name": "General Sylvana",
+        "Abbreviation": "Sylvana",
+        "Capacity": 180,
+        "UnitIdentifier": "SylvanaGeneral"
+    },
+    {
+        "OrderNumber": 22,
+        "Name": "General Tremble Beard",
+        "Abbreviation": "Tremble",
+        "Capacity": 160,
+        "UnitIdentifier": "GeneralTrembleBeard"
+    },
+    {
+        "OrderNumber": 23,
+        "Name": "Ghost General",
+        "Abbreviation": "Ghost",
+        "Capacity": 215,
+        "UnitIdentifier": "GhostGeneral"
+    },
+    {
+        "OrderNumber": 24,
+        "Name": "Frosty General",
+        "Abbreviation": "Frosty",
+        "Capacity": 190,
+        "UnitIdentifier": "FrostyGeneral"
+    },
+    {
+        "OrderNumber": 25,
+        "Name": "Loner General",
+        "Abbreviation": "Loner",
+        "Capacity": 230,
+        "UnitIdentifier": "LonerGeneral"
+    },
+    {
+        "OrderNumber": 26,
+        "Name": "General Loudmouth",
+        "Abbreviation": "LM",
+        "Capacity": 170,
+        "UnitIdentifier": "GeneralLoudmouth"
+    },
+    {
+        "OrderNumber": 27,
+        "Name": "Nutcracker General",
+        "Abbreviation": "NG",
+        "Capacity": 200,
+        "UnitIdentifier": "NutcrackerGeneral"
+    },
+    {
+        "OrderNumber": 28,
+        "Name": "Miraculous General",
+        "Abbreviation": "MIR",
+        "Capacity": 200,
+        "UnitIdentifier": "MiraculousGeneral"
+    },
+    {
+        "OrderNumber": 29,
+        "Name": "Resolute General",
+        "Abbreviation": "RES",
+        "Capacity": 200,
+        "UnitIdentifier": "ResoluteGeneral"
+    },
+    {
+        "OrderNumber": 30,
+        "Name": "General Juan",
+        "Abbreviation": "GJ",
+        "Capacity": 180,
+        "UnitIdentifier": "JuanGeneral"
+    }
+]
