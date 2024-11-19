@@ -10,8 +10,8 @@
         "Kennung": "Recruit",
         "Name": "Recruit",
         "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 180,
+        "Spielereinheit": true,
+        "Kasernenzeit": 180,
         "Lebenspunkte": 40,
         "Trefferquote": 80,
         "SchadenMin": 15,
@@ -25,8 +25,8 @@
         "Kennung": "Militia",
         "Name": "Militia",
         "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 480,
+        "Spielereinheit": true,
+        "Kasernenzeit": 480,
         "Lebenspunkte": 60,
         "Trefferquote": 80,
         "SchadenMin": 20,
@@ -35,13 +35,13 @@
         "Erfahrungspunkte": 9
     },
     {
-        "Nummer": 3,
+        "Nummer": 6,
         "Gruppierung": 1,
         "Kennung": "Bowman",
         "Name": "Bowman",
         "Klassifikation": 3,
-        "pelaajayksikkö": true,
-        "barracksAika": 240,
+        "Spielereinheit": true,
+        "Kasernenzeit": 240,
         "Lebenspunkte": 10,
         "Trefferquote": 80,
         "SchadenMin": 20,
@@ -50,13 +50,13 @@
         "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 4,
+        "Nummer": 5,
         "Gruppierung": 1,
         "Kennung": "Cavalry",
         "Name": "Cavalry",
         "Klassifikation": 4,
-        "pelaajayksikkö": true,
-        "barracksAika": 720,
+        "Spielereinheit": true,
+        "Kasernenzeit": 720,
         "Lebenspunkte": 5,
         "Trefferquote": 80,
         "SchadenMin": 5,
@@ -69,13 +69,13 @@
         ]
     },
     {
-        "Nummer": 5,
+        "Nummer": 3,
         "Gruppierung": 1,
         "Kennung": "Soldier",
         "Name": "Soldier",
         "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 720,
+        "Spielereinheit": true,
+        "Kasernenzeit": 720,
         "Lebenspunkte": 90,
         "Trefferquote": 85,
         "SchadenMin": 20,
@@ -84,13 +84,13 @@
         "Erfahrungspunkte": 6
     },
     {
-        "Nummer": 6,
+        "Nummer": 7,
         "Gruppierung": 1,
         "Kennung": "Longbowman",
         "Name": "Longbowman",
         "Klassifikation": 3,
-        "pelaajayksikkö": true,
-        "barracksAika": 480,
+        "Spielereinheit": true,
+        "Kasernenzeit": 480,
         "Lebenspunkte": 10,
         "Trefferquote": 80,
         "SchadenMin": 30,
@@ -99,13 +99,13 @@
         "Erfahrungspunkte": 8
     },
     {
-        "Nummer": 7,
+        "Nummer": 4,
         "Gruppierung": 1,
         "Kennung": "EliteSoldier",
         "Name": "Elite Soldier",
         "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 1200,
+        "Spielereinheit": true,
+        "Kasernenzeit": 1200,
         "Lebenspunkte": 120,
         "Trefferquote": 90,
         "SchadenMin": 20,
@@ -119,8 +119,8 @@
         "Kennung": "Crossbowman",
         "Name": "Crossbowman",
         "Klassifikation": 3,
-        "pelaajayksikkö": true,
-        "barracksAika": 720,
+        "Spielereinheit": true,
+        "Kasernenzeit": 720,
         "Lebenspunkte": 10,
         "Trefferquote": 80,
         "SchadenMin": 45,
@@ -134,8 +134,8 @@
         "Kennung": "Cannoneer",
         "Name": "Cannoneer",
         "Klassifikation": 5,
-        "pelaajayksikkö": true,
-        "barracksAika": 1200,
+        "Spielereinheit": true,
+        "Kasernenzeit": 1200,
         "Lebenspunkte": 60,
         "Trefferquote": 90,
         "SchadenMin": 60,
@@ -153,8 +153,8 @@
         "Kennung": "Swordsman",
         "Name": "Swordsman",
         "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 900,
+        "Spielereinheit": true,
+        "Kasernenzeit": 900,
         "Lebenspunkte": 150,
         "Trefferquote": 90,
         "SchadenMin": 40,
@@ -168,8 +168,8 @@
         "Kennung": "MountedSwordsman",
         "Name": "Mounted Swordsman",
         "Klassifikation": 6,
-        "pelaajayksikkö": true,
-        "barracksAika": 1800,
+        "Spielereinheit": true,
+        "Kasernenzeit": 1800,
         "Lebenspunkte": 250,
         "Trefferquote": 90,
         "SchadenMin": 25,
@@ -183,8 +183,8 @@
         "Kennung": "Knight",
         "Name": "Knight",
         "Klassifikation": 4,
-        "pelaajayksikkö": true,
-        "barracksAika": 1200,
+        "Spielereinheit": true,
+        "Kasernenzeit": 1200,
         "Lebenspunkte": 80,
         "Trefferquote": 90,
         "SchadenMin": 35,
@@ -201,8 +201,8 @@
         "Kennung": "Marksman",
         "Name": "Marksman",
         "Klassifikation": 3,
-        "pelaajayksikkö": true,
-        "barracksAika": 900,
+        "Spielereinheit": true,
+        "Kasernenzeit": 900,
         "Lebenspunkte": 50,
         "Trefferquote": 90,
         "SchadenMin": 50,
@@ -216,8 +216,8 @@
         "Kennung": "ArmoredMarksman",
         "Name": "Armored Marksman",
         "Klassifikation": 3,
-        "pelaajayksikkö": true,
-        "barracksAika": 1800,
+        "Spielereinheit": true,
+        "Kasernenzeit": 1800,
         "Lebenspunkte": 50,
         "Trefferquote": 90,
         "SchadenMin": 100,
@@ -234,8 +234,8 @@
         "Kennung": "MountedMarksman",
         "Name": "Mounted Marksman",
         "Klassifikation": 4,
-        "pelaajayksikkö": true,
-        "barracksAika": 1800,
+        "Spielereinheit": true,
+        "Kasernenzeit": 1800,
         "Lebenspunkte": 50,
         "Trefferquote": 90,
         "SchadenMin": 50,
@@ -253,8 +253,8 @@
         "Kennung": "Besieger",
         "Name": "Besieger",
         "Klassifikation": 5,
-        "pelaajayksikkö": true,
-        "barracksAika": 1200,
+        "Spielereinheit": true,
+        "Kasernenzeit": 1200,
         "Lebenspunkte": 80,
         "Trefferquote": 90,
         "SchadenMin": 100,
@@ -268,7 +268,7 @@
         ]
     },
     {
-        "Nummer": 17,
+        "Nummer": 50,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostBearMatriarch",
         "Name": "Frost Bear Matriarch",
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "Nummer": 18,
+        "Nummer": 51,
         "Gruppierung": 1,
         "Kennung": "TMC_BossRavagingOx",
         "Name": "Ravaging Ox",
@@ -303,7 +303,7 @@
         ]
     },
     {
-        "Nummer": 19,
+        "Nummer": 52,
         "Gruppierung": 1,
         "Kennung": "TMC_BossGargantuanLynx",
         "Name": "Gargantuan Lynx",
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "Nummer": 20,
+        "Nummer": 100,
         "Gruppierung": 1,
         "Kennung": "BanditBoss5",
         "Name": "Wild Mary",
@@ -337,7 +337,7 @@
         ]
     },
     {
-        "Nummer": 21,
+        "Nummer": 101,
         "Gruppierung": 1,
         "Kennung": "BanditBoss4",
         "Name": "Chuck",
@@ -354,7 +354,7 @@
         ]
     },
     {
-        "Nummer": 22,
+        "Nummer": 102,
         "Gruppierung": 1,
         "Kennung": "BanditBoss3",
         "Name": "Metal Tooth",
@@ -371,7 +371,7 @@
         ]
     },
     {
-        "Nummer": 23,
+        "Nummer": 103,
         "Gruppierung": 1,
         "Kennung": "BanditRecruit",
         "Name": "Scavenger",
@@ -384,7 +384,7 @@
         "Erfahrungspunkte": 4
     },
     {
-        "Nummer": 24,
+        "Nummer": 104,
         "Gruppierung": 1,
         "Kennung": "BanditMilitia",
         "Name": "Thug",
@@ -397,7 +397,7 @@
         "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 25,
+        "Nummer": 105,
         "Gruppierung": 1,
         "Kennung": "BanditCavalry",
         "Name": "Guard Dog",
@@ -414,7 +414,7 @@
         ]
     },
     {
-        "Nummer": 26,
+        "Nummer": 106,
         "Gruppierung": 1,
         "Kennung": "BanditSoldier",
         "Name": "Roughneck",
@@ -427,7 +427,7 @@
         "Erfahrungspunkte": 6
     },
     {
-        "Nummer": 27,
+        "Nummer": 107,
         "Gruppierung": 1,
         "Kennung": "BanditBowman",
         "Name": "Stone Thrower",
@@ -440,7 +440,7 @@
         "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 28,
+        "Nummer": 108,
         "Gruppierung": 1,
         "Kennung": "BanditLongbowman",
         "Name": "Ranger",
@@ -453,7 +453,7 @@
         "Erfahrungspunkte": 4
     },
     {
-        "Nummer": 29,
+        "Nummer": 110,
         "Gruppierung": 1,
         "Kennung": "PirateCavalry",
         "Name": "Caltrop",
@@ -469,7 +469,7 @@
         ]
     },
     {
-        "Nummer": 30,
+        "Nummer": 111,
         "Gruppierung": 1,
         "Kennung": "PirateRecruit",
         "Name": "Deckscrubber",
@@ -482,7 +482,7 @@
         "Erfahrungspunkte": 1
     },
     {
-        "Nummer": 31,
+        "Nummer": 112,
         "Gruppierung": 1,
         "Kennung": "PirateMilitia",
         "Name": "Sabrerattler",
@@ -495,7 +495,7 @@
         "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 32,
+        "Nummer": 113,
         "Gruppierung": 1,
         "Kennung": "PirateBoss1",
         "Name": "Crazy Ship's Cook",
@@ -512,7 +512,7 @@
         ]
     },
     {
-        "Nummer": 33,
+        "Nummer": 114,
         "Gruppierung": 1,
         "Kennung": "PirateBowman",
         "Name": "Knife Thrower",
@@ -525,7 +525,7 @@
         "Erfahrungspunkte": 1
     },
     {
-        "Nummer": 34,
+        "Nummer": 115,
         "Gruppierung": 1,
         "Kennung": "PirateLongbowman",
         "Name": "Gunman",
@@ -538,7 +538,7 @@
         "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 35,
+        "Nummer": 116,
         "Gruppierung": 1,
         "Kennung": "PirateCaptain",
         "Name": "Petty Officer Second class",
@@ -555,7 +555,7 @@
         ]
     },
     {
-        "Nummer": 36,
+        "Nummer": 120,
         "Gruppierung": 1,
         "Kennung": "KingdomRecruit",
         "Name": "Recruit Deserter",
@@ -568,7 +568,7 @@
         "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 37,
+        "Nummer": 121,
         "Gruppierung": 1,
         "Kennung": "KingdomMilitia",
         "Name": "Militia Deserter",
@@ -581,7 +581,7 @@
         "Erfahrungspunkte": 4
     },
     {
-        "Nummer": 38,
+        "Nummer": 122,
         "Gruppierung": 1,
         "Kennung": "KingdomCavalry",
         "Name": "Cavalry Deserter",
@@ -598,7 +598,7 @@
         ]
     },
     {
-        "Nummer": 39,
+        "Nummer": 123,
         "Gruppierung": 1,
         "Kennung": "KingdomSoldier",
         "Name": "Soldier Deserter",
@@ -611,7 +611,7 @@
         "Erfahrungspunkte": 6
     },
     {
-        "Nummer": 40,
+        "Nummer": 124,
         "Gruppierung": 1,
         "Kennung": "KingdomEliteSoldier",
         "Name": "Elite Soldier Deserter",
@@ -624,7 +624,7 @@
         "Erfahrungspunkte": 8
     },
     {
-        "Nummer": 41,
+        "Nummer": 125,
         "Gruppierung": 1,
         "Kennung": "KingdomBowman",
         "Name": "Bowman Deserter",
@@ -637,7 +637,7 @@
         "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 42,
+        "Nummer": 126,
         "Gruppierung": 1,
         "Kennung": "KingdomLongbowman",
         "Name": "Longbowman Deserter",
@@ -650,7 +650,7 @@
         "Erfahrungspunkte": 5
     },
     {
-        "Nummer": 43,
+        "Nummer": 127,
         "Gruppierung": 1,
         "Kennung": "KingdomCrossbowman",
         "Name": "Crossbowman Deserter",
@@ -663,7 +663,7 @@
         "Erfahrungspunkte": 7
     },
     {
-        "Nummer": 44,
+        "Nummer": 128,
         "Gruppierung": 1,
         "Kennung": "KingdomCannoneer",
         "Name": "Cannoneer Deserter",
@@ -679,7 +679,7 @@
         ]
     },
     {
-        "Nummer": 45,
+        "Nummer": 130,
         "Gruppierung": 1,
         "Kennung": "CultBoss3",
         "Name": "Spawn of Hell",
@@ -697,7 +697,7 @@
         ]
     },
     {
-        "Nummer": 46,
+        "Nummer": 131,
         "Gruppierung": 1,
         "Kennung": "CultRecruit",
         "Name": "Cultist",
@@ -710,7 +710,7 @@
         "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 47,
+        "Nummer": 132,
         "Gruppierung": 1,
         "Kennung": "CultBoss1",
         "Name": "Witch of the Swamp",
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "Nummer": 48,
+        "Nummer": 133,
         "Gruppierung": 1,
         "Kennung": "CultCavalry",
         "Name": "Shadowsneaker",
@@ -743,7 +743,7 @@
         ]
     },
     {
-        "Nummer": 49,
+        "Nummer": 134,
         "Gruppierung": 1,
         "Kennung": "CultBowman",
         "Name": "Fanatic",
@@ -756,7 +756,7 @@
         "Erfahrungspunkte": 6
     },
     {
-        "Nummer": 50,
+        "Nummer": 135,
         "Gruppierung": 1,
         "Kennung": "CultLongbowman",
         "Name": "Dark Priest",
@@ -769,7 +769,7 @@
         "Erfahrungspunkte": 8
     },
     {
-        "Nummer": 51,
+        "Nummer": 136,
         "Gruppierung": 1,
         "Kennung": "CultCrossbowman",
         "Name": "Firedancer",
@@ -782,7 +782,7 @@
         "Erfahrungspunkte": 14
     },
     {
-        "Nummer": 52,
+        "Nummer": 137,
         "Gruppierung": 1,
         "Kennung": "CultCanoneer",
         "Name": "Dancing Dervish",
@@ -799,7 +799,7 @@
         ]
     },
     {
-        "Nummer": 53,
+        "Nummer": 140,
         "Gruppierung": 1,
         "Kennung": "RaidersRecruit",
         "Name": "Nomad",
@@ -812,7 +812,7 @@
         "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 54,
+        "Nummer": 141,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalry",
         "Name": "Lance Rider",
@@ -829,7 +829,7 @@
         ]
     },
     {
-        "Nummer": 55,
+        "Nummer": 142,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalryBow",
         "Name": "Riding Bowman",
@@ -846,7 +846,7 @@
         ]
     },
     {
-        "Nummer": 56,
+        "Nummer": 143,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalryLongbow",
         "Name": "Riding Amazonian Guard",
@@ -863,7 +863,7 @@
         ]
     },
     {
-        "Nummer": 57,
+        "Nummer": 144,
         "Gruppierung": 1,
         "Kennung": "RaidersCavalryCrossbow",
         "Name": "Cataphract",
@@ -880,7 +880,7 @@
         ]
     },
     {
-        "Nummer": 58,
+        "Nummer": 145,
         "Gruppierung": 1,
         "Kennung": "RaidersBoss1",
         "Name": "Uproarious Bull",
@@ -896,7 +896,7 @@
         ]
     },
     {
-        "Nummer": 59,
+        "Nummer": 146,
         "Gruppierung": 1,
         "Kennung": "RaidersBowman",
         "Name": "Composite Bowman",
@@ -912,7 +912,7 @@
         ]
     },
     {
-        "Nummer": 60,
+        "Nummer": 150,
         "Gruppierung": 1,
         "Kennung": "NordsEliteSoldier",
         "Name": "Jomsviking",
@@ -928,7 +928,7 @@
         ]
     },
     {
-        "Nummer": 61,
+        "Nummer": 151,
         "Gruppierung": 1,
         "Kennung": "NordsSoldier",
         "Name": "Housecarl",
@@ -944,7 +944,7 @@
         ]
     },
     {
-        "Nummer": 62,
+        "Nummer": 152,
         "Gruppierung": 1,
         "Kennung": "NordsMilitia",
         "Name": "Karl",
@@ -960,7 +960,7 @@
         ]
     },
     {
-        "Nummer": 63,
+        "Nummer": 153,
         "Gruppierung": 1,
         "Kennung": "NordsRecruit",
         "Name": "Thrall",
@@ -976,7 +976,7 @@
         ]
     },
     {
-        "Nummer": 64,
+        "Nummer": 154,
         "Gruppierung": 1,
         "Kennung": "NordsBowman",
         "Name": "Valkyrie",
@@ -989,7 +989,7 @@
         "Erfahrungspunkte": 3
     },
     {
-        "Nummer": 65,
+        "Nummer": 155,
         "Gruppierung": 1,
         "Kennung": "NordsCanoneer",
         "Name": "Berserk",
@@ -1006,7 +1006,7 @@
         ]
     },
     {
-        "Nummer": 66,
+        "Nummer": 160,
         "Gruppierung": 1,
         "Kennung": "NeutralCavalry",
         "Name": "Grey Wolf",
@@ -1022,7 +1022,7 @@
         ]
     },
     {
-        "Nummer": 67,
+        "Nummer": 180,
         "Gruppierung": 1,
         "Kennung": "MayaRecruit",
         "Name": "Tribesman",
@@ -1035,7 +1035,7 @@
         "Erfahrungspunkte": 1
     },
     {
-        "Nummer": 68,
+        "Nummer": 181,
         "Gruppierung": 1,
         "Kennung": "MayaCavalry",
         "Name": "Shaman",
@@ -1051,7 +1051,7 @@
         ]
     },
     {
-        "Nummer": 69,
+        "Nummer": 182,
         "Gruppierung": 1,
         "Kennung": "MayaCanoneer",
         "Name": "Jaguar Warrior",
@@ -1068,7 +1068,7 @@
         ]
     },
     {
-        "Nummer": 70,
+        "Nummer": 190,
         "Gruppierung": 1,
         "Kennung": "WildlifeRecruit",
         "Name": "Boar",
@@ -1081,7 +1081,7 @@
         "Erfahrungspunkte": 12
     },
     {
-        "Nummer": 71,
+        "Nummer": 191,
         "Gruppierung": 1,
         "Kennung": "WildlifeMilitia",
         "Name": "Bear",
@@ -1097,7 +1097,7 @@
         ]
     },
     {
-        "Nummer": 72,
+        "Nummer": 192,
         "Gruppierung": 1,
         "Kennung": "WildlifeBowman",
         "Name": "Wolf",
@@ -1110,7 +1110,7 @@
         "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 73,
+        "Nummer": 193,
         "Gruppierung": 1,
         "Kennung": "WildlifeLongbowman",
         "Name": "Wolf Packleader",
@@ -1126,7 +1126,7 @@
         ]
     },
     {
-        "Nummer": 74,
+        "Nummer": 194,
         "Gruppierung": 1,
         "Kennung": "WildlifeCavalry",
         "Name": "Fox",
@@ -1143,7 +1143,7 @@
         ]
     },
     {
-        "Nummer": 75,
+        "Nummer": 195,
         "Gruppierung": 1,
         "Kennung": "WildlifeCannoneer",
         "Name": "Giant",
@@ -1160,7 +1160,7 @@
         ]
     },
     {
-        "Nummer": 76,
+        "Nummer": 196,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomRecruit",
         "Name": "Royal Recruit",
@@ -1173,7 +1173,7 @@
         "Erfahrungspunkte": 14
     },
     {
-        "Nummer": 77,
+        "Nummer": 197,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomMilitia",
         "Name": "Royal Militia",
@@ -1189,7 +1189,7 @@
         ]
     },
     {
-        "Nummer": 78,
+        "Nummer": 199,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomBowman",
         "Name": "Royal Bowman",
@@ -1202,7 +1202,7 @@
         "Erfahrungspunkte": 12
     },
     {
-        "Nummer": 79,
+        "Nummer": 200,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomLongbowman",
         "Name": "Royal Longbowman",
@@ -1218,7 +1218,7 @@
         ]
     },
     {
-        "Nummer": 80,
+        "Nummer": 201,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomCavalry",
         "Name": "Royal Cavalry",
@@ -1235,7 +1235,7 @@
         ]
     },
     {
-        "Nummer": 81,
+        "Nummer": 202,
         "Gruppierung": 1,
         "Kennung": "EpicRaidKingdomCannoneer",
         "Name": "Royal Cannoneer",
@@ -1252,7 +1252,7 @@
         ]
     },
     {
-        "Nummer": 82,
+        "Nummer": 220,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditRecruit",
         "Name": "Sword Clasher",
@@ -1268,7 +1268,7 @@
         ]
     },
     {
-        "Nummer": 83,
+        "Nummer": 221,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditMilitia",
         "Name": "Sword Wielder",
@@ -1284,7 +1284,7 @@
         ]
     },
     {
-        "Nummer": 84,
+        "Nummer": 222,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditSoldier",
         "Name": "Sword Master",
@@ -1300,7 +1300,7 @@
         ]
     },
     {
-        "Nummer": 85,
+        "Nummer": 223,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditCavalry",
         "Name": "Horseman",
@@ -1317,7 +1317,7 @@
         ]
     },
     {
-        "Nummer": 86,
+        "Nummer": 224,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBowman",
         "Name": "Dune Marksman",
@@ -1333,7 +1333,7 @@
         ]
     },
     {
-        "Nummer": 87,
+        "Nummer": 225,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditLongbowman",
         "Name": "Desert Marksman",
@@ -1350,7 +1350,7 @@
         ]
     },
     {
-        "Nummer": 88,
+        "Nummer": 226,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditCavalryBowman",
         "Name": "Mounted Bowman",
@@ -1368,7 +1368,7 @@
         ]
     },
     {
-        "Nummer": 89,
+        "Nummer": 227,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditCanoneer",
         "Name": "Stone Cannon",
@@ -1385,7 +1385,7 @@
         ]
     },
     {
-        "Nummer": 90,
+        "Nummer": 230,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorRecruit",
         "Name": "Sailor",
@@ -1401,7 +1401,7 @@
         ]
     },
     {
-        "Nummer": 91,
+        "Nummer": 231,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorMilitia",
         "Name": "Battle Hardened Sailor",
@@ -1417,7 +1417,7 @@
         ]
     },
     {
-        "Nummer": 92,
+        "Nummer": 232,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorCavalry",
         "Name": "Mounted Sailor",
@@ -1434,7 +1434,7 @@
         ]
     },
     {
-        "Nummer": 93,
+        "Nummer": 233,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBowman",
         "Name": "Boatswain",
@@ -1452,7 +1452,7 @@
         ]
     },
     {
-        "Nummer": 94,
+        "Nummer": 234,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorLongbowman",
         "Name": "Petty Officer Second Class",
@@ -1469,7 +1469,7 @@
         ]
     },
     {
-        "Nummer": 95,
+        "Nummer": 235,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorCanoneer",
         "Name": "Cannon Master",
@@ -1486,7 +1486,7 @@
         ]
     },
     {
-        "Nummer": 96,
+        "Nummer": 240,
         "Gruppierung": 1,
         "Kennung": "OrientalApe1",
         "Name": "Stick-wielding Ape",
@@ -1502,7 +1502,7 @@
         ]
     },
     {
-        "Nummer": 97,
+        "Nummer": 241,
         "Gruppierung": 1,
         "Kennung": "OrientalApe2",
         "Name": "Stone-throwing Ape",
@@ -1520,7 +1520,7 @@
         ]
     },
     {
-        "Nummer": 98,
+        "Nummer": 242,
         "Gruppierung": 1,
         "Kennung": "OrientalApe3",
         "Name": "Alpha Ape",
@@ -1537,7 +1537,7 @@
         ]
     },
     {
-        "Nummer": 99,
+        "Nummer": 243,
         "Gruppierung": 1,
         "Kennung": "OrientalApe4",
         "Name": "Nervous Ape",
@@ -1554,7 +1554,7 @@
         ]
     },
     {
-        "Nummer": 100,
+        "Nummer": 277,
         "Gruppierung": 1,
         "Kennung": "BlondeBowman",
         "Name": "Blonde Bowman",
@@ -1570,7 +1570,7 @@
         ]
     },
     {
-        "Nummer": 101,
+        "Nummer": 278,
         "Gruppierung": 1,
         "Kennung": "DefensiveMiner",
         "Name": "Defensive Miner",
@@ -1586,7 +1586,7 @@
         ]
     },
     {
-        "Nummer": 102,
+        "Nummer": 279,
         "Gruppierung": 1,
         "Kennung": "GoldenGuard",
         "Name": "Golden Guard",
@@ -1603,7 +1603,7 @@
         ]
     },
     {
-        "Nummer": 103,
+        "Nummer": 293,
         "Gruppierung": 1,
         "Kennung": "RecklessRider",
         "Name": "Reckless Rider",
@@ -1619,7 +1619,7 @@
         ]
     },
     {
-        "Nummer": 104,
+        "Nummer": 294,
         "Gruppierung": 1,
         "Kennung": "FirmDefender",
         "Name": "Firm Defender",
@@ -1635,7 +1635,7 @@
         ]
     },
     {
-        "Nummer": 105,
+        "Nummer": 674,
         "Gruppierung": 1,
         "Kennung": "SlickBanditBoss",
         "Name": "Slick Bandit Boss",
@@ -1653,7 +1653,7 @@
         ]
     },
     {
-        "Nummer": 106,
+        "Nummer": 250,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherRecruit",
         "Name": "Rascal",
@@ -1666,7 +1666,7 @@
         "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 107,
+        "Nummer": 251,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherMilitia",
         "Name": "Vandal",
@@ -1679,7 +1679,7 @@
         "Erfahrungspunkte": 9
     },
     {
-        "Nummer": 108,
+        "Nummer": 252,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherSoldier",
         "Name": "Bully",
@@ -1692,7 +1692,7 @@
         "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 109,
+        "Nummer": 253,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherCavalry",
         "Name": "Prankster",
@@ -1709,7 +1709,7 @@
         ]
     },
     {
-        "Nummer": 110,
+        "Nummer": 254,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBowman",
         "Name": "Ruffian",
@@ -1722,7 +1722,7 @@
         "Erfahrungspunkte": 5
     },
     {
-        "Nummer": 111,
+        "Nummer": 255,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherLongbowman",
         "Name": "Scoundrel",
@@ -1735,7 +1735,7 @@
         "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 112,
+        "Nummer": 256,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherCrossbowman",
         "Name": "Cad",
@@ -1748,7 +1748,7 @@
         "Erfahrungspunkte": 22
     },
     {
-        "Nummer": 113,
+        "Nummer": 257,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherEliteSoldier",
         "Name": "Grouch",
@@ -1761,7 +1761,7 @@
         "Erfahrungspunkte": 20
     },
     {
-        "Nummer": 114,
+        "Nummer": 258,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherCannoneer",
         "Name": "Whiner",
@@ -1778,7 +1778,7 @@
         ]
     },
     {
-        "Nummer": 115,
+        "Nummer": 259,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherEliteCavalry",
         "Name": "Scallywag",
@@ -1795,7 +1795,7 @@
         ]
     },
     {
-        "Nummer": 116,
+        "Nummer": 260,
         "Gruppierung": 1,
         "Kennung": "Deer_Unit",
         "Name": "Deer",
@@ -1808,7 +1808,7 @@
         "Erfahrungspunkte": 2
     },
     {
-        "Nummer": 117,
+        "Nummer": 270,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeRecruit",
         "Name": "Frost Ibex",
@@ -1824,7 +1824,7 @@
         ]
     },
     {
-        "Nummer": 118,
+        "Nummer": 271,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeMilitia",
         "Name": "Frost Bear",
@@ -1840,7 +1840,7 @@
         ]
     },
     {
-        "Nummer": 119,
+        "Nummer": 272,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeCavalry",
         "Name": "Frost Fox",
@@ -1858,7 +1858,7 @@
         ]
     },
     {
-        "Nummer": 120,
+        "Nummer": 273,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeAir",
         "Name": "Frost Eagle",
@@ -1876,7 +1876,7 @@
         ]
     },
     {
-        "Nummer": 121,
+        "Nummer": 274,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeBowman",
         "Name": "Frost Wolf",
@@ -1892,7 +1892,7 @@
         ]
     },
     {
-        "Nummer": 122,
+        "Nummer": 275,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeLongbowman",
         "Name": "Frost Leopard",
@@ -1908,7 +1908,7 @@
         ]
     },
     {
-        "Nummer": 123,
+        "Nummer": 276,
         "Gruppierung": 1,
         "Kennung": "EliteWildlifeCannoneer",
         "Name": "Frost Giant",
@@ -1925,7 +1925,7 @@
         ]
     },
     {
-        "Nummer": 124,
+        "Nummer": 288,
         "Gruppierung": 1,
         "Kennung": "EnemyCannoneer",
         "Name": "Cannoneer",
@@ -1941,7 +1941,7 @@
         ]
     },
     {
-        "Nummer": 125,
+        "Nummer": 289,
         "Gruppierung": 1,
         "Kennung": "MiniGolemRecruit",
         "Name": "Miniature Clay Golem",
@@ -1954,7 +1954,7 @@
         "Erfahrungspunkte": 7
     },
     {
-        "Nummer": 126,
+        "Nummer": 290,
         "Gruppierung": 1,
         "Kennung": "MiniGolemMilitia",
         "Name": "Miniature Rock Golem",
@@ -1967,7 +1967,7 @@
         "Erfahrungspunkte": 10
     },
     {
-        "Nummer": 127,
+        "Nummer": 291,
         "Gruppierung": 1,
         "Kennung": "MiniGolemCavalry",
         "Name": "Miniature Ice Golem",
@@ -1984,7 +1984,7 @@
         ]
     },
     {
-        "Nummer": 128,
+        "Nummer": 292,
         "Gruppierung": 1,
         "Kennung": "MiniGolemCannoneer",
         "Name": "Miniature Lava Golem",
@@ -2001,7 +2001,7 @@
         ]
     },
     {
-        "Nummer": 129,
+        "Nummer": 500,
         "Gruppierung": 1,
         "Kennung": "BanditBoss1",
         "Name": "Skunk",
@@ -2018,7 +2018,7 @@
         ]
     },
     {
-        "Nummer": 130,
+        "Nummer": 501,
         "Gruppierung": 1,
         "Kennung": "BanditBoss2",
         "Name": "One-Eyed Bert",
@@ -2035,7 +2035,7 @@
         ]
     },
     {
-        "Nummer": 131,
+        "Nummer": 515,
         "Gruppierung": 1,
         "Kennung": "KingdomBoss1",
         "Name": "Sir Robin",
@@ -2053,7 +2053,7 @@
         ]
     },
     {
-        "Nummer": 132,
+        "Nummer": 516,
         "Gruppierung": 1,
         "Kennung": "KingdomBoss2",
         "Name": "Big Bertha",
@@ -2071,7 +2071,7 @@
         ]
     },
     {
-        "Nummer": 133,
+        "Nummer": 520,
         "Gruppierung": 1,
         "Kennung": "CultBoss2",
         "Name": "Dark High Priest",
@@ -2088,7 +2088,7 @@
         ]
     },
     {
-        "Nummer": 134,
+        "Nummer": 521,
         "Gruppierung": 1,
         "Kennung": "CultBoss4",
         "Name": "Preacher of Flames",
@@ -2106,7 +2106,7 @@
         ]
     },
     {
-        "Nummer": 135,
+        "Nummer": 530,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss1",
         "Name": "Giant Bogor",
@@ -2123,7 +2123,7 @@
         ]
     },
     {
-        "Nummer": 136,
+        "Nummer": 531,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss2",
         "Name": "Giant Gogor",
@@ -2140,7 +2140,7 @@
         ]
     },
     {
-        "Nummer": 137,
+        "Nummer": 532,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss3",
         "Name": "Unicorn",
@@ -2156,7 +2156,7 @@
         ]
     },
     {
-        "Nummer": 138,
+        "Nummer": 533,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss4",
         "Name": "Furious Boar",
@@ -2172,7 +2172,7 @@
         ]
     },
     {
-        "Nummer": 139,
+        "Nummer": 534,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss5",
         "Name": "Evil King",
@@ -2188,7 +2188,7 @@
         ]
     },
     {
-        "Nummer": 140,
+        "Nummer": 535,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss6",
         "Name": "Iron Fist",
@@ -2205,7 +2205,7 @@
         ]
     },
     {
-        "Nummer": 141,
+        "Nummer": 536,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss7",
         "Name": "Giant Bear",
@@ -2222,7 +2222,7 @@
         ]
     },
     {
-        "Nummer": 142,
+        "Nummer": 537,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss8",
         "Name": "Rivaling Tailor",
@@ -2240,7 +2240,7 @@
         ]
     },
     {
-        "Nummer": 143,
+        "Nummer": 538,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss9",
         "Name": "Black Bull",
@@ -2256,7 +2256,7 @@
         ]
     },
     {
-        "Nummer": 144,
+        "Nummer": 539,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss10",
         "Name": "Dark Magician",
@@ -2272,7 +2272,7 @@
         ]
     },
     {
-        "Nummer": 145,
+        "Nummer": 540,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss11",
         "Name": "Lying Goat",
@@ -2289,7 +2289,7 @@
         ]
     },
     {
-        "Nummer": 146,
+        "Nummer": 541,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss12",
         "Name": "Cudgel Claus",
@@ -2305,7 +2305,7 @@
         ]
     },
     {
-        "Nummer": 147,
+        "Nummer": 542,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss13",
         "Name": "Assassin",
@@ -2323,7 +2323,7 @@
         ]
     },
     {
-        "Nummer": 148,
+        "Nummer": 543,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBoss14",
         "Name": "Greedy Inn-Keeper",
@@ -2341,7 +2341,7 @@
         ]
     },
     {
-        "Nummer": 149,
+        "Nummer": 550,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossPiper",
         "Name": "The Pied Piper of Hamelin",
@@ -2359,7 +2359,7 @@
         ]
     },
     {
-        "Nummer": 150,
+        "Nummer": 551,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossMayor",
         "Name": "The Mayor",
@@ -2375,7 +2375,7 @@
         ]
     },
     {
-        "Nummer": 151,
+        "Nummer": 552,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossRatKing",
         "Name": "The King of Rats",
@@ -2392,7 +2392,7 @@
         ]
     },
     {
-        "Nummer": 152,
+        "Nummer": 553,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossEvilQueen",
         "Name": "Ilsebille, the Evil Queen",
@@ -2408,7 +2408,7 @@
         ]
     },
     {
-        "Nummer": 153,
+        "Nummer": 554,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossHuntsman",
         "Name": "Royal Huntsmen Leader",
@@ -2425,7 +2425,7 @@
         ]
     },
     {
-        "Nummer": 154,
+        "Nummer": 555,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossStepmother",
         "Name": "The Evil Stepmother",
@@ -2441,7 +2441,7 @@
         ]
     },
     {
-        "Nummer": 155,
+        "Nummer": 556,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossCaptain",
         "Name": "Royal Captain",
@@ -2457,7 +2457,7 @@
         ]
     },
     {
-        "Nummer": 156,
+        "Nummer": 557,
         "Gruppierung": 1,
         "Kennung": "EpicRaidBossJuggernaut",
         "Name": "Royal Juggernaut",
@@ -2474,7 +2474,7 @@
         ]
     },
     {
-        "Nummer": 157,
+        "Nummer": 570,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss1",
         "Name": "Shrewd Thief",
@@ -2490,7 +2490,7 @@
         ]
     },
     {
-        "Nummer": 158,
+        "Nummer": 571,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss2",
         "Name": "Smart Thief",
@@ -2506,7 +2506,7 @@
         ]
     },
     {
-        "Nummer": 159,
+        "Nummer": 572,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss3",
         "Name": "Mysterious Thief",
@@ -2522,7 +2522,7 @@
         ]
     },
     {
-        "Nummer": 160,
+        "Nummer": 573,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss4",
         "Name": "Treacherous Thief",
@@ -2538,7 +2538,7 @@
         ]
     },
     {
-        "Nummer": 161,
+        "Nummer": 574,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss5",
         "Name": "Snooty Thief",
@@ -2554,7 +2554,7 @@
         ]
     },
     {
-        "Nummer": 162,
+        "Nummer": 575,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss6",
         "Name": "Grayed Thief",
@@ -2571,7 +2571,7 @@
         ]
     },
     {
-        "Nummer": 163,
+        "Nummer": 576,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss7",
         "Name": "Sneaking Thief",
@@ -2588,7 +2588,7 @@
         ]
     },
     {
-        "Nummer": 164,
+        "Nummer": 577,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss8",
         "Name": "Scarred Thief",
@@ -2606,7 +2606,7 @@
         ]
     },
     {
-        "Nummer": 165,
+        "Nummer": 578,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss9",
         "Name": "Greedy Thief",
@@ -2624,7 +2624,7 @@
         ]
     },
     {
-        "Nummer": 166,
+        "Nummer": 579,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditBoss10",
         "Name": "Silly Thief",
@@ -2641,7 +2641,7 @@
         ]
     },
     {
-        "Nummer": 167,
+        "Nummer": 590,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBoss1",
         "Name": "Steersman",
@@ -2657,7 +2657,7 @@
         ]
     },
     {
-        "Nummer": 168,
+        "Nummer": 591,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBoss2",
         "Name": "Mutineer",
@@ -2674,7 +2674,7 @@
         ]
     },
     {
-        "Nummer": 169,
+        "Nummer": 592,
         "Gruppierung": 1,
         "Kennung": "OrientalSailorBoss3",
         "Name": "Captain",
@@ -2691,7 +2691,7 @@
         ]
     },
     {
-        "Nummer": 170,
+        "Nummer": 600,
         "Gruppierung": 1,
         "Kennung": "OrientalBanditLord",
         "Name": "Bandit Lord",
@@ -2708,7 +2708,7 @@
         ]
     },
     {
-        "Nummer": 171,
+        "Nummer": 601,
         "Gruppierung": 1,
         "Kennung": "OrientalCrumpyParrot",
         "Name": "Grumpy Parrot",
@@ -2726,7 +2726,7 @@
         ]
     },
     {
-        "Nummer": 172,
+        "Nummer": 602,
         "Gruppierung": 1,
         "Kennung": "OrientalOasisGuardian",
         "Name": "Oasis Guardian",
@@ -2742,7 +2742,7 @@
         ]
     },
     {
-        "Nummer": 173,
+        "Nummer": 603,
         "Gruppierung": 1,
         "Kennung": "OrientalBolderWorm",
         "Name": "Boulder Worm",
@@ -2760,7 +2760,7 @@
         ]
     },
     {
-        "Nummer": 174,
+        "Nummer": 604,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBat",
         "Name": "Giant Bat",
@@ -2777,7 +2777,7 @@
         ]
     },
     {
-        "Nummer": 175,
+        "Nummer": 605,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBlossom1",
         "Name": "Hungry Blossom",
@@ -2795,7 +2795,7 @@
         ]
     },
     {
-        "Nummer": 176,
+        "Nummer": 606,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBlossom2",
         "Name": "Fierce Blossom",
@@ -2813,7 +2813,7 @@
         ]
     },
     {
-        "Nummer": 177,
+        "Nummer": 607,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantBlossom3",
         "Name": "Bulbous Blossom",
@@ -2831,7 +2831,7 @@
         ]
     },
     {
-        "Nummer": 178,
+        "Nummer": 608,
         "Gruppierung": 1,
         "Kennung": "OrientalLibraryBoss",
         "Name": "Library Golem",
@@ -2848,7 +2848,7 @@
         ]
     },
     {
-        "Nummer": 179,
+        "Nummer": 609,
         "Gruppierung": 1,
         "Kennung": "OrientalStoneStatue1",
         "Name": "Large Stone Statue",
@@ -2865,7 +2865,7 @@
         ]
     },
     {
-        "Nummer": 180,
+        "Nummer": 610,
         "Gruppierung": 1,
         "Kennung": "OrientalStoneStatue2",
         "Name": "Mossy Stone Statue",
@@ -2882,7 +2882,7 @@
         ]
     },
     {
-        "Nummer": 181,
+        "Nummer": 611,
         "Gruppierung": 1,
         "Kennung": "OrientalCannonTower1",
         "Name": "Giant Cannon",
@@ -2899,7 +2899,7 @@
         ]
     },
     {
-        "Nummer": 182,
+        "Nummer": 613,
         "Gruppierung": 1,
         "Kennung": "OrientalInformant",
         "Name": "Informant",
@@ -2915,7 +2915,7 @@
         ]
     },
     {
-        "Nummer": 183,
+        "Nummer": 614,
         "Gruppierung": 1,
         "Kennung": "OrientalGiantSeaSnake",
         "Name": "Giant Sea Snake",
@@ -2932,7 +2932,7 @@
         ]
     },
     {
-        "Nummer": 184,
+        "Nummer": 615,
         "Gruppierung": 1,
         "Kennung": "OrientalGuard1",
         "Name": "Grumpy Guard",
@@ -2950,7 +2950,7 @@
         ]
     },
     {
-        "Nummer": 185,
+        "Nummer": 616,
         "Gruppierung": 1,
         "Kennung": "OrientalGuard2",
         "Name": "Insane Guard",
@@ -2968,7 +2968,7 @@
         ]
     },
     {
-        "Nummer": 186,
+        "Nummer": 617,
         "Gruppierung": 1,
         "Kennung": "OrientalCorruptedBolderWorm",
         "Name": "Corrupted Boulder Worm",
@@ -2986,7 +2986,7 @@
         ]
     },
     {
-        "Nummer": 187,
+        "Nummer": 618,
         "Gruppierung": 1,
         "Kennung": "OrientalCorruptedGiantBat",
         "Name": "Corrupted Giant Bat",
@@ -3003,7 +3003,7 @@
         ]
     },
     {
-        "Nummer": 188,
+        "Nummer": 630,
         "Gruppierung": 1,
         "Kennung": "ChupacabraBoss",
         "Name": "El Chupacabra",
@@ -3020,7 +3020,7 @@
         ]
     },
     {
-        "Nummer": 189,
+        "Nummer": 631,
         "Gruppierung": 1,
         "Kennung": "DragonBoss",
         "Name": "Ancient Dragon",
@@ -3037,7 +3037,7 @@
         ]
     },
     {
-        "Nummer": 190,
+        "Nummer": 640,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBoss1",
         "Name": "Denis the Delinquent",
@@ -3054,7 +3054,7 @@
         ]
     },
     {
-        "Nummer": 191,
+        "Nummer": 641,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBoss2",
         "Name": "Alex the Troublemaker",
@@ -3071,7 +3071,7 @@
         ]
     },
     {
-        "Nummer": 192,
+        "Nummer": 642,
         "Gruppierung": 1,
         "Kennung": "PartyCrasherBoss3",
         "Name": "Bob the Miscreant",
@@ -3088,7 +3088,7 @@
         ]
     },
     {
-        "Nummer": 193,
+        "Nummer": 650,
         "Gruppierung": 1,
         "Kennung": "ChristmasBoss1",
         "Name": "Croaker",
@@ -3106,7 +3106,7 @@
         ]
     },
     {
-        "Nummer": 194,
+        "Nummer": 653,
         "Gruppierung": 1,
         "Kennung": "BirthdayShaman",
         "Name": "Mystical Shaman",
@@ -3123,7 +3123,7 @@
         ]
     },
     {
-        "Nummer": 195,
+        "Nummer": 654,
         "Gruppierung": 1,
         "Kennung": "TMC_v1_NordsRightHandBoss",
         "Name": "Steel Beard",
@@ -3140,7 +3140,7 @@
         ]
     },
     {
-        "Nummer": 196,
+        "Nummer": 655,
         "Gruppierung": 1,
         "Kennung": "TMC_ColossalEagleBoss",
         "Name": "Colossal Eagle",
@@ -3157,7 +3157,7 @@
         ]
     },
     {
-        "Nummer": 197,
+        "Nummer": 656,
         "Gruppierung": 1,
         "Kennung": "TMC_BossMammoth",
         "Name": "Mammoth",
@@ -3174,7 +3174,7 @@
         ]
     },
     {
-        "Nummer": 198,
+        "Nummer": 657,
         "Gruppierung": 1,
         "Kennung": "TMC_BossWinterTerror",
         "Name": "Winter Terror",
@@ -3192,7 +3192,7 @@
         ]
     },
     {
-        "Nummer": 199,
+        "Nummer": 658,
         "Gruppierung": 1,
         "Kennung": "TMC_BossSmilodon",
         "Name": "Smilodon",
@@ -3209,7 +3209,7 @@
         ]
     },
     {
-        "Nummer": 200,
+        "Nummer": 659,
         "Gruppierung": 1,
         "Kennung": "TMC_BossEnormousIbex",
         "Name": "Enormous Ibex",
@@ -3227,7 +3227,7 @@
         ]
     },
     {
-        "Nummer": 201,
+        "Nummer": 660,
         "Gruppierung": 1,
         "Kennung": "TMC_BossGhastlyWolf",
         "Name": "Ghastly Wolf",
@@ -3245,7 +3245,7 @@
         ]
     },
     {
-        "Nummer": 202,
+        "Nummer": 661,
         "Gruppierung": 1,
         "Kennung": "TMC_BossParagonElk",
         "Name": "Paragon Elk",
@@ -3262,7 +3262,7 @@
         ]
     },
     {
-        "Nummer": 203,
+        "Nummer": 662,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_0",
         "Name": "Risi",
@@ -3280,7 +3280,7 @@
         ]
     },
     {
-        "Nummer": 204,
+        "Nummer": 663,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_1",
         "Name": "Risi",
@@ -3298,7 +3298,7 @@
         ]
     },
     {
-        "Nummer": 205,
+        "Nummer": 664,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_2",
         "Name": "Risi",
@@ -3316,7 +3316,7 @@
         ]
     },
     {
-        "Nummer": 206,
+        "Nummer": 665,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_3",
         "Name": "Risi",
@@ -3334,7 +3334,7 @@
         ]
     },
     {
-        "Nummer": 207,
+        "Nummer": 666,
         "Gruppierung": 1,
         "Kennung": "TMC_BossFrostGiantKing_4",
         "Name": "Risi",
@@ -3352,7 +3352,7 @@
         ]
     },
     {
-        "Nummer": 208,
+        "Nummer": 667,
         "Gruppierung": 1,
         "Kennung": "TMC_BossNordsLeader",
         "Name": "Bandit Lord Björn",
@@ -3368,7 +3368,7 @@
         ]
     },
     {
-        "Nummer": 209,
+        "Nummer": 668,
         "Gruppierung": 1,
         "Kennung": "MadScientistBoss",
         "Name": "Mad Scientist",
@@ -3385,7 +3385,7 @@
         ]
     },
     {
-        "Nummer": 210,
+        "Nummer": 669,
         "Gruppierung": 1,
         "Kennung": "DarkLordBoss",
         "Name": "Dark Lord",
@@ -3401,7 +3401,7 @@
         ]
     },
     {
-        "Nummer": 211,
+        "Nummer": 671,
         "Gruppierung": 1,
         "Kennung": "ChristmasBossTwin1",
         "Name": "Ribbitha",
@@ -3417,7 +3417,7 @@
         ]
     },
     {
-        "Nummer": 212,
+        "Nummer": 672,
         "Gruppierung": 1,
         "Kennung": "ChristmasBossTwin2",
         "Name": "Ribbitha",
@@ -3433,7 +3433,7 @@
         ]
     },
     {
-        "Nummer": 213,
+        "Nummer": 673,
         "Gruppierung": 1,
         "Kennung": "ChristmasBossTwin3",
         "Name": "Ribbitha",
@@ -3449,7 +3449,7 @@
         ]
     },
     {
-        "Nummer": 214,
+        "Nummer": 800,
         "Gruppierung": 1,
         "Kennung": "TreasureShipLoot",
         "Name": "Treasure",
@@ -3459,7 +3459,7 @@
         "Erfahrungspunkte": 250
     },
     {
-        "Nummer": 215,
+        "Nummer": 901,
         "Gruppierung": 2,
         "Kennung": "General",
         "Name": "General",
@@ -3471,7 +3471,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 216,
+        "Nummer": 903,
         "Gruppierung": 2,
         "Kennung": "StarGeneral2",
         "Name": "Master of Defense",
@@ -3487,7 +3487,7 @@
         ]
     },
     {
-        "Nummer": 217,
+        "Nummer": 904,
         "Gruppierung": 2,
         "Kennung": "StarGeneral3",
         "Name": "Master of Martial Arts",
@@ -3504,7 +3504,7 @@
         ]
     },
     {
-        "Nummer": 218,
+        "Nummer": 906,
         "Gruppierung": 2,
         "Kennung": "HalloweenGeneralDracul",
         "Name": "Lord Dracul",
@@ -3520,7 +3520,7 @@
         ]
     },
     {
-        "Nummer": 219,
+        "Nummer": 907,
         "Gruppierung": 2,
         "Kennung": "GeneralVargus",
         "Name": "Champion Vargus",
@@ -3537,7 +3537,7 @@
         ]
     },
     {
-        "Nummer": 220,
+        "Nummer": 908,
         "Gruppierung": 2,
         "Kennung": "GeneralAnslem",
         "Name": "Champion Anslem",
@@ -3554,7 +3554,7 @@
         ]
     },
     {
-        "Nummer": 221,
+        "Nummer": 909,
         "Gruppierung": 2,
         "Kennung": "GeneralNusala",
         "Name": "Champion Nusala",
@@ -3572,7 +3572,7 @@
         ]
     },
     {
-        "Nummer": 222,
+        "Nummer": 910,
         "Gruppierung": 2,
         "Kennung": "MasterGeneral",
         "Name": "Battle Hardened General",
@@ -3584,7 +3584,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 223,
+        "Nummer": 911,
         "Gruppierung": 2,
         "Kennung": "HalloweenGeneral",
         "Name": "Grim Reaper General",
@@ -3596,7 +3596,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 224,
+        "Nummer": 912,
         "Gruppierung": 2,
         "Kennung": "RetailBoxGeneral",
         "Name": "General Bighelmet",
@@ -3608,7 +3608,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 225,
+        "Nummer": 913,
         "Gruppierung": 2,
         "Kennung": "EasterGeneral",
         "Name": "Veteran",
@@ -3620,7 +3620,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 226,
+        "Nummer": 914,
         "Gruppierung": 2,
         "Kennung": "RetailBox2General",
         "Name": "General Log",
@@ -3632,7 +3632,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 227,
+        "Nummer": 915,
         "Gruppierung": 2,
         "Kennung": "MajorGeneral",
         "Name": "Major General",
@@ -3644,7 +3644,7 @@
         "Angriffsreihenfolge": 2
     },
     {
-        "Nummer": 228,
+        "Nummer": 918,
         "Gruppierung": 2,
         "Kennung": "GeneralMary",
         "Name": "General Mary Christmas",
@@ -3659,7 +3659,7 @@
         ]
     },
     {
-        "Nummer": 229,
+        "Nummer": 919,
         "Gruppierung": 2,
         "Kennung": "MedicGeneral",
         "Name": "Field Medic General",
@@ -3674,7 +3674,7 @@
         ]
     },
     {
-        "Nummer": 230,
+        "Nummer": 920,
         "Gruppierung": 2,
         "Kennung": "MadScientistGeneral",
         "Name": "Mad Scientist",
@@ -3692,7 +3692,7 @@
         ]
     },
     {
-        "Nummer": 231,
+        "Nummer": 921,
         "Gruppierung": 2,
         "Kennung": "BorisGeneral",
         "Name": "General Boris",
@@ -3710,7 +3710,7 @@
         ]
     },
     {
-        "Nummer": 232,
+        "Nummer": 922,
         "Gruppierung": 2,
         "Kennung": "Anniversary2019General",
         "Name": "Older Gemini General",
@@ -3728,7 +3728,7 @@
         ]
     },
     {
-        "Nummer": 233,
+        "Nummer": 923,
         "Gruppierung": 2,
         "Kennung": "Halloween2019General",
         "Name": "Younger Gemini General",
@@ -3745,7 +3745,7 @@
         ]
     },
     {
-        "Nummer": 234,
+        "Nummer": 924,
         "Gruppierung": 2,
         "Kennung": "Xmas2019General",
         "Name": "Steadfast General",
@@ -3762,7 +3762,7 @@
         ]
     },
     {
-        "Nummer": 235,
+        "Nummer": 925,
         "Gruppierung": 2,
         "Kennung": "AssassinGeneral",
         "Name": "Cloaked General",
@@ -3779,7 +3779,7 @@
         ]
     },
     {
-        "Nummer": 236,
+        "Nummer": 926,
         "Gruppierung": 2,
         "Kennung": "SylvanaGeneral",
         "Name": "General Sylvana",
@@ -3797,7 +3797,7 @@
         ]
     },
     {
-        "Nummer": 237,
+        "Nummer": 927,
         "Gruppierung": 2,
         "Kennung": "GeneralTrembleBeard",
         "Name": "General Tremble Beard",
@@ -3815,7 +3815,7 @@
         ]
     },
     {
-        "Nummer": 238,
+        "Nummer": 928,
         "Gruppierung": 2,
         "Kennung": "GhostGeneral",
         "Name": "Ghost General",
@@ -3833,7 +3833,7 @@
         ]
     },
     {
-        "Nummer": 239,
+        "Nummer": 929,
         "Gruppierung": 2,
         "Kennung": "FrostyGeneral",
         "Name": "Frosty General",
@@ -3849,7 +3849,7 @@
         ]
     },
     {
-        "Nummer": 240,
+        "Nummer": 930,
         "Gruppierung": 2,
         "Kennung": "LonerGeneral",
         "Name": "Loner General",
@@ -3866,7 +3866,7 @@
         ]
     },
     {
-        "Nummer": 241,
+        "Nummer": 931,
         "Gruppierung": 2,
         "Kennung": "GeneralLoudmouth",
         "Name": "General Loudmouth",
@@ -3882,7 +3882,7 @@
         ]
     },
     {
-        "Nummer": 242,
+        "Nummer": 932,
         "Gruppierung": 2,
         "Kennung": "NutcrackerGeneral",
         "Name": "Nutcracker General",
@@ -3898,7 +3898,7 @@
         ]
     },
     {
-        "Nummer": 243,
+        "Nummer": 933,
         "Gruppierung": 2,
         "Kennung": "MiraculousGeneral",
         "Name": "Miraculous General",
@@ -3914,7 +3914,7 @@
         ]
     },
     {
-        "Nummer": 244,
+        "Nummer": 934,
         "Gruppierung": 2,
         "Kennung": "ResoluteGeneral",
         "Name": "Resolute General",
@@ -3930,7 +3930,7 @@
         ]
     },
     {
-        "Nummer": 245,
+        "Nummer": 950,
         "Gruppierung": 2,
         "Kennung": "JuanGeneral",
         "Name": "General Juan",
