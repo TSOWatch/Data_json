@@ -1,0 +1,743 @@
+{
+    "FileName": "mcc5",
+    "ID": "BuffAdventures_TMC_A_giant_Battle",
+    "Name": "A Giant Battle",
+    "Type": "Venture",
+    "Campaign": "TheMountainClan",
+    "GroupingNumber": 400,
+    "OrderNumber": 158,
+    "ExperiencePoints": 1537380,
+    "Players": 1,
+    "Elite": true,
+    "MCCDebuffit": true,
+    "MCCBuffit": true,
+    "Units": [
+        "TMC_BossRavagingOx",
+        "TMC_BossGargantuanLynx",
+        "EliteWildlifeRecruit",
+        "EliteWildlifeMilitia",
+        "EliteWildlifeCavalry",
+        "EliteWildlifeAir",
+        "EliteWildlifeBowman",
+        "EliteWildlifeLongbowman",
+        "EliteWildlifeCannoneer",
+        "TMC_ColossalEagleBoss",
+        "TMC_BossMammoth",
+        "TMC_BossSmilodon",
+        "TMC_BossEnormousIbex",
+        "TMC_BossGhastlyWolf",
+        "TMC_BossParagonElk",
+        "TMC_BossFrostGiantKing_0",
+        "TMC_BossFrostGiantKing_1",
+        "TMC_BossFrostGiantKing_2",
+        "TMC_BossFrostGiantKing_3",
+        "TMC_BossFrostGiantKing_4"
+    ],
+    "leirit": [
+        {
+            "ID": 10015,
+            "Alias": "",
+            "Type": 1,
+            "Location": "259, 179",
+            "Troops": {
+                "EliteWildlifeRecruit": 125,
+                "EliteWildlifeCavalry": 50,
+                "EliteWildlifeAir": 25
+            }
+        },
+        {
+            "ID": 10160,
+            "Alias": "",
+            "Type": 2,
+            "Location": "359, 25",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeCavalry": 50,
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeCannoneer": 50,
+                "TMC_BossMammoth": 1
+            }
+        },
+        {
+            "ID": 10320,
+            "Alias": "",
+            "Type": 2,
+            "Location": "183, 217",
+            "Troops": {
+                "EliteWildlifeRecruit": 100,
+                "EliteWildlifeCavalry": 75,
+                "EliteWildlifeAir": 25
+            }
+        },
+        {
+            "ID": 10473,
+            "Alias": "",
+            "Type": 1,
+            "Location": "210, 220",
+            "Troops": {
+                "TMC_BossGargantuanLynx": 1,
+                "EliteWildlifeMilitia": 25,
+                "EliteWildlifeBowman": 20,
+                "EliteWildlifeLongbowman": 50,
+                "EliteWildlifeCannoneer": 30
+            }
+        },
+        {
+            "ID": 10756,
+            "Alias": "",
+            "Type": 2,
+            "Location": "156, 276",
+            "Troops": {
+                "TMC_BossRavagingOx": 1,
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeAir": 25,
+                "EliteWildlifeBowman": 50
+            }
+        },
+        {
+            "ID": 10907,
+            "Alias": "",
+            "Type": 2,
+            "Location": "319, 44",
+            "Troops": {
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeLongbowman": 50,
+                "EliteWildlifeCannoneer": 50,
+                "TMC_BossParagonElk": 1
+            }
+        },
+        {
+            "ID": 10984,
+            "Alias": "",
+            "Type": 2,
+            "Location": "59, 343",
+            "Troops": {
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeAir": 75
+            }
+        },
+        {
+            "ID": 11328,
+            "Alias": "",
+            "Type": 2,
+            "Location": "268, 101",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeCavalry": 50,
+                "EliteWildlifeBowman": 50,
+                "TMC_ColossalEagleBoss": 1
+            }
+        },
+        {
+            "ID": 11427,
+            "Alias": "",
+            "Type": 2,
+            "Location": "309, 76",
+            "Troops": {
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeLongbowman": 55,
+                "EliteWildlifeCannoneer": 55
+            }
+        },
+        {
+            "ID": 11452,
+            "Alias": "",
+            "Type": 2,
+            "Location": "239, 310",
+            "Troops": {
+                "TMC_BossGargantuanLynx": 1,
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeAir": 25,
+                "EliteWildlifeCannoneer": 25
+            }
+        },
+        {
+            "ID": 11518,
+            "Alias": "",
+            "Type": 2,
+            "Location": "385, 196",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeAir": 60
+            }
+        },
+        {
+            "ID": 11921,
+            "Alias": "",
+            "Type": 2,
+            "Location": "554, 333",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeBowman": 100,
+                "EliteWildlifeAir": 50
+            }
+        },
+        {
+            "ID": 12010,
+            "Alias": "",
+            "Type": 1,
+            "Location": "383, 298",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeLongbowman": 70,
+                "EliteWildlifeCannoneer": 50
+            }
+        },
+        {
+            "ID": 12183,
+            "Alias": "",
+            "Type": 2,
+            "Location": "287, 168",
+            "Troops": {
+                "EliteWildlifeCavalry": 50,
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeBowman": 50,
+                "EliteWildlifeLongbowman": 50
+            }
+        },
+        {
+            "ID": 12303,
+            "Alias": "",
+            "Type": 2,
+            "Location": "361, 150",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeCavalry": 75,
+                "EliteWildlifeCannoneer": 30
+            }
+        },
+        {
+            "ID": 12353,
+            "Alias": "",
+            "Type": 1,
+            "Location": "246, 73",
+            "Troops": {
+                "EliteWildlifeAir": 65,
+                "EliteWildlifeCannoneer": 65
+            }
+        },
+        {
+            "ID": 12414,
+            "Alias": "",
+            "Type": 1,
+            "Location": "418, 375",
+            "Troops": {
+                "EliteWildlifeCavalry": 50,
+                "EliteWildlifeMilitia": 60,
+                "EliteWildlifeLongbowman": 50
+            }
+        },
+        {
+            "ID": 12481,
+            "Alias": "",
+            "Type": 1,
+            "Location": "223, 226",
+            "Troops": {
+                "EliteWildlifeCavalry": 75,
+                "EliteWildlifeAir": 25,
+                "EliteWildlifeCannoneer": 50
+            }
+        },
+        {
+            "ID": 12516,
+            "Alias": "",
+            "Type": 2,
+            "Location": "463, 46",
+            "Troops": {
+                "EliteWildlifeRecruit": 25,
+                "EliteWildlifeAir": 150
+            }
+        },
+        {
+            "ID": 12525,
+            "Alias": "",
+            "Type": 1,
+            "Location": "514, 336",
+            "Troops": {
+                "EliteWildlifeCavalry": 30,
+                "EliteWildlifeBowman": 65,
+                "EliteWildlifeMilitia": 65
+            }
+        },
+        {
+            "ID": 12569,
+            "Alias": "",
+            "Type": 1,
+            "Location": "395, 81",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeBowman": 50,
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeLongbowman": 35
+            }
+        },
+        {
+            "ID": 12827,
+            "Alias": "",
+            "Type": 2,
+            "Location": "195, 307",
+            "Troops": {
+                "EliteWildlifeMilitia": 30,
+                "EliteWildlifeCavalry": 75,
+                "EliteWildlifeAir": 75
+            }
+        },
+        {
+            "ID": 12828,
+            "Alias": "",
+            "Type": 2,
+            "Location": "178, 163",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeBowman": 50,
+                "EliteWildlifeLongbowman": 50
+            }
+        },
+        {
+            "ID": 13021,
+            "Alias": "",
+            "Type": 2,
+            "Location": "348, 45",
+            "Troops": {
+                "EliteWildlifeCavalry": 25,
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeBowman": 50,
+                "EliteWildlifeCannoneer": 50,
+                "TMC_BossSmilodon": 1
+            }
+        },
+        {
+            "ID": 13102,
+            "Alias": "",
+            "Type": 2,
+            "Location": "247, 170",
+            "Troops": {
+                "EliteWildlifeAir": 100,
+                "EliteWildlifeBowman": 100
+            }
+        },
+        {
+            "ID": 13273,
+            "Alias": "",
+            "Type": 1,
+            "Location": "445, 85",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeCavalry": 100,
+                "EliteWildlifeCannoneer": 100
+            }
+        },
+        {
+            "ID": 13381,
+            "Alias": "",
+            "Type": 1,
+            "Location": "388, 252",
+            "Troops": {
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeAir": 100,
+                "EliteWildlifeCannoneer": 10
+            }
+        },
+        {
+            "ID": 13565,
+            "Alias": "",
+            "Type": 2,
+            "Location": "441, 157",
+            "Troops": {
+                "EliteWildlifeCavalry": 100,
+                "EliteWildlifeLongbowman": 125
+            }
+        },
+        {
+            "ID": 14234,
+            "Alias": "",
+            "Type": 2,
+            "Location": "548, 307",
+            "Troops": {
+                "EliteWildlifeRecruit": 80,
+                "EliteWildlifeAir": 100
+            }
+        },
+        {
+            "ID": 14325,
+            "Alias": "",
+            "Type": 1,
+            "Location": "138, 350",
+            "Troops": {
+                "EliteWildlifeRecruit": 25,
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeCavalry": 85
+            }
+        },
+        {
+            "ID": 14444,
+            "Alias": "",
+            "Type": 1,
+            "Location": "353, 182",
+            "Troops": {
+                "EliteWildlifeRecruit": 35,
+                "EliteWildlifeBowman": 25,
+                "TMC_BossGargantuanLynx": 1,
+                "TMC_BossRavagingOx": 1,
+                "EliteWildlifeCannoneer": 75
+            }
+        },
+        {
+            "ID": 15124,
+            "Alias": "",
+            "Type": 2,
+            "Location": "355, 126",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeBowman": 75,
+                "EliteWildlifeAir": 75,
+                "EliteWildlifeCannoneer": 75
+            }
+        },
+        {
+            "ID": 15148,
+            "Alias": "",
+            "Type": 2,
+            "Location": "213, 359",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeBowman": 100,
+                "EliteWildlifeMilitia": 25
+            }
+        },
+        {
+            "ID": 15259,
+            "Alias": "",
+            "Type": 2,
+            "Location": "139, 215",
+            "Troops": {
+                "EliteWildlifeCavalry": 50,
+                "EliteWildlifeAir": 50,
+                "TMC_BossGhastlyWolf": 2
+            }
+        },
+        {
+            "ID": 15292,
+            "Alias": "",
+            "Type": 2,
+            "Location": "239, 265",
+            "Troops": {
+                "EliteWildlifeBowman": 150,
+                "TMC_BossMammoth": 1
+            }
+        },
+        {
+            "ID": 15310,
+            "Alias": "",
+            "Type": 1,
+            "Location": "308, 251",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeBowman": 25,
+                "EliteWildlifeLongbowman": 25,
+                "EliteWildlifeCannoneer": 25
+            }
+        },
+        {
+            "ID": 15666,
+            "Alias": "",
+            "Type": 2,
+            "Location": "257, 226",
+            "Troops": {
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeCannoneer": 95
+            }
+        },
+        {
+            "ID": 15702,
+            "Alias": "",
+            "Type": 2,
+            "Location": "430, 130",
+            "Troops": {
+                "EliteWildlifeCavalry": 75,
+                "EliteWildlifeMilitia": 25,
+                "EliteWildlifeLongbowman": 35,
+                "TMC_BossGhastlyWolf": 1
+            }
+        },
+        {
+            "ID": 15827,
+            "Alias": "",
+            "Type": 2,
+            "Location": "337, 77",
+            "Troops": {
+                "TMC_BossGargantuanLynx": 1,
+                "TMC_BossGhastlyWolf": 1,
+                "EliteWildlifeAir": 25,
+                "EliteWildlifeCannoneer": 50
+            }
+        },
+        {
+            "ID": 15837,
+            "Alias": "",
+            "Type": 2,
+            "Location": "474, 228",
+            "Troops": {
+                "EliteWildlifeRecruit": 25,
+                "EliteWildlifeCavalry": 25,
+                "EliteWildlifeBowman": 100,
+                "TMC_BossParagonElk": 1
+            }
+        },
+        {
+            "ID": 16115,
+            "Alias": "",
+            "Type": 2,
+            "Location": "241, 132",
+            "Troops": {
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeCannoneer": 45
+            }
+        },
+        {
+            "ID": 16122,
+            "Alias": "",
+            "Type": 2,
+            "Location": "332, 132",
+            "Troops": {
+                "TMC_BossEnormousIbex": 2,
+                "EliteWildlifeAir": 100
+            }
+        },
+        {
+            "ID": 16295,
+            "Alias": "",
+            "Type": 2,
+            "Location": "369, 190",
+            "Troops": {
+                "EliteWildlifeCavalry": 40,
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeLongbowman": 10
+            }
+        },
+        {
+            "ID": 16500,
+            "Alias": "",
+            "Type": 1,
+            "Location": "144, 304",
+            "Troops": {
+                "EliteWildlifeMilitia": 35,
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeCannoneer": 50
+            }
+        },
+        {
+            "ID": 16684,
+            "Alias": "",
+            "Type": 1,
+            "Location": "98, 305",
+            "Troops": {
+                "EliteWildlifeRecruit": 80,
+                "EliteWildlifeCannoneer": 75
+            }
+        },
+        {
+            "ID": 16846,
+            "Alias": "",
+            "Type": 2,
+            "Location": "120, 150",
+            "Troops": {
+                "EliteWildlifeRecruit": 25,
+                "EliteWildlifeCavalry": 25,
+                "EliteWildlifeBowman": 100,
+                "TMC_BossSmilodon": 1
+            }
+        },
+        {
+            "ID": 16873,
+            "Alias": "",
+            "Type": 2,
+            "Location": "564, 367",
+            "Troops": {
+                "EliteWildlifeCavalry": 40,
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeLongbowman": 10
+            }
+        },
+        {
+            "ID": 16983,
+            "Alias": "",
+            "Type": 2,
+            "Location": "275, 42",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeAir": 25
+            }
+        },
+        {
+            "ID": 17067,
+            "Alias": "",
+            "Type": 2,
+            "Location": "206, 125",
+            "Troops": {
+                "EliteWildlifeBowman": 75,
+                "EliteWildlifeLongbowman": 75,
+                "EliteWildlifeCannoneer": 70
+            }
+        },
+        {
+            "ID": 17189,
+            "Alias": "",
+            "Type": 2,
+            "Location": "310, 24",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeBowman": 50,
+                "EliteWildlifeCannoneer": 50,
+                "TMC_ColossalEagleBoss": 1
+            }
+        },
+        {
+            "ID": 17525,
+            "Alias": "",
+            "Type": 2,
+            "Location": "553, 236",
+            "Troops": {
+                "TMC_BossGhastlyWolf": 1,
+                "EliteWildlifeCannoneer": 75
+            }
+        },
+        {
+            "ID": 17552,
+            "Alias": "",
+            "Type": 2,
+            "Location": "412, 342",
+            "Troops": {
+                "EliteWildlifeRecruit": 25,
+                "EliteWildlifeCavalry": 75,
+                "EliteWildlifeBowman": 25,
+                "EliteWildlifeMilitia": 50
+            }
+        },
+        {
+            "ID": 18026,
+            "Alias": "",
+            "Type": 2,
+            "Location": "155, 94",
+            "Troops": {
+                "TMC_BossRavagingOx": 1,
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeMilitia": 20,
+                "EliteWildlifeAir": 70
+            }
+        },
+        {
+            "ID": 18064,
+            "Alias": "",
+            "Type": 1,
+            "Location": "109, 346",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeLongbowman": 100
+            }
+        },
+        {
+            "ID": 18083,
+            "Alias": "",
+            "Type": 2,
+            "Location": "370, 374",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeCavalry": 25,
+                "EliteWildlifeBowman": 25,
+                "EliteWildlifeLongbowman": 50
+            }
+        },
+        {
+            "ID": 18091,
+            "Alias": "",
+            "Type": 2,
+            "Location": "334, 24",
+            "Troops": {
+                "EliteWildlifeAir": 75,
+                "EliteWildlifeBowman": 100,
+                "EliteWildlifeCannoneer": 50,
+                "TMC_BossFrostGiantKing_0": 1,
+                "TMC_BossFrostGiantKing_1": 0,
+                "TMC_BossFrostGiantKing_2": 0,
+                "TMC_BossFrostGiantKing_3": 0,
+                "TMC_BossFrostGiantKing_4": 0
+            }
+        },
+        {
+            "ID": 18406,
+            "Alias": "",
+            "Type": 2,
+            "Location": "478, 299",
+            "Troops": {
+                "EliteWildlifeCavalry": 25,
+                "TMC_BossEnormousIbex": 1,
+                "EliteWildlifeAir": 75,
+                "EliteWildlifeCannoneer": 25
+            }
+        },
+        {
+            "ID": 18925,
+            "Alias": "",
+            "Type": 2,
+            "Location": "337, 282",
+            "Troops": {
+                "EliteWildlifeAir": 50,
+                "EliteWildlifeBowman": 100,
+                "EliteWildlifeCannoneer": 50
+            }
+        },
+        {
+            "ID": 19017,
+            "Alias": "",
+            "Type": 2,
+            "Location": "405, 61",
+            "Troops": {
+                "TMC_BossEnormousIbex": 1,
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeAir": 35,
+                "EliteWildlifeCannoneer": 75
+            }
+        },
+        {
+            "ID": 19404,
+            "Alias": "",
+            "Type": 2,
+            "Location": "93, 383",
+            "Troops": {
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeAir": 20,
+                "EliteWildlifeLongbowman": 50
+            }
+        },
+        {
+            "ID": 19566,
+            "Alias": "",
+            "Type": 2,
+            "Location": "346, 254",
+            "Troops": {
+                "TMC_BossRavagingOx": 1,
+                "TMC_BossGargantuanLynx": 1,
+                "EliteWildlifeCannoneer": 50,
+                "TMC_BossEnormousIbex": 1
+            }
+        },
+        {
+            "ID": 19588,
+            "Alias": "",
+            "Type": 1,
+            "Location": "309, 309",
+            "Troops": {
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeCavalry": 25,
+                "EliteWildlifeAir": 25,
+                "EliteWildlifeCannoneer": 25
+            }
+        }
+    ]
+}

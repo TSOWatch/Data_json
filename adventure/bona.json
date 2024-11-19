@@ -1,0 +1,259 @@
+{
+    "FileName": "bona",
+    "ID": "BonabertiBusiness",
+    "Name": "Bonaberti Business",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 176140,
+    "Players": 1,
+    "Elite": true,
+    "Units": [
+        "BanditBoss5",
+        "BanditBoss4",
+        "BanditBoss3",
+        "BlondeBowman",
+        "DefensiveMiner",
+        "GoldenGuard",
+        "RecklessRider",
+        "FirmDefender",
+        "BanditBoss1",
+        "BanditBoss2",
+        "SlickBanditBoss"
+    ],
+    "leirit": [
+        {
+            "ID": 10284,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "150, 164",
+            "Troops": {
+                "BanditBoss4": 1,
+                "BlondeBowman": 60,
+                "RecklessRider": 100,
+                "FirmDefender": 100
+            }
+        },
+        {
+            "ID": 10879,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "207, 150",
+            "Troops": {
+                "BanditBoss3": 1,
+                "RecklessRider": 200,
+                "FirmDefender": 70
+            }
+        },
+        {
+            "ID": 11016,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "123, 163",
+            "Troops": {
+                "DefensiveMiner": 110,
+                "RecklessRider": 150
+            }
+        },
+        {
+            "ID": 12291,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "140, 155",
+            "Troops": {
+                "DefensiveMiner": 40,
+                "GoldenGuard": 80,
+                "RecklessRider": 90
+            }
+        },
+        {
+            "ID": 12951,
+            "Sector": 5,
+            "oletusnimi": "5.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "418, 72",
+            "Troops": {
+                "GoldenGuard": 130,
+                "FirmDefender": 100,
+                "BanditBoss2": 1
+            }
+        },
+        {
+            "ID": 13126,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "185, 146",
+            "Troops": {
+                "GoldenGuard": 90,
+                "FirmDefender": 140
+            }
+        },
+        {
+            "ID": 13303,
+            "Sector": 5,
+            "oletusnimi": "5.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "397, 76",
+            "Troops": {
+                "DefensiveMiner": 50,
+                "GoldenGuard": 100,
+                "FirmDefender": 75
+            }
+        },
+        {
+            "ID": 13457,
+            "Sector": 4,
+            "oletusnimi": "4.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "326, 62",
+            "Troops": {
+                "BlondeBowman": 100,
+                "GoldenGuard": 100,
+                "FirmDefender": 95,
+                "BanditBoss1": 1
+            }
+        },
+        {
+            "ID": 14153,
+            "Sector": 5,
+            "oletusnimi": "5.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "405, 64",
+            "Troops": {
+                "BlondeBowman": 85,
+                "GoldenGuard": 85,
+                "RecklessRider": 90
+            }
+        },
+        {
+            "ID": 14690,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "312, 68",
+            "Troops": {
+                "BlondeBowman": 70,
+                "GoldenGuard": 15,
+                "RecklessRider": 125,
+                "FirmDefender": 105
+            }
+        },
+        {
+            "ID": 15283,
+            "Sector": 6,
+            "oletusnimi": "6.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "477, 97",
+            "Troops": {
+                "BlondeBowman": 110,
+                "DefensiveMiner": 85,
+                "GoldenGuard": 75,
+                "RecklessRider": 45
+            }
+        },
+        {
+            "ID": 15992,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "247, 134",
+            "Troops": {
+                "BlondeBowman": 160,
+                "GoldenGuard": 50,
+                "RecklessRider": 105
+            }
+        },
+        {
+            "ID": 16465,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "193, 163",
+            "Troops": {
+                "BlondeBowman": 105,
+                "GoldenGuard": 115,
+                "RecklessRider": 60
+            }
+        },
+        {
+            "ID": 17149,
+            "Sector": 6,
+            "oletusnimi": "6.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "481, 84",
+            "Troops": {
+                "DefensiveMiner": 115,
+                "RecklessRider": 75,
+                "FirmDefender": 120
+            }
+        },
+        {
+            "ID": 18762,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "238, 116",
+            "Troops": {
+                "DefensiveMiner": 160,
+                "GoldenGuard": 90
+            }
+        },
+        {
+            "ID": 19304,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "318, 78",
+            "Troops": {
+                "RecklessRider": 260
+            }
+        },
+        {
+            "ID": 19364,
+            "Sector": 6,
+            "oletusnimi": "6.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "499, 98",
+            "Troops": {
+                "BlondeBowman": 65,
+                "DefensiveMiner": 100,
+                "FirmDefender": 120,
+                "SlickBanditBoss": 1
+            }
+        },
+        {
+            "ID": 19436,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "249, 122",
+            "Troops": {
+                "BanditBoss5": 1,
+                "BlondeBowman": 45,
+                "DefensiveMiner": 185
+            }
+        }
+    ]
+}

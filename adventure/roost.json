@@ -1,0 +1,168 @@
+{
+    "FileName": "roost",
+    "ID": "BuffAdventures_DragonsRoost",
+    "Name": "The Dragon's Roost",
+    "Type": "Venture",
+    "GroupingNumber": 4,
+    "ExperiencePoints": 3135,
+    "Players": 1,
+    "Units": [
+        "CultRecruit",
+        "CultCavalry",
+        "CultLongbowman",
+        "CultCrossbowman",
+        "NeutralCavalry",
+        "WildlifeRecruit",
+        "WildlifeMilitia",
+        "WildlifeBowman",
+        "WildlifeLongbowman",
+        "WildlifeCavalry",
+        "CultBoss4",
+        "EpicRaidBoss4",
+        "EpicRaidBoss7",
+        "DragonBoss"
+    ],
+    "leirit": [
+        {
+            "ID": 12020,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "503, 309",
+            "Troops": {
+                "WildlifeBowman": 5,
+                "NeutralCavalry": 100
+            }
+        },
+        {
+            "ID": 12201,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "158, 168",
+            "Troops": {
+                "CultLongbowman": 10,
+                "CultCavalry": 10
+            }
+        },
+        {
+            "ID": 12682,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "468, 200",
+            "Troops": {
+                "WildlifeCavalry": 5,
+                "WildlifeLongbowman": 13
+            }
+        },
+        {
+            "ID": 13661,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "",
+            "Type": 2,
+            "Location": "386, 100",
+            "Troops": {
+                "CultRecruit": 20,
+                "CultBoss4": 1
+            }
+        },
+        {
+            "ID": 14291,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "333, 90",
+            "Troops": {
+                "CultRecruit": 50
+            }
+        },
+        {
+            "ID": 15848,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "368, 181",
+            "Troops": {
+                "EpicRaidBoss7": 1
+            }
+        },
+        {
+            "ID": 16160,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "432, 324",
+            "Troops": {
+                "WildlifeCavalry": 15
+            }
+        },
+        {
+            "ID": 16589,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "554, 284",
+            "Troops": {
+                "WildlifeRecruit": 5,
+                "EpicRaidBoss4": 1
+            }
+        },
+        {
+            "ID": 17940,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "338, 309",
+            "Troops": {
+                "WildlifeRecruit": 10
+            }
+        },
+        {
+            "ID": 18694,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "508, 255",
+            "Troops": {
+                "WildlifeCavalry": 5,
+                "WildlifeMilitia": 5
+            }
+        },
+        {
+            "ID": 19537,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 2,
+            "Location": "223, 100",
+            "Troops": {
+                "CultRecruit": 10,
+                "CultCrossbowman": 5,
+                "CultCavalry": 10
+            }
+        },
+        {
+            "ID": 19950,
+            "Sector": 5,
+            "oletusnimi": "5.1",
+            "Alias": "",
+            "Type": 2,
+            "Location": "436, 28",
+            "Troops": {
+                "CultRecruit": 20,
+                "DragonBoss": 1
+            }
+        }
+    ]
+}

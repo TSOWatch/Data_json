@@ -1,0 +1,484 @@
+{
+    "FileName": "sftr",
+    "ID": "StealingFromTheRich",
+    "Name": "Stealing From The Rich",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 11870,
+    "Players": 2,
+    "Units": [
+        "KingdomRecruit",
+        "KingdomMilitia",
+        "KingdomCavalry",
+        "KingdomSoldier",
+        "KingdomEliteSoldier",
+        "KingdomBowman",
+        "KingdomLongbowman",
+        "KingdomCrossbowman",
+        "KingdomCannoneer",
+        "NeutralCavalry",
+        "KingdomBoss1",
+        "KingdomBoss2"
+    ],
+    "leirit": [
+        {
+            "ID": 10200,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "114, 213",
+            "Troops": {
+                "KingdomRecruit": 30,
+                "KingdomBowman": 40
+            }
+        },
+        {
+            "ID": 10532,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "292, 293",
+            "Troops": {
+                "KingdomCavalry": 50,
+                "KingdomSoldier": 50,
+                "KingdomLongbowman": 50,
+                "KingdomBoss2": 1
+            }
+        },
+        {
+            "ID": 10563,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "424, 141",
+            "Troops": {
+                "KingdomMilitia": 80,
+                "KingdomLongbowman": 40
+            }
+        },
+        {
+            "ID": 10726,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "472, 82",
+            "Troops": {
+                "KingdomMilitia": 40,
+                "KingdomCavalry": 40,
+                "KingdomBoss1": 1
+            }
+        },
+        {
+            "ID": 10973,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "126, 285",
+            "Troops": {
+                "NeutralCavalry": 40
+            }
+        },
+        {
+            "ID": 11036,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "473, 100",
+            "Troops": {
+                "KingdomMilitia": 60,
+                "KingdomLongbowman": 20
+            }
+        },
+        {
+            "ID": 11491,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "160, 104",
+            "Troops": {
+                "NeutralCavalry": 120
+            }
+        },
+        {
+            "ID": 11582,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "271, 111",
+            "Troops": {
+                "NeutralCavalry": 160
+            }
+        },
+        {
+            "ID": 11616,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "457, 173",
+            "Troops": {
+                "KingdomRecruit": 65,
+                "KingdomBowman": 85
+            }
+        },
+        {
+            "ID": 11724,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "460, 237",
+            "Troops": {
+                "NeutralCavalry": 100
+            }
+        },
+        {
+            "ID": 12153,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "341, 115",
+            "Troops": {
+                "NeutralCavalry": 140
+            }
+        },
+        {
+            "ID": 12438,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "324, 88",
+            "Troops": {
+                "KingdomLongbowman": 30
+            }
+        },
+        {
+            "ID": 12464,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "368, 97",
+            "Troops": {
+                "NeutralCavalry": 160
+            }
+        },
+        {
+            "ID": 12616,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "284, 79",
+            "Troops": {
+                "KingdomLongbowman": 30
+            }
+        },
+        {
+            "ID": 12717,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "118, 181",
+            "Troops": {
+                "NeutralCavalry": 100
+            }
+        },
+        {
+            "ID": 12809,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "94, 241",
+            "Troops": {
+                "NeutralCavalry": 40
+            }
+        },
+        {
+            "ID": 12862,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "277, 277",
+            "Troops": {
+                "KingdomLongbowman": 15
+            }
+        },
+        {
+            "ID": 13116,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "332, 78",
+            "Troops": {
+                "KingdomLongbowman": 30
+            }
+        },
+        {
+            "ID": 13691,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "289, 256",
+            "Troops": {
+                "NeutralCavalry": 200
+            }
+        },
+        {
+            "ID": 13769,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "298, 74",
+            "Troops": {
+                "KingdomCavalry": 30,
+                "KingdomSoldier": 30,
+                "KingdomLongbowman": 40,
+                "KingdomBoss1": 1
+            }
+        },
+        {
+            "ID": 14007,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "62, 183",
+            "Troops": {
+                "KingdomRecruit": 40,
+                "KingdomBowman": 30
+            }
+        },
+        {
+            "ID": 14226,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "214, 185",
+            "Troops": {
+                "NeutralCavalry": 140
+            }
+        },
+        {
+            "ID": 14408,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "173, 138",
+            "Troops": {
+                "KingdomSoldier": 20,
+                "KingdomLongbowman": 80
+            }
+        },
+        {
+            "ID": 15021,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "460, 192",
+            "Troops": {
+                "NeutralCavalry": 120
+            }
+        },
+        {
+            "ID": 15134,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "372, 186",
+            "Troops": {
+                "NeutralCavalry": 40
+            }
+        },
+        {
+            "ID": 15286,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "160, 84",
+            "Troops": {
+                "KingdomMilitia": 20,
+                "KingdomLongbowman": 60
+            }
+        },
+        {
+            "ID": 15297,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "303, 89",
+            "Troops": {
+                "KingdomLongbowman": 30
+            }
+        },
+        {
+            "ID": 15493,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "135, 87",
+            "Troops": {
+                "KingdomMilitia": 40,
+                "KingdomLongbowman": 40
+            }
+        },
+        {
+            "ID": 15626,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 2,
+            "Location": "84, 148",
+            "Troops": {
+                "KingdomRecruit": 85,
+                "KingdomBowman": 65
+            }
+        },
+        {
+            "ID": 15795,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "301, 206",
+            "Troops": {
+                "KingdomEliteSoldier": 20,
+                "KingdomCrossbowman": 20,
+                "KingdomCannoneer": 20,
+                "KingdomBoss1": 1
+            }
+        },
+        {
+            "ID": 16579,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "268, 284",
+            "Troops": {
+                "KingdomLongbowman": 15
+            }
+        },
+        {
+            "ID": 17268,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "311, 282",
+            "Troops": {
+                "KingdomLongbowman": 15
+            }
+        },
+        {
+            "ID": 17462,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "456, 121",
+            "Troops": {
+                "NeutralCavalry": 150
+            }
+        },
+        {
+            "ID": 17585,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "368, 150",
+            "Troops": {
+                "KingdomSoldier": 20,
+                "KingdomLongbowman": 80
+            }
+        },
+        {
+            "ID": 17694,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 2,
+            "Location": "145, 73",
+            "Troops": {
+                "KingdomMilitia": 40,
+                "KingdomLongbowman": 40,
+                "KingdomBoss1": 1
+            }
+        },
+        {
+            "ID": 17696,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "517, 170",
+            "Troops": {
+                "NeutralCavalry": 20
+            }
+        },
+        {
+            "ID": 18297,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "216, 164",
+            "Troops": {
+                "KingdomMilitia": 80,
+                "KingdomLongbowman": 40
+            }
+        },
+        {
+            "ID": 18549,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "508, 236",
+            "Troops": {
+                "KingdomRecruit": 40,
+                "KingdomBowman": 30
+            }
+        },
+        {
+            "ID": 18651,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "489, 288",
+            "Troops": {
+                "NeutralCavalry": 40
+            }
+        },
+        {
+            "ID": 18821,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "316, 73",
+            "Troops": {
+                "KingdomSoldier": 50,
+                "KingdomLongbowman": 50,
+                "KingdomBoss1": 1
+            }
+        },
+        {
+            "ID": 19066,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "485, 86",
+            "Troops": {
+                "KingdomMilitia": 40,
+                "KingdomLongbowman": 40
+            }
+        },
+        {
+            "ID": 19308,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "301, 274",
+            "Troops": {
+                "KingdomLongbowman": 15
+            }
+        },
+        {
+            "ID": 19786,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "434, 240",
+            "Troops": {
+                "KingdomRecruit": 30,
+                "KingdomBowman": 40
+            }
+        }
+    ]
+}

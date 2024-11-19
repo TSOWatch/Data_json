@@ -1,0 +1,156 @@
+{
+    "FileName": "traitors",
+    "ID": "Traitors",
+    "Name": "Traitors",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 8710,
+    "Players": 1,
+    "Units": [
+        "KingdomMilitia",
+        "KingdomCavalry",
+        "KingdomSoldier",
+        "KingdomLongbowman",
+        "KingdomBoss1",
+        "KingdomBoss2"
+    ],
+    "leirit": [
+        {
+            "ID": 10387,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "89, 239",
+            "Troops": {
+                "KingdomMilitia": 60,
+                "KingdomCavalry": 60
+            }
+        },
+        {
+            "ID": 11292,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "460, 277",
+            "Troops": {
+                "KingdomCavalry": 60,
+                "KingdomSoldier": 60,
+                "KingdomLongbowman": 60,
+                "KingdomBoss1": 1,
+                "KingdomBoss2": 1
+            }
+        },
+        {
+            "ID": 12400,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "242, 281",
+            "Troops": {
+                "KingdomSoldier": 60,
+                "KingdomLongbowman": 60
+            }
+        },
+        {
+            "ID": 13133,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "395, 359",
+            "Troops": {
+                "KingdomSoldier": 60,
+                "KingdomLongbowman": 100
+            }
+        },
+        {
+            "ID": 16287,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "269, 342",
+            "Troops": {
+                "KingdomMilitia": 40,
+                "KingdomCavalry": 40,
+                "KingdomSoldier": 20,
+                "KingdomLongbowman": 60
+            }
+        },
+        {
+            "ID": 16816,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "318, 380",
+            "Troops": {
+                "KingdomMilitia": 60,
+                "KingdomCavalry": 60,
+                "KingdomSoldier": 60
+            }
+        },
+        {
+            "ID": 17006,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "122, 166",
+            "Troops": {
+                "KingdomSoldier": 80
+            }
+        },
+        {
+            "ID": 17147,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "423, 281",
+            "Troops": {
+                "KingdomCavalry": 50,
+                "KingdomSoldier": 150
+            }
+        },
+        {
+            "ID": 17684,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "480, 299",
+            "Troops": {
+                "KingdomSoldier": 100,
+                "KingdomLongbowman": 100
+            }
+        },
+        {
+            "ID": 18205,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "81, 312",
+            "Troops": {
+                "KingdomMilitia": 40,
+                "KingdomLongbowman": 60
+            }
+        },
+        {
+            "ID": 18616,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "173, 117",
+            "Troops": {
+                "KingdomSoldier": 40,
+                "KingdomLongbowman": 60
+            }
+        }
+    ]
+}

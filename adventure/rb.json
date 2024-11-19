@@ -1,0 +1,466 @@
+{
+    "FileName": "rb",
+    "ID": "RoaringBull",
+    "Name": "Roaring Bull",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 37580,
+    "Players": 3,
+    "Units": [
+        "CultRecruit",
+        "CultCavalry",
+        "CultLongbowman",
+        "CultCrossbowman",
+        "RaidersRecruit",
+        "RaidersCavalry",
+        "RaidersCavalryBow",
+        "RaidersCavalryLongbow",
+        "RaidersCavalryCrossbow",
+        "RaidersBoss1",
+        "RaidersBowman",
+        "CultBoss2"
+    ],
+    "leirit": [
+        {
+            "ID": 10184,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "260, 63",
+            "Troops": {
+                "RaidersRecruit": 60,
+                "RaidersCavalryLongbow": 70,
+                "RaidersCavalryCrossbow": 40
+            }
+        },
+        {
+            "ID": 10292,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "128, 181",
+            "Troops": {
+                "RaidersRecruit": 100,
+                "RaidersBowman": 50,
+                "RaidersCavalry": 30
+            }
+        },
+        {
+            "ID": 10662,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "105, 268",
+            "Troops": {
+                "RaidersRecruit": 100,
+                "RaidersBowman": 100
+            }
+        },
+        {
+            "ID": 10719,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "252, 125",
+            "Troops": {
+                "RaidersRecruit": 50,
+                "RaidersCavalryBow": 150
+            }
+        },
+        {
+            "ID": 10948,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "323, 101",
+            "Troops": {
+                "RaidersCavalry": 100,
+                "RaidersCavalryBow": 100
+            }
+        },
+        {
+            "ID": 11139,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "395, 244",
+            "Troops": {
+                "CultRecruit": 40,
+                "CultLongbowman": 60,
+                "CultCrossbowman": 100
+            }
+        },
+        {
+            "ID": 11708,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "313, 162",
+            "Troops": {
+                "RaidersCavalry": 90,
+                "RaidersCavalryCrossbow": 100
+            }
+        },
+        {
+            "ID": 11888,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 2,
+            "Location": "523, 294",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultCrossbowman": 70,
+                "CultCavalry": 50,
+                "CultBoss2": 1
+            }
+        },
+        {
+            "ID": 12362,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "378, 95",
+            "Troops": {
+                "RaidersRecruit": 120,
+                "RaidersCavalry": 80
+            }
+        },
+        {
+            "ID": 12990,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "499, 284",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCrossbowman": 60,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 13197,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "244, 256",
+            "Troops": {
+                "RaidersRecruit": 80,
+                "RaidersCavalry": 70,
+                "RaidersCavalryLongbow": 40
+            }
+        },
+        {
+            "ID": 13710,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "253, 308",
+            "Troops": {
+                "RaidersCavalry": 70,
+                "RaidersCavalryLongbow": 80,
+                "RaidersCavalryCrossbow": 40
+            }
+        },
+        {
+            "ID": 14415,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "472, 130",
+            "Troops": {
+                "RaidersRecruit": 100,
+                "RaidersCavalryBow": 60
+            }
+        },
+        {
+            "ID": 14532,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "304, 73",
+            "Troops": {
+                "RaidersRecruit": 60,
+                "RaidersCavalry": 50,
+                "RaidersCavalryLongbow": 80
+            }
+        },
+        {
+            "ID": 14703,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "442, 243",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultLongbowman": 20,
+                "CultCavalry": 80
+            }
+        },
+        {
+            "ID": 14708,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "213, 220",
+            "Troops": {
+                "RaidersCavalry": 80,
+                "RaidersCavalryBow": 120
+            }
+        },
+        {
+            "ID": 14812,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "400, 218",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCrossbowman": 100
+            }
+        },
+        {
+            "ID": 14840,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "196, 98",
+            "Troops": {
+                "RaidersRecruit": 80,
+                "RaidersCavalryBow": 100
+            }
+        },
+        {
+            "ID": 14946,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "460, 95",
+            "Troops": {
+                "RaidersRecruit": 150,
+                "RaidersBowman": 50
+            }
+        },
+        {
+            "ID": 14986,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "437, 126",
+            "Troops": {
+                "RaidersRecruit": 50,
+                "RaidersCavalry": 50,
+                "RaidersCavalryBow": 80
+            }
+        },
+        {
+            "ID": 15039,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "197, 64",
+            "Troops": {
+                "RaidersCavalry": 80,
+                "RaidersCavalryBow": 80
+            }
+        },
+        {
+            "ID": 15137,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "187, 81",
+            "Troops": {
+                "RaidersRecruit": 50,
+                "RaidersCavalry": 50,
+                "RaidersCavalryLongbow": 60
+            }
+        },
+        {
+            "ID": 15243,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 2,
+            "Location": "417, 228",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultCrossbowman": 120
+            }
+        },
+        {
+            "ID": 15312,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "281, 86",
+            "Troops": {
+                "RaidersRecruit": 100,
+                "RaidersCavalryLongbow": 90
+            }
+        },
+        {
+            "ID": 15718,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "346, 166",
+            "Troops": {
+                "RaidersRecruit": 110,
+                "RaidersCavalryLongbow": 40,
+                "RaidersCavalryCrossbow": 50
+            }
+        },
+        {
+            "ID": 15731,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "105, 68",
+            "Troops": {
+                "RaidersRecruit": 120,
+                "RaidersBowman": 80
+            }
+        },
+        {
+            "ID": 15835,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "157, 65",
+            "Troops": {
+                "RaidersRecruit": 120,
+                "RaidersBowman": 30,
+                "RaidersCavalry": 40
+            }
+        },
+        {
+            "ID": 16109,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "109, 204",
+            "Troops": {
+                "RaidersRecruit": 100,
+                "RaidersCavalryBow": 100
+            }
+        },
+        {
+            "ID": 16334,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "299, 182",
+            "Troops": {
+                "RaidersRecruit": 90,
+                "RaidersCavalry": 60,
+                "RaidersCavalryCrossbow": 50
+            }
+        },
+        {
+            "ID": 16440,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "445, 143",
+            "Troops": {
+                "RaidersCavalry": 80,
+                "RaidersCavalryBow": 40,
+                "RaidersCavalryLongbow": 60
+            }
+        },
+        {
+            "ID": 16934,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "437, 217",
+            "Troops": {
+                "CultRecruit": 70,
+                "CultCrossbowman": 80,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 16948,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "138, 192",
+            "Troops": {
+                "RaidersCavalry": 70,
+                "RaidersCavalryBow": 80,
+                "RaidersCavalryLongbow": 20
+            }
+        },
+        {
+            "ID": 16957,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "243, 291",
+            "Troops": {
+                "RaidersRecruit": 50,
+                "RaidersCavalry": 80,
+                "RaidersCavalryCrossbow": 50
+            }
+        },
+        {
+            "ID": 17249,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "194, 186",
+            "Troops": {
+                "RaidersRecruit": 80,
+                "RaidersCavalry": 40,
+                "RaidersCavalryBow": 80
+            }
+        },
+        {
+            "ID": 17422,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "517, 270",
+            "Troops": {
+                "CultRecruit": 150,
+                "CultCrossbowman": 50
+            }
+        },
+        {
+            "ID": 17922,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "507, 95",
+            "Troops": {
+                "RaidersRecruit": 80,
+                "RaidersBowman": 120
+            }
+        },
+        {
+            "ID": 19042,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 2,
+            "Location": "326, 177",
+            "Troops": {
+                "RaidersRecruit": 70,
+                "RaidersCavalry": 100,
+                "RaidersCavalryCrossbow": 30,
+                "RaidersBoss1": 1
+            }
+        },
+        {
+            "ID": 19914,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "128, 237",
+            "Troops": {
+                "RaidersRecruit": 80,
+                "RaidersCavalry": 50,
+                "RaidersCavalryBow": 70
+            }
+        }
+    ]
+}

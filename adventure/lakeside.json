@@ -1,0 +1,226 @@
+{
+    "FileName": "lakeside",
+    "ID": "LakesideTreasure",
+    "Name": "Lakeside Treasure",
+    "Type": "Coop",
+    "GroupingNumber": 3,
+    "ExperiencePoints": 13620,
+    "Players": 2,
+    "Units": [
+        "CultRecruit",
+        "CultBoss1",
+        "CultCavalry",
+        "CultLongbowman",
+        "CultCrossbowman",
+        "CultCanoneer",
+        "CultBoss2"
+    ],
+    "leirit": [
+        {
+            "ID": 10910,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "466, 111",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultLongbowman": 50,
+                "CultBoss1": 1,
+                "CultBoss2": 1
+            }
+        },
+        {
+            "ID": 11885,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "94, 232",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultCrossbowman": 40,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 12525,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "370, 302",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultCrossbowman": 40,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 12857,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "492, 139",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCavalry": 50,
+                "CultCanoneer": 20
+            }
+        },
+        {
+            "ID": 12875,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "514, 212",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultLongbowman": 50,
+                "CultBoss2": 1
+            }
+        },
+        {
+            "ID": 13344,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "376, 74",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultLongbowman": 50,
+                "CultBoss1": 1,
+                "CultBoss2": 1
+            }
+        },
+        {
+            "ID": 14709,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "483, 273",
+            "Troops": {
+                "CultRecruit": 40,
+                "CultLongbowman": 40,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 14762,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "352, 83",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCavalry": 50,
+                "CultCanoneer": 20
+            }
+        },
+        {
+            "ID": 14819,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "206, 112",
+            "Troops": {
+                "CultRecruit": 40,
+                "CultLongbowman": 40,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 15301,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "468, 183",
+            "Troops": {
+                "CultRecruit": 70,
+                "CultCrossbowman": 10,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 15583,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "442, 288",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 16645,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "191, 72",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 17438,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "68, 279",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultLongbowman": 50
+            }
+        },
+        {
+            "ID": 17504,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "338, 334",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultLongbowman": 50
+            }
+        },
+        {
+            "ID": 18709,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "338, 53",
+            "Troops": {
+                "CultRecruit": 70,
+                "CultCrossbowman": 10,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 19477,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "247, 68",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultLongbowman": 50,
+                "CultBoss2": 1
+            }
+        }
+    ]
+}

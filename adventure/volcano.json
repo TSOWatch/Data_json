@@ -1,0 +1,83 @@
+{
+    "FileName": "volcano",
+    "ID": "MiadTheSleepingVolcano",
+    "Name": "The Sleeping Volcano",
+    "Type": "Mini",
+    "GroupingNumber": 1,
+    "ExperiencePoints": 4610,
+    "Players": 1,
+    "Units": [
+        "CultRecruit",
+        "CultCavalry",
+        "CultBowman",
+        "CultLongbowman",
+        "CultCrossbowman",
+        "CultCanoneer",
+        "CultBoss2"
+    ],
+    "leirit": [
+        {
+            "ID": 10086,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "461, 292",
+            "Troops": {
+                "CultRecruit": 40,
+                "CultBowman": 40
+            }
+        },
+        {
+            "ID": 13192,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "162, 286",
+            "Troops": {
+                "CultCrossbowman": 40,
+                "CultCavalry": 40,
+                "CultCanoneer": 30
+            }
+        },
+        {
+            "ID": 16805,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "474, 125",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultLongbowman": 40
+            }
+        },
+        {
+            "ID": 17358,
+            "Sector": 1,
+            "oletusnimi": "1.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "240, 195",
+            "Troops": {
+                "CultCavalry": 80,
+                "CultCanoneer": 40,
+                "CultBoss2": 1
+            }
+        },
+        {
+            "ID": 19477,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "121, 176",
+            "Troops": {
+                "CultRecruit": 30,
+                "CultCrossbowman": 30,
+                "CultCavalry": 40
+            }
+        }
+    ]
+}

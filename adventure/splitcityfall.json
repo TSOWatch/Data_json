@@ -1,0 +1,693 @@
+{
+    "FileName": "splitcityfall",
+    "ID": "SplitCityFall",
+    "Name": "Split City in Fall",
+    "Type": "Coop",
+    "GroupingNumber": 3,
+    "ExperiencePoints": 583923,
+    "Players": 2,
+    "Elite": true,
+    "Units": [
+        "NordsEliteSoldier",
+        "NeutralCavalry",
+        "WildlifeLongbowman",
+        "WildlifeCannoneer",
+        "OrientalBanditRecruit",
+        "OrientalBanditSoldier",
+        "OrientalBanditCavalry",
+        "OrientalBanditLongbowman",
+        "OrientalBanditCavalryBowman",
+        "OrientalBanditCanoneer",
+        "OrientalSailorCavalry",
+        "OrientalApe2",
+        "OrientalApe3",
+        "EpicRaidBoss6",
+        "EpicRaidBoss7",
+        "EpicRaidBoss9",
+        "EpicRaidBoss10",
+        "EpicRaidBoss13",
+        "OrientalCorruptedBolderWorm",
+        "OrientalCorruptedGiantBat"
+    ],
+    "leirit": [
+        {
+            "ID": 10069,
+            "Sector": 6,
+            "oletusnimi": "6.3",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "278, 38",
+            "Troops": {
+                "NordsEliteSoldier": 48,
+                "OrientalBanditCavalry": 59,
+                "OrientalBanditLongbowman": 145,
+                "OrientalBanditCavalryBowman": 122
+            }
+        },
+        {
+            "ID": 10071,
+            "Sector": 4,
+            "oletusnimi": "4.4",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "64, 153",
+            "Troops": {
+                "OrientalBanditSoldier": 246,
+                "OrientalBanditCanoneer": 96
+            }
+        },
+        {
+            "ID": 10169,
+            "Sector": 5,
+            "oletusnimi": "5.4",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "183, 96",
+            "Troops": {
+                "OrientalBanditCavalry": 84,
+                "OrientalApe2": 53,
+                "EpicRaidBoss6": 2,
+                "EpicRaidBoss9": 3
+            }
+        },
+        {
+            "ID": 10322,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "157, 292",
+            "Troops": {
+                "WildlifeLongbowman": 68,
+                "OrientalBanditCavalry": 82,
+                "OrientalBanditLongbowman": 24,
+                "OrientalApe2": 64
+            }
+        },
+        {
+            "ID": 10705,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "121, 203",
+            "Troops": {
+                "NeutralCavalry": 200
+            }
+        },
+        {
+            "ID": 10731,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "388, 280",
+            "Troops": {
+                "WildlifeLongbowman": 127,
+                "OrientalBanditLongbowman": 158,
+                "OrientalSailorCavalry": 57,
+                "OrientalApe3": 136
+            }
+        },
+        {
+            "ID": 11197,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "294, 208",
+            "Troops": {
+                "WildlifeLongbowman": 69,
+                "WildlifeCannoneer": 113,
+                "OrientalBanditSoldier": 172,
+                "OrientalBanditCanoneer": 102
+            }
+        },
+        {
+            "ID": 11253,
+            "Sector": 6,
+            "oletusnimi": "6.3",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "202, 45",
+            "Troops": {
+                "OrientalBanditCavalry": 233,
+                "OrientalBanditCanoneer": 60,
+                "OrientalSailorCavalry": 83
+            }
+        },
+        {
+            "ID": 11362,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "529, 140",
+            "Troops": {
+                "NordsEliteSoldier": 201,
+                "OrientalBanditLongbowman": 76,
+                "OrientalSailorCavalry": 59,
+                "OrientalApe3": 23
+            }
+        },
+        {
+            "ID": 11518,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "290, 186",
+            "Troops": {
+                "OrientalBanditSoldier": 58,
+                "OrientalBanditCavalry": 54,
+                "OrientalBanditLongbowman": 65,
+                "EpicRaidBoss10": 1,
+                "EpicRaidBoss13": 2
+            }
+        },
+        {
+            "ID": 11874,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "229, 273",
+            "Troops": {
+                "WildlifeLongbowman": 78,
+                "OrientalBanditSoldier": 54,
+                "OrientalBanditCavalryBowman": 99,
+                "OrientalSailorCavalry": 73
+            }
+        },
+        {
+            "ID": 12575,
+            "Sector": 5,
+            "oletusnimi": "5.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "418, 70",
+            "Troops": {
+                "WildlifeLongbowman": 151,
+                "OrientalBanditRecruit": 205,
+                "OrientalBanditCanoneer": 101
+            }
+        },
+        {
+            "ID": 12588,
+            "Sector": 6,
+            "oletusnimi": "6.4",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "264, 47",
+            "Troops": {
+                "NordsEliteSoldier": 153,
+                "OrientalSailorCavalry": 12,
+                "OrientalCorruptedBolderWorm": 1
+            }
+        },
+        {
+            "ID": 12740,
+            "Sector": 6,
+            "oletusnimi": "6.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "302, 48",
+            "Troops": {
+                "WildlifeLongbowman": 97,
+                "WildlifeCannoneer": 133,
+                "OrientalBanditSoldier": 154,
+                "OrientalApe3": 44
+            }
+        },
+        {
+            "ID": 12775,
+            "Sector": 6,
+            "oletusnimi": "6.4",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "219, 50",
+            "Troops": {
+                "OrientalBanditSoldier": 93,
+                "OrientalBanditCavalry": 97,
+                "OrientalSailorCavalry": 124,
+                "OrientalCorruptedGiantBat": 1
+            }
+        },
+        {
+            "ID": 13302,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "438, 187",
+            "Troops": {
+                "OrientalBanditCavalry": 166,
+                "OrientalBanditLongbowman": 26,
+                "OrientalBanditCavalryBowman": 147
+            }
+        },
+        {
+            "ID": 13307,
+            "Sector": 4,
+            "oletusnimi": "4.4",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "509, 119",
+            "Troops": {
+                "NordsEliteSoldier": 178,
+                "OrientalBanditCavalry": 168,
+                "EpicRaidBoss6": 2,
+                "EpicRaidBoss13": 3
+            }
+        },
+        {
+            "ID": 13882,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "270, 273",
+            "Troops": {
+                "OrientalBanditCavalry": 110,
+                "OrientalApe3": 88,
+                "EpicRaidBoss13": 6
+            }
+        },
+        {
+            "ID": 13968,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "473, 186",
+            "Troops": {
+                "OrientalApe2": 120,
+                "OrientalApe3": 54
+            }
+        },
+        {
+            "ID": 14064,
+            "Sector": 5,
+            "oletusnimi": "5.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "203, 116",
+            "Troops": {
+                "WildlifeLongbowman": 135,
+                "OrientalApe2": 118
+            }
+        },
+        {
+            "ID": 14189,
+            "Sector": 5,
+            "oletusnimi": "5.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "397, 88",
+            "Troops": {
+                "OrientalBanditSoldier": 88,
+                "OrientalBanditCavalry": 55,
+                "OrientalApe2": 32
+            }
+        },
+        {
+            "ID": 14482,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "378, 292",
+            "Troops": {
+                "NordsEliteSoldier": 181,
+                "OrientalBanditRecruit": 35,
+                "OrientalBanditSoldier": 140,
+                "OrientalBanditCanoneer": 110
+            }
+        },
+        {
+            "ID": 14661,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "87, 167",
+            "Troops": {
+                "WildlifeCannoneer": 87,
+                "OrientalSailorCavalry": 183,
+                "OrientalApe3": 149
+            }
+        },
+        {
+            "ID": 14822,
+            "Sector": 5,
+            "oletusnimi": "5.3",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "380, 77",
+            "Troops": {
+                "OrientalBanditCavalry": 164,
+                "OrientalBanditCanoneer": 57,
+                "OrientalSailorCavalry": 132,
+                "OrientalApe3": 77
+            }
+        },
+        {
+            "ID": 14915,
+            "Sector": 5,
+            "oletusnimi": "5.3",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "157, 94",
+            "Troops": {
+                "WildlifeCannoneer": 85,
+                "OrientalBanditRecruit": 166,
+                "OrientalApe3": 84
+            }
+        },
+        {
+            "ID": 15615,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "273, 295",
+            "Troops": {
+                "WildlifeLongbowman": 113,
+                "WildlifeCannoneer": 73,
+                "OrientalBanditLongbowman": 105,
+                "OrientalBanditCavalryBowman": 87
+            }
+        },
+        {
+            "ID": 15697,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "213, 183",
+            "Troops": {
+                "NordsEliteSoldier": 182,
+                "WildlifeCannoneer": 176,
+                "OrientalBanditCanoneer": 142
+            }
+        },
+        {
+            "ID": 15739,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "458, 199",
+            "Troops": {
+                "OrientalSailorCavalry": 87,
+                "OrientalApe2": 53,
+                "EpicRaidBoss7": 2,
+                "EpicRaidBoss9": 3
+            }
+        },
+        {
+            "ID": 16162,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "378, 261",
+            "Troops": {
+                "NordsEliteSoldier": 178,
+                "WildlifeLongbowman": 91,
+                "WildlifeCannoneer": 79,
+                "OrientalSailorCavalry": 82
+            }
+        },
+        {
+            "ID": 16358,
+            "Sector": 4,
+            "oletusnimi": "4.3",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "505, 135",
+            "Troops": {
+                "NordsEliteSoldier": 125,
+                "WildlifeCannoneer": 144,
+                "OrientalBanditCanoneer": 39,
+                "OrientalApe2": 28
+            }
+        },
+        {
+            "ID": 16460,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "242, 184",
+            "Troops": {
+                "OrientalBanditRecruit": 156,
+                "OrientalBanditSoldier": 93,
+                "OrientalBanditLongbowman": 71
+            }
+        },
+        {
+            "ID": 16471,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "137, 281",
+            "Troops": {
+                "WildlifeLongbowman": 102,
+                "WildlifeCannoneer": 93,
+                "OrientalBanditCavalryBowman": 45,
+                "OrientalBanditCanoneer": 90
+            }
+        },
+        {
+            "ID": 16942,
+            "Sector": 4,
+            "oletusnimi": "4.3",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "92, 152",
+            "Troops": {
+                "OrientalBanditSoldier": 79,
+                "OrientalBanditLongbowman": 80,
+                "OrientalBanditCavalryBowman": 45
+            }
+        },
+        {
+            "ID": 17484,
+            "Sector": 6,
+            "oletusnimi": "6.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "284, 54",
+            "Troops": {
+                "WildlifeLongbowman": 144,
+                "OrientalBanditRecruit": 69,
+                "OrientalBanditCanoneer": 135,
+                "OrientalApe3": 91
+            }
+        },
+        {
+            "ID": 17719,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "429, 200",
+            "Troops": {
+                "WildlifeCannoneer": 147,
+                "OrientalBanditCavalry": 126,
+                "OrientalBanditCanoneer": 71
+            }
+        },
+        {
+            "ID": 18018,
+            "Sector": 5,
+            "oletusnimi": "5.4",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "389, 63",
+            "Troops": {
+                "OrientalBanditSoldier": 123,
+                "EpicRaidBoss7": 2,
+                "EpicRaidBoss9": 2,
+                "EpicRaidBoss10": 2
+            }
+        },
+        {
+            "ID": 18077,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "312, 203",
+            "Troops": {
+                "OrientalBanditRecruit": 111,
+                "OrientalBanditLongbowman": 121,
+                "OrientalBanditCavalryBowman": 45,
+                "OrientalApe3": 119
+            }
+        },
+        {
+            "ID": 18159,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "364, 275",
+            "Troops": {
+                "OrientalBanditCavalryBowman": 85,
+                "OrientalSailorCavalry": 91,
+                "OrientalApe3": 66,
+                "EpicRaidBoss9": 6
+            }
+        },
+        {
+            "ID": 18260,
+            "Sector": 4,
+            "oletusnimi": "4.5",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "85, 140",
+            "Troops": {
+                "OrientalBanditCavalryBowman": 19,
+                "OrientalSailorCavalry": 100,
+                "EpicRaidBoss10": 4
+            }
+        },
+        {
+            "ID": 18533,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "139, 260",
+            "Troops": {
+                "NordsEliteSoldier": 258,
+                "WildlifeLongbowman": 8,
+                "WildlifeCannoneer": 17,
+                "OrientalApe2": 27
+            }
+        },
+        {
+            "ID": 18549,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "550, 126",
+            "Troops": {
+                "OrientalBanditCavalry": 173,
+                "OrientalSailorCavalry": 138,
+                "OrientalApe3": 121
+            }
+        },
+        {
+            "ID": 18710,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "312, 188",
+            "Troops": {
+                "NordsEliteSoldier": 108,
+                "WildlifeLongbowman": 132,
+                "OrientalSailorCavalry": 230
+            }
+        },
+        {
+            "ID": 18831,
+            "Sector": 6,
+            "oletusnimi": "6.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "188, 58",
+            "Troops": {
+                "NordsEliteSoldier": 200,
+                "OrientalBanditLongbowman": 71,
+                "OrientalApe2": 18
+            }
+        },
+        {
+            "ID": 19573,
+            "Sector": 6,
+            "oletusnimi": "6.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "206, 58",
+            "Troops": {
+                "NordsEliteSoldier": 111,
+                "WildlifeLongbowman": 178,
+                "OrientalSailorCavalry": 183
+            }
+        },
+        {
+            "ID": 19624,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "234, 169",
+            "Troops": {
+                "WildlifeCannoneer": 176,
+                "OrientalSailorCavalry": 98,
+                "EpicRaidBoss7": 5
+            }
+        },
+        {
+            "ID": 19671,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "164, 269",
+            "Troops": {
+                "OrientalBanditSoldier": 76,
+                "OrientalBanditCavalryBowman": 51,
+                "EpicRaidBoss6": 9
+            }
+        },
+        {
+            "ID": 19822,
+            "Sector": 5,
+            "oletusnimi": "5.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "172, 116",
+            "Troops": {
+                "WildlifeCannoneer": 93,
+                "OrientalBanditRecruit": 67,
+                "OrientalBanditCavalryBowman": 133,
+                "OrientalApe3": 25
+            }
+        },
+        {
+            "ID": 19938,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "234, 196",
+            "Troops": {
+                "OrientalBanditRecruit": 230,
+                "OrientalBanditLongbowman": 67,
+                "OrientalBanditCavalryBowman": 50,
+                "OrientalApe3": 27
+            }
+        },
+        {
+            "ID": 19966,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "252, 264",
+            "Troops": {
+                "WildlifeCannoneer": 48,
+                "OrientalBanditRecruit": 134,
+                "OrientalBanditLongbowman": 64,
+                "OrientalBanditCavalryBowman": 91
+            }
+        }
+    ]
+}

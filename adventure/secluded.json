@@ -1,0 +1,726 @@
+{
+    "FileName": "secluded",
+    "ID": "SecludedExperiments",
+    "Name": "Secluded Experiments",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 39535,
+    "Players": 3,
+    "Units": [
+        "PirateCavalry",
+        "PirateRecruit",
+        "PirateMilitia",
+        "PirateBoss1",
+        "PirateLongbowman",
+        "PirateCaptain",
+        "RaidersBoss1"
+    ],
+    "leirit": [
+        {
+            "ID": 10030,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "228, 108",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCaptain": 100,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 10301,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "333, 262",
+            "Troops": {
+                "PirateCavalry": 50,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 10359,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 2,
+            "Location": "493, 145",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 100,
+                "PirateBoss1": 2
+            }
+        },
+        {
+            "ID": 10430,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "242, 150",
+            "Troops": {
+                "PirateLongbowman": 100,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 10496,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "225, 93",
+            "Troops": {
+                "PirateCavalry": 150,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 10811,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "201, 208",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateCavalry": 100
+            }
+        },
+        {
+            "ID": 11050,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 2,
+            "Location": "300, 78",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCavalry": 50,
+                "PirateCaptain": 100,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 11149,
+            "Sector": 11,
+            "Alias": "",
+            "Type": 1,
+            "Location": "548, 67",
+            "Troops": {
+                "PirateCavalry": 100,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 11648,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 2,
+            "Location": "365, 163",
+            "Troops": {
+                "PirateLongbowman": 150,
+                "PirateBoss1": 3
+            }
+        },
+        {
+            "ID": 11841,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "403, 232",
+            "Troops": {
+                "PirateLongbowman": 150,
+                "PirateCavalry": 50
+            }
+        },
+        {
+            "ID": 11868,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "89, 237",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateCaptain": 50
+            }
+        },
+        {
+            "ID": 12185,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "155, 259",
+            "Troops": {
+                "PirateMilitia": 200
+            }
+        },
+        {
+            "ID": 12282,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "342, 188",
+            "Troops": {
+                "PirateCavalry": 50,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 12473,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "119, 168",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCaptain": 100,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 12589,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "256, 180",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCavalry": 50,
+                "PirateCaptain": 100,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 12611,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 1,
+            "Location": "483, 293",
+            "Troops": {
+                "PirateLongbowman": 75,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 12863,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 1,
+            "Location": "474, 186",
+            "Troops": {
+                "PirateCaptain": 125
+            }
+        },
+        {
+            "ID": 13434,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "127, 158",
+            "Troops": {
+                "PirateCavalry": 150,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 13440,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "96, 273",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 100
+            }
+        },
+        {
+            "ID": 13494,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "141, 234",
+            "Troops": {
+                "PirateCaptain": 110
+            }
+        },
+        {
+            "ID": 13597,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 1,
+            "Location": "547, 195",
+            "Troops": {
+                "PirateLongbowman": 200
+            }
+        },
+        {
+            "ID": 13906,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 1,
+            "Location": "498, 239",
+            "Troops": {
+                "PirateLongbowman": 75,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 13958,
+            "Sector": 9,
+            "Alias": "",
+            "Type": 2,
+            "Location": "434, 49",
+            "Troops": {
+                "PirateCavalry": 75,
+                "PirateCaptain": 100,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 14132,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 2,
+            "Location": "567, 168",
+            "Troops": {
+                "PirateCavalry": 100,
+                "PirateCaptain": 75,
+                "RaidersBoss1": 2
+            }
+        },
+        {
+            "ID": 14377,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "393, 157",
+            "Troops": {
+                "PirateRecruit": 50,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 14732,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 2,
+            "Location": "535, 267",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCaptain": 125,
+                "PirateBoss1": 3
+            }
+        },
+        {
+            "ID": 14749,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "333, 155",
+            "Troops": {
+                "PirateMilitia": 200
+            }
+        },
+        {
+            "ID": 14884,
+            "Sector": 11,
+            "Alias": "",
+            "Type": 2,
+            "Location": "548, 46",
+            "Troops": {
+                "PirateMilitia": 50,
+                "PirateCaptain": 100,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 15012,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "174, 91",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 100
+            }
+        },
+        {
+            "ID": 15218,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "183, 246",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateCaptain": 50,
+                "PirateBoss1": 2
+            }
+        },
+        {
+            "ID": 15568,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 1,
+            "Location": "529, 106",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 15869,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "342, 93",
+            "Troops": {
+                "PirateLongbowman": 150,
+                "PirateCavalry": 100
+            }
+        },
+        {
+            "ID": 15894,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "286, 110",
+            "Troops": {
+                "PirateLongbowman": 100,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 16148,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "306, 346",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCavalry": 50,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 16171,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "205, 177",
+            "Troops": {
+                "PirateLongbowman": 150,
+                "PirateCavalry": 50
+            }
+        },
+        {
+            "ID": 16212,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "37, 262",
+            "Troops": {
+                "PirateLongbowman": 200
+            }
+        },
+        {
+            "ID": 16217,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 1,
+            "Location": "566, 259",
+            "Troops": {
+                "PirateLongbowman": 200
+            }
+        },
+        {
+            "ID": 16363,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "119, 325",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCaptain": 50,
+                "PirateBoss1": 3
+            }
+        },
+        {
+            "ID": 16433,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "265, 310",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 16579,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "268, 238",
+            "Troops": {
+                "PirateMilitia": 150,
+                "PirateBoss1": 3
+            }
+        },
+        {
+            "ID": 16635,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 2,
+            "Location": "521, 286",
+            "Troops": {
+                "PirateMilitia": 125,
+                "PirateLongbowman": 50,
+                "RaidersBoss1": 2
+            }
+        },
+        {
+            "ID": 16986,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "170, 329",
+            "Troops": {
+                "PirateCavalry": 100,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 17406,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 1,
+            "Location": "521, 259",
+            "Troops": {
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 17514,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 1,
+            "Location": "428, 170",
+            "Troops": {
+                "PirateMilitia": 200
+            }
+        },
+        {
+            "ID": 17842,
+            "Sector": 9,
+            "Alias": "",
+            "Type": 1,
+            "Location": "429, 80",
+            "Troops": {
+                "PirateRecruit": 50,
+                "PirateMilitia": 50,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 17914,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "284, 326",
+            "Troops": {
+                "PirateCavalry": 50,
+                "PirateCaptain": 125,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 18025,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 1,
+            "Location": "533, 148",
+            "Troops": {
+                "PirateLongbowman": 75,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 18051,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "92, 297",
+            "Troops": {
+                "PirateLongbowman": 150,
+                "PirateCavalry": 50
+            }
+        },
+        {
+            "ID": 18102,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "201, 304",
+            "Troops": {
+                "PirateLongbowman": 150,
+                "PirateCavalry": 50
+            }
+        },
+        {
+            "ID": 18216,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 2,
+            "Location": "406, 328",
+            "Troops": {
+                "PirateMilitia": 75,
+                "PirateLongbowman": 75,
+                "RaidersBoss1": 2
+            }
+        },
+        {
+            "ID": 18427,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "383, 297",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateMilitia": 100
+            }
+        },
+        {
+            "ID": 18549,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "308, 305",
+            "Troops": {
+                "PirateMilitia": 50,
+                "PirateCaptain": 100
+            }
+        },
+        {
+            "ID": 18829,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 1,
+            "Location": "475, 119",
+            "Troops": {
+                "PirateMilitia": 75,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 18841,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "182, 276",
+            "Troops": {
+                "PirateLongbowman": 100,
+                "PirateCaptain": 50
+            }
+        },
+        {
+            "ID": 18905,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "105, 232",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCaptain": 50,
+                "PirateBoss1": 2
+            }
+        },
+        {
+            "ID": 19064,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "111, 130",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 100
+            }
+        },
+        {
+            "ID": 19207,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "380, 133",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCavalry": 50,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 19227,
+            "Sector": 9,
+            "Alias": "",
+            "Type": 1,
+            "Location": "406, 105",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 100
+            }
+        },
+        {
+            "ID": 19379,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "352, 256",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCaptain": 125,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 19586,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "152, 296",
+            "Troops": {
+                "PirateLongbowman": 50,
+                "PirateCavalry": 100,
+                "PirateCaptain": 50
+            }
+        },
+        {
+            "ID": 19587,
+            "Sector": 9,
+            "Alias": "",
+            "Type": 1,
+            "Location": "384, 78",
+            "Troops": {
+                "PirateRecruit": 50,
+                "PirateMilitia": 50,
+                "PirateCaptain": 75
+            }
+        },
+        {
+            "ID": 19737,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 1,
+            "Location": "505, 289",
+            "Troops": {
+                "PirateMilitia": 200
+            }
+        },
+        {
+            "ID": 19809,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "438, 310",
+            "Troops": {
+                "PirateMilitia": 50,
+                "PirateCaptain": 75
+            }
+        }
+    ]
+}

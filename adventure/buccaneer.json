@@ -1,0 +1,209 @@
+{
+    "FileName": "buccaneer",
+    "ID": "BuccaneerRoundup",
+    "Name": "The Buccaneer Roundup",
+    "Type": "Coop",
+    "GroupingNumber": 3,
+    "ExperiencePoints": 9710,
+    "Players": 3,
+    "Units": [
+        "PirateCavalry",
+        "PirateRecruit",
+        "PirateMilitia",
+        "PirateBoss1",
+        "PirateLongbowman",
+        "PirateCaptain",
+        "EnemyCannoneer"
+    ],
+    "leirit": [
+        {
+            "ID": 11717,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "B",
+            "Type": 2,
+            "Location": "166, 146",
+            "Troops": {
+                "PirateRecruit": 120,
+                "PirateCaptain": 40,
+                "EnemyCannoneer": 40
+            }
+        },
+        {
+            "ID": 12892,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "C",
+            "Type": 1,
+            "Location": "399, 89",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 80
+            }
+        },
+        {
+            "ID": 13531,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "88, 186",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 80
+            }
+        },
+        {
+            "ID": 14408,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "C",
+            "Type": 2,
+            "Location": "392, 181",
+            "Troops": {
+                "PirateRecruit": 120,
+                "PirateCaptain": 40,
+                "EnemyCannoneer": 40
+            }
+        },
+        {
+            "ID": 14793,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "X",
+            "Type": 1,
+            "Location": "260, 272",
+            "Troops": {
+                "PirateRecruit": 50,
+                "PirateLongbowman": 50,
+                "PirateCavalry": 100
+            }
+        },
+        {
+            "ID": 14800,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "X",
+            "Type": 1,
+            "Location": "273, 262",
+            "Troops": {
+                "PirateRecruit": 50,
+                "PirateLongbowman": 50,
+                "PirateCavalry": 100
+            }
+        },
+        {
+            "ID": 15697,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "114, 69",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 80
+            }
+        },
+        {
+            "ID": 15950,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "B",
+            "Type": 1,
+            "Location": "127, 102",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateMilitia": 20,
+                "PirateLongbowman": 80
+            }
+        },
+        {
+            "ID": 16023,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "X",
+            "Type": 1,
+            "Location": "253, 259",
+            "Troops": {
+                "PirateRecruit": 50,
+                "PirateLongbowman": 50,
+                "PirateCavalry": 100
+            }
+        },
+        {
+            "ID": 16217,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "C",
+            "Type": 1,
+            "Location": "420, 138",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateMilitia": 20,
+                "PirateLongbowman": 80
+            }
+        },
+        {
+            "ID": 16802,
+            "Sector": 2,
+            "oletusnimi": "2.6",
+            "Alias": "X",
+            "Type": 2,
+            "Location": "348, 327",
+            "Troops": {
+                "PirateMilitia": 50,
+                "PirateLongbowman": 100,
+                "PirateBoss1": 2,
+                "EnemyCannoneer": 40
+            }
+        },
+        {
+            "ID": 17575,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "X",
+            "Type": 1,
+            "Location": "287, 297",
+            "Troops": {
+                "PirateCavalry": 200
+            }
+        },
+        {
+            "ID": 17761,
+            "Sector": 2,
+            "oletusnimi": "2.5",
+            "Alias": "X",
+            "Type": 1,
+            "Location": "275, 305",
+            "Troops": {
+                "PirateCavalry": 200
+            }
+        },
+        {
+            "ID": 18454,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "A",
+            "Type": 1,
+            "Location": "136, 208",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateMilitia": 20,
+                "PirateLongbowman": 80
+            }
+        },
+        {
+            "ID": 19306,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "A",
+            "Type": 2,
+            "Location": "165, 243",
+            "Troops": {
+                "PirateRecruit": 120,
+                "PirateCaptain": 40,
+                "EnemyCannoneer": 40
+            }
+        }
+    ]
+}

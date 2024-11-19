@@ -1,0 +1,536 @@
+{
+    "FileName": "db",
+    "ID": "TheDarkBrotherhood",
+    "Name": "The Dark Brotherhood",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 51978,
+    "Players": 3,
+    "Units": [
+        "CultBoss3",
+        "CultRecruit",
+        "CultBoss1",
+        "CultCavalry",
+        "CultBowman",
+        "CultLongbowman",
+        "CultCrossbowman",
+        "CultCanoneer",
+        "CultBoss2"
+    ],
+    "leirit": [
+        {
+            "ID": 10233,
+            "Sector": 19,
+            "Alias": "",
+            "Type": 1,
+            "Location": "343, 44",
+            "Troops": {
+                "CultRecruit": 200
+            }
+        },
+        {
+            "ID": 10825,
+            "Sector": 20,
+            "Alias": "",
+            "Type": 1,
+            "Location": "480, 26",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultBowman": 80,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 11056,
+            "Sector": 16,
+            "Alias": "",
+            "Type": 2,
+            "Location": "311, 103",
+            "Troops": {
+                "CultRecruit": 120,
+                "CultBowman": 80
+            }
+        },
+        {
+            "ID": 11167,
+            "Sector": 13,
+            "Alias": "",
+            "Type": 1,
+            "Location": "141, 111",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultBowman": 80,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 11632,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "122, 214",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultBowman": 40,
+                "CultLongbowman": 40,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 11798,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 2,
+            "Location": "214, 181",
+            "Troops": {
+                "CultRecruit": 120,
+                "CultLongbowman": 80
+            }
+        },
+        {
+            "ID": 12019,
+            "Sector": 12,
+            "Alias": "",
+            "Type": 1,
+            "Location": "225, 139",
+            "Troops": {
+                "CultRecruit": 200
+            }
+        },
+        {
+            "ID": 12464,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "345, 210",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultLongbowman": 100,
+                "CultCavalry": 49,
+                "CultBoss2": 1
+            }
+        },
+        {
+            "ID": 12588,
+            "Sector": 11,
+            "Alias": "",
+            "Type": 1,
+            "Location": "233, 220",
+            "Troops": {
+                "CultRecruit": 200
+            }
+        },
+        {
+            "ID": 12968,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "331, 224",
+            "Troops": {
+                "CultRecruit": 60,
+                "CultLongbowman": 140
+            }
+        },
+        {
+            "ID": 13400,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 2,
+            "Location": "470, 218",
+            "Troops": {
+                "CultRecruit": 66,
+                "CultCrossbowman": 66,
+                "CultCanoneer": 66,
+                "CultBoss2": 2
+            }
+        },
+        {
+            "ID": 13513,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "90, 340",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultBowman": 100
+            }
+        },
+        {
+            "ID": 13579,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 2,
+            "Location": "252, 243",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultBowman": 100
+            }
+        },
+        {
+            "ID": 13847,
+            "Sector": 18,
+            "Alias": "",
+            "Type": 1,
+            "Location": "432, 108",
+            "Troops": {
+                "CultRecruit": 70,
+                "CultLongbowman": 60,
+                "CultCavalry": 70
+            }
+        },
+        {
+            "ID": 13966,
+            "Sector": 17,
+            "Alias": "",
+            "Type": 2,
+            "Location": "405, 184",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultCavalry": 120
+            }
+        },
+        {
+            "ID": 14232,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "330, 201",
+            "Troops": {
+                "CultLongbowman": 150,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 14427,
+            "Sector": 16,
+            "Alias": "",
+            "Type": 1,
+            "Location": "402, 145",
+            "Troops": {
+                "CultRecruit": 200
+            }
+        },
+        {
+            "ID": 14434,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "219, 301",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultLongbowman": 120
+            }
+        },
+        {
+            "ID": 14457,
+            "Sector": 14,
+            "Alias": "",
+            "Type": 1,
+            "Location": "62, 122",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultBowman": 100
+            }
+        },
+        {
+            "ID": 14574,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "562, 308",
+            "Troops": {
+                "CultRecruit": 66,
+                "CultLongbowman": 66,
+                "CultCavalry": 66
+            }
+        },
+        {
+            "ID": 14621,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 2,
+            "Location": "573, 251",
+            "Troops": {
+                "CultRecruit": 66,
+                "CultLongbowman": 66,
+                "CultCrossbowman": 66
+            }
+        },
+        {
+            "ID": 14663,
+            "Sector": 14,
+            "Alias": "",
+            "Type": 2,
+            "Location": "94, 152",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCavalry": 100
+            }
+        },
+        {
+            "ID": 14707,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "184, 270",
+            "Troops": {
+                "CultRecruit": 70,
+                "CultLongbowman": 60,
+                "CultCavalry": 70
+            }
+        },
+        {
+            "ID": 14737,
+            "Sector": 18,
+            "Alias": "",
+            "Type": 2,
+            "Location": "492, 148",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultLongbowman": 150
+            }
+        },
+        {
+            "ID": 14760,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "353, 227",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultCrossbowman": 50,
+                "CultCavalry": 100
+            }
+        },
+        {
+            "ID": 14935,
+            "Sector": 15,
+            "Alias": "",
+            "Type": 2,
+            "Location": "302, 161",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultLongbowman": 100,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 15258,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "344, 192",
+            "Troops": {
+                "CultRecruit": 60,
+                "CultLongbowman": 70,
+                "CultCavalry": 70
+            }
+        },
+        {
+            "ID": 15341,
+            "Sector": 21,
+            "Alias": "",
+            "Type": 1,
+            "Location": "541, 97",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultBowman": 100
+            }
+        },
+        {
+            "ID": 15356,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "367, 201",
+            "Troops": {
+                "CultLongbowman": 75,
+                "CultCavalry": 125
+            }
+        },
+        {
+            "ID": 15426,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "271, 322",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultLongbowman": 100
+            }
+        },
+        {
+            "ID": 15720,
+            "Sector": 10,
+            "Alias": "",
+            "Type": 1,
+            "Location": "252, 267",
+            "Troops": {
+                "CultRecruit": 200
+            }
+        },
+        {
+            "ID": 16159,
+            "Sector": 13,
+            "Alias": "",
+            "Type": 2,
+            "Location": "175, 131",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultBowman": 40,
+                "CultLongbowman": 40,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 16218,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "104, 248",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultBowman": 80,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 16377,
+            "Sector": 16,
+            "Alias": "",
+            "Type": 1,
+            "Location": "271, 123",
+            "Troops": {
+                "CultRecruit": 200
+            }
+        },
+        {
+            "ID": 16751,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 2,
+            "Location": "401, 259",
+            "Troops": {
+                "CultRecruit": 66,
+                "CultLongbowman": 66,
+                "CultCrossbowman": 66,
+                "CultBoss1": 1
+            }
+        },
+        {
+            "ID": 17372,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "147, 297",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCavalry": 100
+            }
+        },
+        {
+            "ID": 17688,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "207, 242",
+            "Troops": {
+                "CultRecruit": 120,
+                "CultLongbowman": 80
+            }
+        },
+        {
+            "ID": 18072,
+            "Sector": 9,
+            "Alias": "",
+            "Type": 2,
+            "Location": "491, 258",
+            "Troops": {
+                "CultCrossbowman": 66,
+                "CultCavalry": 66,
+                "CultCanoneer": 66,
+                "CultBoss3": 2
+            }
+        },
+        {
+            "ID": 18325,
+            "Sector": 18,
+            "Alias": "",
+            "Type": 1,
+            "Location": "474, 107",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultLongbowman": 120
+            }
+        },
+        {
+            "ID": 18688,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "178, 209",
+            "Troops": {
+                "CultRecruit": 200
+            }
+        },
+        {
+            "ID": 18895,
+            "Sector": 21,
+            "Alias": "",
+            "Type": 2,
+            "Location": "493, 77",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultCavalry": 100
+            }
+        },
+        {
+            "ID": 18946,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "287, 305",
+            "Troops": {
+                "CultLongbowman": 100,
+                "CultCavalry": 100
+            }
+        },
+        {
+            "ID": 19383,
+            "Sector": 19,
+            "Alias": "",
+            "Type": 2,
+            "Location": "386, 81",
+            "Troops": {
+                "CultRecruit": 120,
+                "CultLongbowman": 80
+            }
+        },
+        {
+            "ID": 19410,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "317, 210",
+            "Troops": {
+                "CultRecruit": 50,
+                "CultBowman": 50,
+                "CultLongbowman": 50,
+                "CultCavalry": 50
+            }
+        },
+        {
+            "ID": 19656,
+            "Sector": 20,
+            "Alias": "",
+            "Type": 2,
+            "Location": "438, 45",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultBowman": 40,
+                "CultLongbowman": 40,
+                "CultCavalry": 40
+            }
+        }
+    ]
+}

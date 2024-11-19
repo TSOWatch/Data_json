@@ -1,0 +1,238 @@
+{
+    "FileName": "shaman",
+    "ID": "Birthday2013MilitaryAdventure1",
+    "Name": "The Shaman",
+    "Type": "Mission",
+    "Theme": "Retro",
+    "ExperiencePoints": 14960,
+    "Players": 1,
+    "Units": [
+        "BanditRecruit",
+        "BanditMilitia",
+        "BanditCavalry",
+        "BanditBowman",
+        "BanditLongbowman",
+        "CultRecruit",
+        "CultBoss1",
+        "CultCavalry",
+        "CultBowman",
+        "CultLongbowman",
+        "CultCrossbowman",
+        "CultCanoneer",
+        "BanditBoss1",
+        "BanditBoss2",
+        "BirthdayShaman"
+    ],
+    "leirit": [
+        {
+            "ID": 10093,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "264, 279",
+            "Troops": {
+                "BanditRecruit": 80,
+                "BanditMilitia": 100
+            }
+        },
+        {
+            "ID": 10310,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "439, 184",
+            "Troops": {
+                "BanditMilitia": 160
+            }
+        },
+        {
+            "ID": 10468,
+            "Sector": 4,
+            "oletusnimi": "4.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "181, 104",
+            "Troops": {
+                "CultRecruit": 100,
+                "CultBoss1": 1,
+                "BirthdayShaman": 1
+            }
+        },
+        {
+            "ID": 10506,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "351, 116",
+            "Troops": {
+                "CultRecruit": 60,
+                "CultLongbowman": 60,
+                "CultCavalry": 80
+            }
+        },
+        {
+            "ID": 10892,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "358, 368",
+            "Troops": {
+                "BanditRecruit": 100,
+                "BanditCavalry": 80,
+                "BanditBoss1": 1
+            }
+        },
+        {
+            "ID": 11167,
+            "Sector": 3,
+            "oletusnimi": "3.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "433, 151",
+            "Troops": {
+                "BanditRecruit": 80,
+                "BanditLongbowman": 100,
+                "BanditBoss2": 1
+            }
+        },
+        {
+            "ID": 11576,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "188, 255",
+            "Troops": {
+                "BanditRecruit": 50,
+                "BanditBowman": 80,
+                "BanditCavalry": 50
+            }
+        },
+        {
+            "ID": 13378,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "509, 337",
+            "Troops": {
+                "BanditRecruit": 100,
+                "BanditCavalry": 80
+            }
+        },
+        {
+            "ID": 15824,
+            "Sector": 4,
+            "oletusnimi": "4.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "187, 123",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultCrossbowman": 50,
+                "CultCavalry": 60
+            }
+        },
+        {
+            "ID": 16265,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "296, 151",
+            "Troops": {
+                "CultRecruit": 80,
+                "CultBowman": 80
+            }
+        },
+        {
+            "ID": 16327,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "326, 340",
+            "Troops": {
+                "BanditRecruit": 90,
+                "BanditLongbowman": 80
+            }
+        },
+        {
+            "ID": 16645,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "180, 235",
+            "Troops": {
+                "BanditRecruit": 80
+            }
+        },
+        {
+            "ID": 16833,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "496, 244",
+            "Troops": {
+                "BanditRecruit": 100,
+                "BanditBowman": 50,
+                "BanditCavalry": 40
+            }
+        },
+        {
+            "ID": 17505,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "534, 289",
+            "Troops": {
+                "BanditCavalry": 100,
+                "BanditLongbowman": 80
+            }
+        },
+        {
+            "ID": 18414,
+            "Sector": 4,
+            "oletusnimi": "4.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "212, 99",
+            "Troops": {
+                "CultCrossbowman": 80,
+                "CultCavalry": 40,
+                "CultCanoneer": 80
+            }
+        },
+        {
+            "ID": 18939,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "148, 286",
+            "Troops": {
+                "BanditRecruit": 100,
+                "BanditLongbowman": 50
+            }
+        },
+        {
+            "ID": 19589,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "376, 348",
+            "Troops": {
+                "BanditRecruit": 80,
+                "BanditBowman": 80
+            }
+        }
+    ]
+}

@@ -1,0 +1,931 @@
+{
+    "FileName": "princess",
+    "ID": "1001NightsPrincess",
+    "Name": "Aladdin and the Beautiful Princess",
+    "Type": "Mission",
+    "Theme": "Fairytale",
+    "Campaign": "ArabianNights",
+    "GroupingNumber": 200,
+    "OrderNumber": 137,
+    "ExperiencePoints": 584870,
+    "Players": 1,
+    "Elite": true,
+    "Units": [
+        "OrientalSailorRecruit",
+        "OrientalSailorMilitia",
+        "OrientalSailorCavalry",
+        "OrientalSailorBowman",
+        "OrientalSailorLongbowman",
+        "OrientalSailorCanoneer",
+        "OrientalSailorBoss1",
+        "OrientalSailorBoss2",
+        "OrientalSailorBoss3",
+        "OrientalGuard1",
+        "OrientalGuard2"
+    ],
+    "leirit": [
+        {
+            "ID": 10023,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "138, 366",
+            "Troops": {
+                "OrientalSailorBowman": 270
+            }
+        },
+        {
+            "ID": 10072,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "106, 138",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorBowman": 70
+            }
+        },
+        {
+            "ID": 10303,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "106, 291",
+            "Troops": {
+                "OrientalSailorRecruit": 90,
+                "OrientalSailorCavalry": 90,
+                "OrientalSailorBowman": 90
+            }
+        },
+        {
+            "ID": 10860,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "457, 169",
+            "Troops": {
+                "OrientalSailorCavalry": 270
+            }
+        },
+        {
+            "ID": 11048,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 2,
+            "Location": "175, 113",
+            "Troops": {
+                "OrientalSailorRecruit": 100,
+                "OrientalSailorCavalry": 100,
+                "OrientalSailorBoss1": 1,
+                "OrientalSailorBoss2": 2
+            }
+        },
+        {
+            "ID": 11081,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "352, 194",
+            "Troops": {
+                "OrientalSailorMilitia": 130,
+                "OrientalSailorCavalry": 100,
+                "OrientalSailorLongbowman": 40
+            }
+        },
+        {
+            "ID": 11101,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "394, 235",
+            "Troops": {
+                "OrientalSailorRecruit": 180,
+                "OrientalSailorCavalry": 50,
+                "OrientalSailorBowman": 40
+            }
+        },
+        {
+            "ID": 11103,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "38, 164",
+            "Troops": {
+                "OrientalSailorRecruit": 270
+            }
+        },
+        {
+            "ID": 11110,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "412, 311",
+            "Troops": {
+                "OrientalSailorMilitia": 180,
+                "OrientalSailorLongbowman": 90
+            }
+        },
+        {
+            "ID": 11524,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "238, 28",
+            "Troops": {
+                "OrientalSailorRecruit": 150,
+                "OrientalSailorCavalry": 50,
+                "OrientalSailorCanoneer": 70
+            }
+        },
+        {
+            "ID": 11583,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "528, 206",
+            "Troops": {
+                "OrientalSailorRecruit": 200,
+                "OrientalSailorCavalry": 70
+            }
+        },
+        {
+            "ID": 11741,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "435, 304",
+            "Troops": {
+                "OrientalSailorCanoneer": 150,
+                "OrientalSailorBoss3": 3
+            }
+        },
+        {
+            "ID": 11746,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "216, 71",
+            "Troops": {
+                "OrientalSailorBowman": 270
+            }
+        },
+        {
+            "ID": 11761,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "326, 116",
+            "Troops": {
+                "OrientalSailorCavalry": 170,
+                "OrientalSailorBowman": 100
+            }
+        },
+        {
+            "ID": 11906,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "309, 24",
+            "Troops": {
+                "OrientalSailorMilitia": 180,
+                "OrientalSailorBoss1": 1,
+                "OrientalSailorBoss3": 1
+            }
+        },
+        {
+            "ID": 11969,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "461, 101",
+            "Troops": {
+                "OrientalSailorRecruit": 120,
+                "OrientalSailorLongbowman": 150
+            }
+        },
+        {
+            "ID": 12044,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "61, 218",
+            "Troops": {
+                "OrientalSailorMilitia": 70,
+                "OrientalSailorLongbowman": 200
+            }
+        },
+        {
+            "ID": 12260,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "468, 157",
+            "Troops": {
+                "OrientalSailorCanoneer": 270,
+                "OrientalSailorBoss1": 1
+            }
+        },
+        {
+            "ID": 12278,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "429, 204",
+            "Troops": {
+                "OrientalSailorRecruit": 70,
+                "OrientalSailorCanoneer": 200
+            }
+        },
+        {
+            "ID": 12351,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "401, 96",
+            "Troops": {
+                "OrientalSailorMilitia": 150,
+                "OrientalSailorBoss1": 1,
+                "OrientalSailorBoss2": 1,
+                "OrientalSailorBoss3": 1
+            }
+        },
+        {
+            "ID": 12563,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 2,
+            "Location": "395, 145",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorCavalry": 30,
+                "OrientalSailorBoss1": 2,
+                "OrientalSailorBoss2": 1
+            }
+        },
+        {
+            "ID": 12647,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "527, 113",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorCavalry": 50,
+                "OrientalSailorBoss2": 1,
+                "OrientalSailorBoss3": 1
+            }
+        },
+        {
+            "ID": 12746,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "413, 56",
+            "Troops": {
+                "OrientalSailorMilitia": 220,
+                "OrientalSailorCavalry": 50
+            }
+        },
+        {
+            "ID": 12806,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "381, 295",
+            "Troops": {
+                "OrientalSailorMilitia": 190,
+                "OrientalSailorCanoneer": 70
+            }
+        },
+        {
+            "ID": 12926,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "165, 294",
+            "Troops": {
+                "OrientalSailorRecruit": 170,
+                "OrientalSailorLongbowman": 100
+            }
+        },
+        {
+            "ID": 12954,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "234, 251",
+            "Troops": {
+                "OrientalSailorCanoneer": 270
+            }
+        },
+        {
+            "ID": 13016,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "427, 240",
+            "Troops": {
+                "OrientalSailorLongbowman": 270
+            }
+        },
+        {
+            "ID": 13075,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "252, 193",
+            "Troops": {
+                "OrientalSailorCavalry": 270
+            }
+        },
+        {
+            "ID": 13080,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "346, 166",
+            "Troops": {
+                "OrientalSailorMilitia": 160,
+                "OrientalSailorCavalry": 60,
+                "OrientalSailorBowman": 50
+            }
+        },
+        {
+            "ID": 13490,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 2,
+            "Location": "322, 214",
+            "Troops": {
+                "OrientalSailorCavalry": 200,
+                "OrientalSailorBowman": 30,
+                "OrientalSailorBoss1": 3
+            }
+        },
+        {
+            "ID": 13581,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "486, 67",
+            "Troops": {
+                "OrientalSailorMilitia": 190,
+                "OrientalSailorCavalry": 50,
+                "OrientalSailorLongbowman": 30
+            }
+        },
+        {
+            "ID": 13633,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "345, 335",
+            "Troops": {
+                "OrientalSailorCavalry": 90,
+                "OrientalSailorBowman": 180,
+                "OrientalSailorBoss3": 2
+            }
+        },
+        {
+            "ID": 13815,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "469, 67",
+            "Troops": {
+                "OrientalSailorRecruit": 150,
+                "OrientalSailorCavalry": 50,
+                "OrientalSailorBowman": 70
+            }
+        },
+        {
+            "ID": 14097,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "101, 328",
+            "Troops": {
+                "OrientalSailorMilitia": 150,
+                "OrientalSailorBowman": 120
+            }
+        },
+        {
+            "ID": 14153,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "495, 123",
+            "Troops": {
+                "OrientalSailorCanoneer": 270
+            }
+        },
+        {
+            "ID": 14369,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "400, 177",
+            "Troops": {
+                "OrientalSailorRecruit": 200,
+                "OrientalSailorCavalry": 70
+            }
+        },
+        {
+            "ID": 14463,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "153, 161",
+            "Troops": {
+                "OrientalSailorMilitia": 100,
+                "OrientalSailorCavalry": 80,
+                "OrientalSailorBowman": 80
+            }
+        },
+        {
+            "ID": 14663,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "86, 194",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorCanoneer": 30,
+                "OrientalSailorLongbowman": 40
+            }
+        },
+        {
+            "ID": 14674,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "307, 142",
+            "Troops": {
+                "OrientalSailorMilitia": 140,
+                "OrientalSailorCanoneer": 130
+            }
+        },
+        {
+            "ID": 14675,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "326, 279",
+            "Troops": {
+                "OrientalSailorRecruit": 270
+            }
+        },
+        {
+            "ID": 14813,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "493, 176",
+            "Troops": {
+                "OrientalSailorMilitia": 60,
+                "OrientalSailorCavalry": 50,
+                "OrientalSailorBowman": 160
+            }
+        },
+        {
+            "ID": 14967,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "387, 250",
+            "Troops": {
+                "OrientalSailorMilitia": 100,
+                "OrientalSailorBowman": 70,
+                "OrientalSailorCanoneer": 100
+            }
+        },
+        {
+            "ID": 15023,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "452, 33",
+            "Troops": {
+                "OrientalSailorMilitia": 100,
+                "OrientalSailorCavalry": 120,
+                "OrientalSailorLongbowman": 50,
+                "OrientalSailorBoss3": 1
+            }
+        },
+        {
+            "ID": 15192,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "314, 56",
+            "Troops": {
+                "OrientalSailorMilitia": 220,
+                "OrientalSailorCavalry": 50
+            }
+        },
+        {
+            "ID": 15211,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "203, 194",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorCavalry": 70
+            }
+        },
+        {
+            "ID": 15219,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "129, 113",
+            "Troops": {
+                "OrientalSailorMilitia": 30,
+                "OrientalSailorCavalry": 100,
+                "OrientalSailorBowman": 40,
+                "OrientalSailorCanoneer": 100
+            }
+        },
+        {
+            "ID": 15259,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "270, 150",
+            "Troops": {
+                "OrientalSailorRecruit": 250,
+                "OrientalSailorCanoneer": 10,
+                "OrientalSailorLongbowman": 10
+            }
+        },
+        {
+            "ID": 15394,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 2,
+            "Location": "312, 106",
+            "Troops": {
+                "OrientalSailorRecruit": 200,
+                "OrientalSailorCavalry": 70,
+                "OrientalSailorBoss3": 2
+            }
+        },
+        {
+            "ID": 15401,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "450, 259",
+            "Troops": {
+                "OrientalSailorMilitia": 20,
+                "OrientalSailorBowman": 250
+            }
+        },
+        {
+            "ID": 15576,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "165, 78",
+            "Troops": {
+                "OrientalSailorMilitia": 90,
+                "OrientalSailorCavalry": 90,
+                "OrientalSailorBowman": 90
+            }
+        },
+        {
+            "ID": 15820,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "313, 158",
+            "Troops": {
+                "OrientalSailorRecruit": 30,
+                "OrientalSailorCavalry": 130,
+                "OrientalSailorCanoneer": 110
+            }
+        },
+        {
+            "ID": 15915,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "202, 181",
+            "Troops": {
+                "OrientalSailorBowman": 270,
+                "OrientalSailorBoss3": 1
+            }
+        },
+        {
+            "ID": 15991,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "266, 288",
+            "Troops": {
+                "OrientalSailorMilitia": 110,
+                "OrientalSailorCanoneer": 160
+            }
+        },
+        {
+            "ID": 16082,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "529, 195",
+            "Troops": {
+                "OrientalSailorMilitia": 250,
+                "OrientalSailorBoss1": 2
+            }
+        },
+        {
+            "ID": 16093,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "367, 67",
+            "Troops": {
+                "OrientalSailorMilitia": 50,
+                "OrientalSailorCavalry": 70,
+                "OrientalSailorBowman": 150
+            }
+        },
+        {
+            "ID": 16097,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "459, 226",
+            "Troops": {
+                "OrientalSailorMilitia": 270
+            }
+        },
+        {
+            "ID": 16101,
+            "Sector": 7,
+            "Alias": "",
+            "Type": 1,
+            "Location": "387, 157",
+            "Troops": {
+                "OrientalSailorRecruit": 270
+            }
+        },
+        {
+            "ID": 16237,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "161, 229",
+            "Troops": {
+                "OrientalSailorCavalry": 150,
+                "OrientalSailorLongbowman": 120,
+                "OrientalSailorBoss2": 1
+            }
+        },
+        {
+            "ID": 16257,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "138, 125",
+            "Troops": {
+                "OrientalSailorRecruit": 100,
+                "OrientalSailorMilitia": 100,
+                "OrientalSailorBoss2": 2
+            }
+        },
+        {
+            "ID": 16344,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 2,
+            "Location": "339, 128",
+            "Troops": {
+                "OrientalGuard1": 4,
+                "OrientalGuard2": 4
+            }
+        },
+        {
+            "ID": 16734,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "440, 102",
+            "Troops": {
+                "OrientalSailorRecruit": 150,
+                "OrientalSailorCanoneer": 120
+            }
+        },
+        {
+            "ID": 17318,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "417, 24",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorBowman": 70
+            }
+        },
+        {
+            "ID": 17671,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "377, 237",
+            "Troops": {
+                "OrientalSailorCavalry": 270,
+                "OrientalSailorBoss2": 1,
+                "OrientalSailorBoss3": 1
+            }
+        },
+        {
+            "ID": 17734,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "225, 137",
+            "Troops": {
+                "OrientalSailorMilitia": 190,
+                "OrientalSailorCanoneer": 50,
+                "OrientalSailorLongbowman": 40
+            }
+        },
+        {
+            "ID": 17837,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "129, 345",
+            "Troops": {
+                "OrientalSailorCavalry": 200,
+                "OrientalSailorBowman": 70
+            }
+        },
+        {
+            "ID": 18068,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "157, 243",
+            "Troops": {
+                "OrientalSailorCanoneer": 270
+            }
+        },
+        {
+            "ID": 18070,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "52, 174",
+            "Troops": {
+                "OrientalSailorCavalry": 150,
+                "OrientalSailorBoss1": 1,
+                "OrientalSailorBoss2": 1
+            }
+        },
+        {
+            "ID": 18228,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 2,
+            "Location": "340, 288",
+            "Troops": {
+                "OrientalSailorBowman": 120,
+                "OrientalSailorCanoneer": 150,
+                "OrientalSailorBoss1": 2
+            }
+        },
+        {
+            "ID": 18409,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "378, 39",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorCavalry": 40,
+                "OrientalSailorCanoneer": 30
+            }
+        },
+        {
+            "ID": 18672,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "348, 266",
+            "Troops": {
+                "OrientalSailorRecruit": 90,
+                "OrientalSailorCavalry": 90,
+                "OrientalSailorBowman": 90
+            }
+        },
+        {
+            "ID": 18778,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "253, 116",
+            "Troops": {
+                "OrientalSailorMilitia": 120,
+                "OrientalSailorBowman": 150
+            }
+        },
+        {
+            "ID": 19068,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "491, 139",
+            "Troops": {
+                "OrientalSailorMilitia": 200,
+                "OrientalSailorCavalry": 50,
+                "OrientalSailorBoss1": 1,
+                "OrientalSailorBoss3": 1
+            }
+        },
+        {
+            "ID": 19162,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "157, 92",
+            "Troops": {
+                "OrientalSailorRecruit": 90,
+                "OrientalSailorCavalry": 90,
+                "OrientalSailorBowman": 90
+            }
+        },
+        {
+            "ID": 19169,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "294, 243",
+            "Troops": {
+                "OrientalSailorRecruit": 200,
+                "OrientalSailorCavalry": 70
+            }
+        },
+        {
+            "ID": 19399,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "482, 193",
+            "Troops": {
+                "OrientalSailorRecruit": 150,
+                "OrientalSailorLongbowman": 120
+            }
+        },
+        {
+            "ID": 19478,
+            "Sector": 8,
+            "Alias": "",
+            "Type": 1,
+            "Location": "348, 146",
+            "Troops": {
+                "OrientalSailorRecruit": 50,
+                "OrientalSailorCavalry": 30,
+                "OrientalSailorBowman": 90,
+                "OrientalSailorLongbowman": 100
+            }
+        },
+        {
+            "ID": 19659,
+            "Sector": 6,
+            "Alias": "",
+            "Type": 1,
+            "Location": "302, 214",
+            "Troops": {
+                "OrientalSailorMilitia": 130,
+                "OrientalSailorCavalry": 70,
+                "OrientalSailorLongbowman": 70
+            }
+        },
+        {
+            "ID": 19698,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "280, 296",
+            "Troops": {
+                "OrientalSailorMilitia": 70,
+                "OrientalSailorCavalry": 200,
+                "OrientalSailorBoss1": 1
+            }
+        },
+        {
+            "ID": 19847,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "329, 346",
+            "Troops": {
+                "OrientalSailorMilitia": 220,
+                "OrientalSailorBowman": 50
+            }
+        }
+    ]
+}

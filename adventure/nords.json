@@ -1,0 +1,351 @@
+{
+    "FileName": "nords",
+    "ID": "TheNords",
+    "Name": "The Nords",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 27530,
+    "Players": 2,
+    "Units": [
+        "NordsEliteSoldier",
+        "NordsSoldier",
+        "NordsMilitia",
+        "NordsRecruit",
+        "NordsBowman",
+        "NordsCanoneer",
+        "NeutralCavalry"
+    ],
+    "leirit": [
+        {
+            "ID": 10247,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "61, 200",
+            "Troops": {
+                "NordsMilitia": 50,
+                "NordsBowman": 75
+            }
+        },
+        {
+            "ID": 10608,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "276, 127",
+            "Troops": {
+                "NordsMilitia": 75,
+                "NordsSoldier": 50
+            }
+        },
+        {
+            "ID": 11254,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "471, 246",
+            "Troops": {
+                "NordsSoldier": 50,
+                "NordsBowman": 25
+            }
+        },
+        {
+            "ID": 11272,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "382, 266",
+            "Troops": {
+                "NordsBowman": 75
+            }
+        },
+        {
+            "ID": 11951,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "192, 207",
+            "Troops": {
+                "NordsMilitia": 50,
+                "NordsBowman": 75
+            }
+        },
+        {
+            "ID": 12125,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "280, 188",
+            "Troops": {
+                "NordsSoldier": 50,
+                "NordsBowman": 50
+            }
+        },
+        {
+            "ID": 12387,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "170, 117",
+            "Troops": {
+                "NordsSoldier": 75,
+                "NordsBowman": 50,
+                "NordsCanoneer": 5
+            }
+        },
+        {
+            "ID": 12774,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "326, 123",
+            "Troops": {
+                "NordsMilitia": 30,
+                "NordsSoldier": 75
+            }
+        },
+        {
+            "ID": 13036,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "461, 195",
+            "Troops": {
+                "NordsMilitia": 50,
+                "NordsSoldier": 75
+            }
+        },
+        {
+            "ID": 13042,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "331, 248",
+            "Troops": {
+                "NordsSoldier": 75,
+                "NordsBowman": 50
+            }
+        },
+        {
+            "ID": 13089,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "94, 175",
+            "Troops": {
+                "NordsRecruit": 100,
+                "NordsSoldier": 50
+            }
+        },
+        {
+            "ID": 13158,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "119, 126",
+            "Troops": {
+                "NordsRecruit": 50,
+                "NordsSoldier": 50,
+                "NordsBowman": 25
+            }
+        },
+        {
+            "ID": 13195,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "349, 264",
+            "Troops": {
+                "NordsSoldier": 100
+            }
+        },
+        {
+            "ID": 14076,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "169, 147",
+            "Troops": {
+                "NordsRecruit": 50,
+                "NordsSoldier": 50,
+                "NordsBowman": 25
+            }
+        },
+        {
+            "ID": 14194,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "159, 181",
+            "Troops": {
+                "NordsRecruit": 100,
+                "NordsSoldier": 50
+            }
+        },
+        {
+            "ID": 14300,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "397, 270",
+            "Troops": {
+                "NordsSoldier": 50,
+                "NordsEliteSoldier": 20,
+                "NordsBowman": 50,
+                "NordsCanoneer": 15
+            }
+        },
+        {
+            "ID": 14710,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "498, 57",
+            "Troops": {
+                "NordsBowman": 150
+            }
+        },
+        {
+            "ID": 15078,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "298, 198",
+            "Troops": {
+                "NordsSoldier": 100,
+                "NordsEliteSoldier": 10,
+                "NordsBowman": 50
+            }
+        },
+        {
+            "ID": 15135,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "294, 230",
+            "Troops": {
+                "NordsMilitia": 75,
+                "NordsSoldier": 50
+            }
+        },
+        {
+            "ID": 15254,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "467, 164",
+            "Troops": {
+                "NordsSoldier": 120
+            }
+        },
+        {
+            "ID": 15873,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "116, 201",
+            "Troops": {
+                "NeutralCavalry": 150
+            }
+        },
+        {
+            "ID": 16097,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "295, 155",
+            "Troops": {
+                "NordsMilitia": 50,
+                "NordsSoldier": 50,
+                "NordsBowman": 50
+            }
+        },
+        {
+            "ID": 16717,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "80, 230",
+            "Troops": {
+                "NordsMilitia": 100,
+                "NordsBowman": 50
+            }
+        },
+        {
+            "ID": 17233,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "526, 68",
+            "Troops": {
+                "NordsMilitia": 150
+            }
+        },
+        {
+            "ID": 18181,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "517, 56",
+            "Troops": {
+                "NordsSoldier": 120,
+                "NordsEliteSoldier": 50,
+                "NordsCanoneer": 30
+            }
+        },
+        {
+            "ID": 18312,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "267, 98",
+            "Troops": {
+                "NordsMilitia": 150
+            }
+        },
+        {
+            "ID": 19181,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "397, 281",
+            "Troops": {
+                "NordsSoldier": 75
+            }
+        },
+        {
+            "ID": 19363,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "458, 151",
+            "Troops": {
+                "NordsMilitia": 50,
+                "NordsSoldier": 100,
+                "NordsEliteSoldier": 20,
+                "NordsCanoneer": 15
+            }
+        },
+        {
+            "ID": 19413,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "508, 69",
+            "Troops": {
+                "NordsSoldier": 150
+            }
+        },
+        {
+            "ID": 19658,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "169, 239",
+            "Troops": {
+                "NordsMilitia": 100,
+                "NordsBowman": 50
+            }
+        }
+    ]
+}

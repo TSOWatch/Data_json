@@ -1,0 +1,510 @@
+{
+    "FileName": "vlt",
+    "ID": "TheValiantLittleTailor",
+    "Name": "The Valiant Little Tailor",
+    "Type": "Mission",
+    "Theme": "Fairytale",
+    "Campaign": "TheLittleTailor",
+    "GroupingNumber": 100,
+    "OrderNumber": 70,
+    "ExperiencePoints": 78390,
+    "Players": 3,
+    "Units": [
+        "WildlifeRecruit",
+        "WildlifeMilitia",
+        "WildlifeBowman",
+        "WildlifeCavalry",
+        "EpicRaidKingdomRecruit",
+        "EpicRaidKingdomMilitia",
+        "EpicRaidKingdomBowman",
+        "EpicRaidKingdomLongbowman",
+        "EpicRaidKingdomCavalry",
+        "EpicRaidKingdomCannoneer",
+        "EpicRaidBoss1",
+        "EpicRaidBoss2",
+        "EpicRaidBoss3",
+        "EpicRaidBoss4",
+        "EpicRaidBoss5"
+    ],
+    "leirit": [
+        {
+            "ID": 10913,
+            "Sector": 4,
+            "oletusnimi": "4.6",
+            "Alias": "",
+            "Type": 1,
+            "Location": "445, 65",
+            "Troops": {
+                "EpicRaidKingdomRecruit": 170
+            }
+        },
+        {
+            "ID": 11566,
+            "Sector": 4,
+            "oletusnimi": "4.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "335, 138",
+            "Troops": {
+                "EpicRaidKingdomMilitia": 50,
+                "EpicRaidKingdomLongbowman": 60
+            }
+        },
+        {
+            "ID": 11620,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "76, 305",
+            "Troops": {
+                "WildlifeBowman": 140
+            }
+        },
+        {
+            "ID": 11831,
+            "Sector": 3,
+            "oletusnimi": "3.7",
+            "Alias": "",
+            "Type": 1,
+            "Location": "187, 147",
+            "Troops": {
+                "WildlifeMilitia": 100
+            }
+        },
+        {
+            "ID": 11937,
+            "Sector": 4,
+            "oletusnimi": "4.9",
+            "Alias": "",
+            "Type": 1,
+            "Location": "469, 135",
+            "Troops": {
+                "EpicRaidKingdomMilitia": 30,
+                "EpicRaidKingdomCavalry": 40,
+                "EpicRaidKingdomLongbowman": 80
+            }
+        },
+        {
+            "ID": 12108,
+            "Sector": 1,
+            "oletusnimi": "1.6",
+            "Alias": "",
+            "Type": 1,
+            "Location": "348, 229",
+            "Troops": {
+                "WildlifeBowman": 120
+            }
+        },
+        {
+            "ID": 12470,
+            "Sector": 4,
+            "oletusnimi": "4.7",
+            "Alias": "",
+            "Type": 1,
+            "Location": "477, 91",
+            "Troops": {
+                "EpicRaidKingdomCavalry": 30,
+                "EpicRaidKingdomBowman": 150
+            }
+        },
+        {
+            "ID": 12570,
+            "Sector": 4,
+            "oletusnimi": "4.8",
+            "Alias": "",
+            "Type": 1,
+            "Location": "552, 108",
+            "Troops": {
+                "EpicRaidKingdomRecruit": 120,
+                "EpicRaidKingdomMilitia": 40
+            }
+        },
+        {
+            "ID": 12612,
+            "Sector": 4,
+            "oletusnimi": "4.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "371, 111",
+            "Troops": {
+                "EpicRaidKingdomMilitia": 60,
+                "EpicRaidKingdomCannoneer": 30
+            }
+        },
+        {
+            "ID": 13045,
+            "Sector": 1,
+            "oletusnimi": "1.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "338, 187",
+            "Troops": {
+                "WildlifeRecruit": 80,
+                "WildlifeBowman": 70
+            }
+        },
+        {
+            "ID": 13117,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "295, 78",
+            "Troops": {
+                "EpicRaidKingdomRecruit": 80,
+                "EpicRaidKingdomBowman": 60
+            }
+        },
+        {
+            "ID": 13141,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "492, 236",
+            "Troops": {
+                "WildlifeRecruit": 120
+            }
+        },
+        {
+            "ID": 13710,
+            "Sector": 3,
+            "oletusnimi": "3.10",
+            "Alias": "",
+            "Type": 2,
+            "Location": "232, 81",
+            "Troops": {
+                "WildlifeCavalry": 80,
+                "WildlifeBowman": 69,
+                "WildlifeMilitia": 50,
+                "EpicRaidBoss4": 1
+            }
+        },
+        {
+            "ID": 13725,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "102, 110",
+            "Troops": {
+                "WildlifeCavalry": 140,
+                "WildlifeBowman": 60
+            }
+        },
+        {
+            "ID": 13999,
+            "Sector": 2,
+            "oletusnimi": "2.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "89, 240",
+            "Troops": {
+                "WildlifeRecruit": 90,
+                "WildlifeBowman": 60
+            }
+        },
+        {
+            "ID": 14081,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "158, 48",
+            "Troops": {
+                "WildlifeCavalry": 60,
+                "WildlifeMilitia": 40
+            }
+        },
+        {
+            "ID": 14352,
+            "Sector": 2,
+            "oletusnimi": "2.7",
+            "Alias": "",
+            "Type": 1,
+            "Location": "74, 141",
+            "Troops": {
+                "WildlifeCavalry": 60,
+                "WildlifeRecruit": 100
+            }
+        },
+        {
+            "ID": 14686,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "47, 288",
+            "Troops": {
+                "WildlifeCavalry": 50,
+                "WildlifeBowman": 150
+            }
+        },
+        {
+            "ID": 15425,
+            "Sector": 1,
+            "oletusnimi": "1.7",
+            "Alias": "",
+            "Type": 1,
+            "Location": "307, 203",
+            "Troops": {
+                "WildlifeCavalry": 110
+            }
+        },
+        {
+            "ID": 15460,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "431, 251",
+            "Troops": {
+                "WildlifeCavalry": 30,
+                "WildlifeRecruit": 100
+            }
+        },
+        {
+            "ID": 15610,
+            "Sector": 2,
+            "oletusnimi": "2.8",
+            "Alias": "",
+            "Type": 2,
+            "Location": "79, 131",
+            "Troops": {
+                "WildlifeCavalry": 60,
+                "WildlifeRecruit": 50,
+                "WildlifeBowman": 80,
+                "EpicRaidBoss3": 1
+            }
+        },
+        {
+            "ID": 15699,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "285, 142",
+            "Troops": {
+                "EpicRaidKingdomRecruit": 90,
+                "EpicRaidKingdomCavalry": 70
+            }
+        },
+        {
+            "ID": 15901,
+            "Sector": 3,
+            "oletusnimi": "3.9",
+            "Alias": "",
+            "Type": 1,
+            "Location": "245, 90",
+            "Troops": {
+                "WildlifeBowman": 190
+            }
+        },
+        {
+            "ID": 15933,
+            "Sector": 4,
+            "oletusnimi": "4.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "384, 120",
+            "Troops": {
+                "EpicRaidKingdomLongbowman": 120
+            }
+        },
+        {
+            "ID": 15940,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "358, 193",
+            "Troops": {
+                "WildlifeRecruit": 160
+            }
+        },
+        {
+            "ID": 16124,
+            "Sector": 1,
+            "oletusnimi": "1.11",
+            "Alias": "",
+            "Type": 1,
+            "Location": "200, 316",
+            "Troops": {
+                "WildlifeCavalry": 30,
+                "WildlifeRecruit": 120
+            }
+        },
+        {
+            "ID": 16236,
+            "Sector": 3,
+            "oletusnimi": "3.6",
+            "Alias": "",
+            "Type": 1,
+            "Location": "145, 121",
+            "Troops": {
+                "WildlifeRecruit": 120,
+                "WildlifeMilitia": 30
+            }
+        },
+        {
+            "ID": 16594,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "94, 59",
+            "Troops": {
+                "WildlifeRecruit": 80,
+                "WildlifeBowman": 60,
+                "WildlifeMilitia": 30
+            }
+        },
+        {
+            "ID": 16645,
+            "Sector": 1,
+            "oletusnimi": "1.12",
+            "Alias": "",
+            "Type": 2,
+            "Location": "182, 311",
+            "Troops": {
+                "WildlifeCavalry": 60,
+                "WildlifeRecruit": 80,
+                "EpicRaidBoss1": 1,
+                "EpicRaidBoss2": 1
+            }
+        },
+        {
+            "ID": 16699,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "135, 325",
+            "Troops": {
+                "WildlifeRecruit": 170
+            }
+        },
+        {
+            "ID": 16804,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "163, 240",
+            "Troops": {
+                "WildlifeCavalry": 140
+            }
+        },
+        {
+            "ID": 16859,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "418, 196",
+            "Troops": {
+                "WildlifeRecruit": 90,
+                "WildlifeBowman": 40
+            }
+        },
+        {
+            "ID": 17169,
+            "Sector": 1,
+            "oletusnimi": "1.8",
+            "Alias": "",
+            "Type": 1,
+            "Location": "232, 226",
+            "Troops": {
+                "WildlifeCavalry": 40,
+                "WildlifeRecruit": 90,
+                "WildlifeBowman": 40
+            }
+        },
+        {
+            "ID": 17613,
+            "Sector": 4,
+            "oletusnimi": "4.10",
+            "Alias": "",
+            "Type": 2,
+            "Location": "432, 148",
+            "Troops": {
+                "EpicRaidKingdomMilitia": 60,
+                "EpicRaidKingdomCavalry": 40,
+                "EpicRaidKingdomLongbowman": 80,
+                "EpicRaidBoss5": 1
+            }
+        },
+        {
+            "ID": 17642,
+            "Sector": 2,
+            "oletusnimi": "2.6",
+            "Alias": "",
+            "Type": 1,
+            "Location": "60, 200",
+            "Troops": {
+                "WildlifeRecruit": 180
+            }
+        },
+        {
+            "ID": 17795,
+            "Sector": 3,
+            "oletusnimi": "3.8",
+            "Alias": "",
+            "Type": 1,
+            "Location": "249, 128",
+            "Troops": {
+                "WildlifeCavalry": 160
+            }
+        },
+        {
+            "ID": 18274,
+            "Sector": 1,
+            "oletusnimi": "1.9",
+            "Alias": "",
+            "Type": 1,
+            "Location": "287, 253",
+            "Troops": {
+                "WildlifeRecruit": 130,
+                "WildlifeBowman": 30
+            }
+        },
+        {
+            "ID": 18547,
+            "Sector": 3,
+            "oletusnimi": "3.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "179, 80",
+            "Troops": {
+                "WildlifeBowman": 80,
+                "WildlifeMilitia": 50
+            }
+        },
+        {
+            "ID": 18773,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "51, 74",
+            "Troops": {
+                "WildlifeCavalry": 40,
+                "WildlifeRecruit": 100,
+                "WildlifeMilitia": 20
+            }
+        },
+        {
+            "ID": 19469,
+            "Sector": 1,
+            "oletusnimi": "1.10",
+            "Alias": "",
+            "Type": 1,
+            "Location": "196, 282",
+            "Troops": {
+                "WildlifeCavalry": 90,
+                "WildlifeBowman": 90
+            }
+        }
+    ]
+}

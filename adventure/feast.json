@@ -1,0 +1,154 @@
+{
+    "FileName": "feast",
+    "ID": "ChristmasAdventureNormal",
+    "Name": "Save the Christmas feast",
+    "Type": "Mini",
+    "Theme": "Christmas",
+    "ExperiencePoints": 3070,
+    "Players": 1,
+    "Units": [
+        "BanditRecruit",
+        "BanditMilitia",
+        "BanditBowman",
+        "BanditLongbowman",
+        "PirateCavalry",
+        "PirateRecruit",
+        "PirateBowman",
+        "KingdomMilitia",
+        "KingdomCavalry",
+        "KingdomBowman",
+        "CultRecruit",
+        "CultCavalry",
+        "RaidersRecruit",
+        "RaidersCavalry",
+        "RaidersBowman",
+        "NordsSoldier",
+        "ChristmasBoss1"
+    ],
+    "leirit": [
+        {
+            "ID": 10639,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "398, 288",
+            "Troops": {
+                "PirateBowman": 50,
+                "CultRecruit": 50,
+                "NordsSoldier": 30
+            }
+        },
+        {
+            "ID": 10709,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "325, 141",
+            "Troops": {
+                "RaidersRecruit": 60,
+                "RaidersCavalry": 60,
+                "ChristmasBoss1": 1
+            }
+        },
+        {
+            "ID": 11277,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "213, 348",
+            "Troops": {
+                "RaidersRecruit": 50,
+                "RaidersBowman": 40
+            }
+        },
+        {
+            "ID": 11550,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "287, 248",
+            "Troops": {
+                "BanditMilitia": 20,
+                "BanditLongbowman": 20,
+                "KingdomCavalry": 40
+            }
+        },
+        {
+            "ID": 12022,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "148, 278",
+            "Troops": {
+                "BanditRecruit": 60,
+                "BanditBowman": 50
+            }
+        },
+        {
+            "ID": 13858,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "205, 279",
+            "Troops": {
+                "CultRecruit": 40,
+                "CultCavalry": 40
+            }
+        },
+        {
+            "ID": 13892,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "317, 356",
+            "Troops": {
+                "PirateRecruit": 40,
+                "PirateCavalry": 40
+            }
+        },
+        {
+            "ID": 15771,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "179, 415",
+            "Troops": {
+                "KingdomMilitia": 40,
+                "KingdomBowman": 40
+            }
+        },
+        {
+            "ID": 18890,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "272, 213",
+            "Troops": {
+                "BanditRecruit": 20,
+                "CultRecruit": 20,
+                "RaidersRecruit": 20
+            }
+        },
+        {
+            "ID": 18920,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 2,
+            "Location": "259, 473",
+            "Troops": {
+                "BanditMilitia": 40,
+                "BanditBowman": 40
+            }
+        }
+    ]
+}

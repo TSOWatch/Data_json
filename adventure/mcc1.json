@@ -1,0 +1,415 @@
+{
+    "FileName": "mcc1",
+    "ID": "BuffAdventures_TMC_At_the_Foot_of_the_Mountain",
+    "Name": "At the Foot of the Mountain",
+    "Type": "Venture",
+    "Campaign": "TheMountainClan",
+    "GroupingNumber": 400,
+    "OrderNumber": 154,
+    "ExperiencePoints": 315310,
+    "Players": 1,
+    "Elite": true,
+    "Units": [
+        "NordsEliteSoldier",
+        "NordsSoldier",
+        "NordsMilitia",
+        "NordsRecruit",
+        "NordsBowman",
+        "NordsCanoneer",
+        "EliteWildlifeRecruit",
+        "EliteWildlifeCavalry",
+        "TMC_v1_NordsRightHandBoss",
+        "TMC_BossEnormousIbex"
+    ],
+    "leirit": [
+        {
+            "ID": 10267,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "508, 206",
+            "Troops": {
+                "EliteWildlifeRecruit": 80,
+                "EliteWildlifeCavalry": 60
+            }
+        },
+        {
+            "ID": 10493,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "463, 147",
+            "Troops": {
+                "EliteWildlifeRecruit": 100,
+                "EliteWildlifeCavalry": 100
+            }
+        },
+        {
+            "ID": 10830,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "463, 171",
+            "Troops": {
+                "EliteWildlifeRecruit": 90,
+                "EliteWildlifeCavalry": 80
+            }
+        },
+        {
+            "ID": 10966,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "148, 269",
+            "Troops": {
+                "NordsSoldier": 150,
+                "NordsEliteSoldier": 175,
+                "NordsBowman": 200
+            }
+        },
+        {
+            "ID": 11005,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "174, 215",
+            "Troops": {
+                "NordsMilitia": 100,
+                "NordsSoldier": 200,
+                "NordsEliteSoldier": 100,
+                "NordsBowman": 100,
+                "NordsCanoneer": 100
+            }
+        },
+        {
+            "ID": 11052,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "476, 212",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeCavalry": 25
+            }
+        },
+        {
+            "ID": 11407,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "142, 162",
+            "Troops": {
+                "NordsRecruit": 300,
+                "NordsEliteSoldier": 150,
+                "NordsCanoneer": 150
+            }
+        },
+        {
+            "ID": 11836,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "432, 145",
+            "Troops": {
+                "EliteWildlifeRecruit": 120,
+                "EliteWildlifeCavalry": 50
+            }
+        },
+        {
+            "ID": 12767,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "514, 130",
+            "Troops": {
+                "EliteWildlifeRecruit": 80,
+                "EliteWildlifeCavalry": 160
+            }
+        },
+        {
+            "ID": 12896,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "166, 91",
+            "Troops": {
+                "NordsEliteSoldier": 200,
+                "NordsBowman": 150,
+                "NordsCanoneer": 200
+            }
+        },
+        {
+            "ID": 12984,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "527, 108",
+            "Troops": {
+                "EliteWildlifeRecruit": 150,
+                "EliteWildlifeCavalry": 50
+            }
+        },
+        {
+            "ID": 13263,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "535, 213",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeCavalry": 140,
+                "TMC_BossEnormousIbex": 1
+            }
+        },
+        {
+            "ID": 13888,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "165, 195",
+            "Troops": {
+                "NordsSoldier": 150,
+                "NordsEliteSoldier": 150,
+                "NordsCanoneer": 200
+            }
+        },
+        {
+            "ID": 13907,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "340, 95",
+            "Troops": {
+                "EliteWildlifeRecruit": 25,
+                "EliteWildlifeCavalry": 125
+            }
+        },
+        {
+            "ID": 14348,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "321, 313",
+            "Troops": {
+                "NordsSoldier": 150,
+                "NordsEliteSoldier": 150,
+                "NordsCanoneer": 150
+            }
+        },
+        {
+            "ID": 14385,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "205, 140",
+            "Troops": {
+                "NordsEliteSoldier": 250,
+                "NordsCanoneer": 200
+            }
+        },
+        {
+            "ID": 14506,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "372, 92",
+            "Troops": {
+                "EliteWildlifeRecruit": 60,
+                "EliteWildlifeCavalry": 35
+            }
+        },
+        {
+            "ID": 14696,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "268, 288",
+            "Troops": {
+                "NordsMilitia": 150,
+                "NordsSoldier": 125,
+                "NordsEliteSoldier": 150,
+                "NordsCanoneer": 75
+            }
+        },
+        {
+            "ID": 15070,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "482, 231",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeCavalry": 75
+            }
+        },
+        {
+            "ID": 15095,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "501, 99",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeCavalry": 170
+            }
+        },
+        {
+            "ID": 15107,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "251, 127",
+            "Troops": {
+                "NordsEliteSoldier": 275,
+                "NordsCanoneer": 225
+            }
+        },
+        {
+            "ID": 16322,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "296, 304",
+            "Troops": {
+                "NordsMilitia": 250,
+                "NordsSoldier": 250
+            }
+        },
+        {
+            "ID": 16338,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "135, 212",
+            "Troops": {
+                "NordsMilitia": 150,
+                "NordsSoldier": 100,
+                "NordsEliteSoldier": 150,
+                "NordsCanoneer": 150
+            }
+        },
+        {
+            "ID": 16774,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "521, 71",
+            "Troops": {
+                "NordsSoldier": 200,
+                "NordsEliteSoldier": 200,
+                "NordsBowman": 100,
+                "NordsCanoneer": 200,
+                "TMC_v1_NordsRightHandBoss": 1
+            }
+        },
+        {
+            "ID": 16818,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "98, 214",
+            "Troops": {
+                "NordsEliteSoldier": 250,
+                "NordsBowman": 150,
+                "NordsCanoneer": 150
+            }
+        },
+        {
+            "ID": 17322,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "438, 162",
+            "Troops": {
+                "EliteWildlifeRecruit": 100,
+                "EliteWildlifeCavalry": 50
+            }
+        },
+        {
+            "ID": 17788,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "366, 64",
+            "Troops": {
+                "EliteWildlifeRecruit": 120,
+                "EliteWildlifeCavalry": 25
+            }
+        },
+        {
+            "ID": 17922,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "308, 288",
+            "Troops": {
+                "NordsMilitia": 100,
+                "NordsSoldier": 100,
+                "NordsEliteSoldier": 250,
+                "NordsBowman": 50,
+                "NordsCanoneer": 50
+            }
+        },
+        {
+            "ID": 18211,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "321, 67",
+            "Troops": {
+                "EliteWildlifeRecruit": 80,
+                "EliteWildlifeCavalry": 120,
+                "TMC_BossEnormousIbex": 1
+            }
+        },
+        {
+            "ID": 18326,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "495, 119",
+            "Troops": {
+                "EliteWildlifeRecruit": 145,
+                "EliteWildlifeCavalry": 40
+            }
+        },
+        {
+            "ID": 18970,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "347, 282",
+            "Troops": {
+                "NordsRecruit": 115,
+                "NordsSoldier": 200,
+                "NordsEliteSoldier": 200
+            }
+        },
+        {
+            "ID": 19138,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "224, 79",
+            "Troops": {
+                "NordsRecruit": 300,
+                "NordsMilitia": 200,
+                "NordsCanoneer": 200
+            }
+        },
+        {
+            "ID": 19322,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "178, 242",
+            "Troops": {
+                "NordsMilitia": 125,
+                "NordsSoldier": 50,
+                "NordsEliteSoldier": 200,
+                "NordsBowman": 50,
+                "NordsCanoneer": 100
+            }
+        }
+    ]
+}

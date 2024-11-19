@@ -1,0 +1,369 @@
+{
+    "FileName": "mcc4",
+    "ID": "BuffAdventures_TMC_The_People_of_the_Mountain",
+    "Name": "The People of the Mountain",
+    "Type": "Venture",
+    "Campaign": "TheMountainClan",
+    "GroupingNumber": 400,
+    "OrderNumber": 157,
+    "ExperiencePoints": 738090,
+    "Players": 1,
+    "Elite": true,
+    "MCCDebuffit": true,
+    "MCCBuffit": true,
+    "Units": [
+        "TMC_BossRavagingOx",
+        "TMC_BossGargantuanLynx",
+        "EliteWildlifeRecruit",
+        "EliteWildlifeMilitia",
+        "EliteWildlifeCavalry",
+        "EliteWildlifeAir",
+        "EliteWildlifeBowman",
+        "EliteWildlifeLongbowman",
+        "TMC_BossWinterTerror",
+        "TMC_BossEnormousIbex",
+        "TMC_BossGhastlyWolf"
+    ],
+    "leirit": [
+        {
+            "ID": 10197,
+            "Alias": "",
+            "Type": 2,
+            "Location": "321, 115",
+            "Troops": {
+                "EliteWildlifeBowman": 100,
+                "EliteWildlifeLongbowman": 150,
+                "EliteWildlifeAir": 10
+            }
+        },
+        {
+            "ID": 10693,
+            "Alias": "",
+            "Type": 2,
+            "Location": "251, 133",
+            "Troops": {
+                "EliteWildlifeBowman": 70,
+                "EliteWildlifeMilitia": 100
+            }
+        },
+        {
+            "ID": 10920,
+            "Alias": "",
+            "Type": 2,
+            "Location": "482, 354",
+            "Troops": {
+                "EliteWildlifeRecruit": 25,
+                "EliteWildlifeMilitia": 20,
+                "EliteWildlifeLongbowman": 140
+            }
+        },
+        {
+            "ID": 11687,
+            "Alias": "",
+            "Type": 1,
+            "Location": "421, 80",
+            "Troops": {
+                "TMC_BossEnormousIbex": 2,
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeAir": 150
+            }
+        },
+        {
+            "ID": 11751,
+            "Alias": "",
+            "Type": 1,
+            "Location": "218, 304",
+            "Troops": {
+                "EliteWildlifeBowman": 50,
+                "EliteWildlifeLongbowman": 50,
+                "EliteWildlifeAir": 100
+            }
+        },
+        {
+            "ID": 11777,
+            "Alias": "",
+            "Type": 2,
+            "Location": "288, 22",
+            "Troops": {
+                "EliteWildlifeCavalry": 75,
+                "EliteWildlifeBowman": 100,
+                "TMC_BossWinterTerror": 1
+            }
+        },
+        {
+            "ID": 12232,
+            "Alias": "",
+            "Type": 1,
+            "Location": "331, 126",
+            "Troops": {
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeAir": 100,
+                "EliteWildlifeLongbowman": 50,
+                "TMC_BossGhastlyWolf": 2
+            }
+        },
+        {
+            "ID": 12318,
+            "Alias": "",
+            "Type": 1,
+            "Location": "256, 311",
+            "Troops": {
+                "TMC_BossRavagingOx": 1,
+                "EliteWildlifeRecruit": 150,
+                "EliteWildlifeBowman": 150,
+                "EliteWildlifeLongbowman": 150
+            }
+        },
+        {
+            "ID": 12351,
+            "Alias": "",
+            "Type": 1,
+            "Location": "397, 287",
+            "Troops": {
+                "EliteWildlifeRecruit": 30,
+                "EliteWildlifeBowman": 25,
+                "TMC_BossGhastlyWolf": 1,
+                "EliteWildlifeAir": 75
+            }
+        },
+        {
+            "ID": 13062,
+            "Alias": "",
+            "Type": 2,
+            "Location": "514, 216",
+            "Troops": {
+                "EliteWildlifeRecruit": 105,
+                "EliteWildlifeCavalry": 100,
+                "EliteWildlifeLongbowman": 10
+            }
+        },
+        {
+            "ID": 14007,
+            "Alias": "",
+            "Type": 1,
+            "Location": "237, 94",
+            "Troops": {
+                "EliteWildlifeRecruit": 100,
+                "EliteWildlifeAir": 80
+            }
+        },
+        {
+            "ID": 14182,
+            "Alias": "",
+            "Type": 1,
+            "Location": "441, 252",
+            "Troops": {
+                "EliteWildlifeBowman": 50,
+                "TMC_BossRavagingOx": 1,
+                "EliteWildlifeAir": 75
+            }
+        },
+        {
+            "ID": 14593,
+            "Alias": "",
+            "Type": 1,
+            "Location": "120, 134",
+            "Troops": {
+                "TMC_BossRavagingOx": 1,
+                "EliteWildlifeMilitia": 200,
+                "EliteWildlifeBowman": 125,
+                "EliteWildlifeLongbowman": 125
+            }
+        },
+        {
+            "ID": 15207,
+            "Alias": "",
+            "Type": 2,
+            "Location": "198, 308",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeCavalry": 80,
+                "EliteWildlifeAir": 75
+            }
+        },
+        {
+            "ID": 15785,
+            "Alias": "",
+            "Type": 1,
+            "Location": "314, 31",
+            "Troops": {
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeAir": 100
+            }
+        },
+        {
+            "ID": 16029,
+            "Alias": "",
+            "Type": 1,
+            "Location": "229, 81",
+            "Troops": {
+                "TMC_BossGargantuanLynx": 1,
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeAir": 75
+            }
+        },
+        {
+            "ID": 16889,
+            "Alias": "",
+            "Type": 1,
+            "Location": "170, 212",
+            "Troops": {
+                "EliteWildlifeRecruit": 50,
+                "EliteWildlifeCavalry": 150,
+                "EliteWildlifeBowman": 30
+            }
+        },
+        {
+            "ID": 16961,
+            "Alias": "",
+            "Type": 2,
+            "Location": "127, 78",
+            "Troops": {
+                "TMC_BossGargantuanLynx": 2,
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeAir": 50
+            }
+        },
+        {
+            "ID": 17386,
+            "Alias": "",
+            "Type": 1,
+            "Location": "435, 92",
+            "Troops": {
+                "EliteWildlifeCavalry": 25,
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeAir": 30
+            }
+        },
+        {
+            "ID": 17544,
+            "Alias": "",
+            "Type": 2,
+            "Location": "300, 362",
+            "Troops": {
+                "EliteWildlifeAir": 200
+            }
+        },
+        {
+            "ID": 17626,
+            "Alias": "",
+            "Type": 1,
+            "Location": "420, 169",
+            "Troops": {
+                "EliteWildlifeBowman": 95,
+                "EliteWildlifeMilitia": 50,
+                "EliteWildlifeLongbowman": 45
+            }
+        },
+        {
+            "ID": 17907,
+            "Alias": "",
+            "Type": 2,
+            "Location": "486, 298",
+            "Troops": {
+                "EliteWildlifeMilitia": 100,
+                "EliteWildlifeAir": 50
+            }
+        },
+        {
+            "ID": 18323,
+            "Alias": "",
+            "Type": 1,
+            "Location": "178, 151",
+            "Troops": {
+                "TMC_BossGargantuanLynx": 2,
+                "EliteWildlifeRecruit": 100,
+                "EliteWildlifeCavalry": 100
+            }
+        },
+        {
+            "ID": 18603,
+            "Alias": "",
+            "Type": 2,
+            "Location": "411, 123",
+            "Troops": {
+                "EliteWildlifeRecruit": 125,
+                "EliteWildlifeCavalry": 80
+            }
+        },
+        {
+            "ID": 18933,
+            "Alias": "",
+            "Type": 2,
+            "Location": "114, 208",
+            "Troops": {
+                "TMC_BossEnormousIbex": 1,
+                "TMC_BossGargantuanLynx": 1,
+                "EliteWildlifeAir": 80
+            }
+        },
+        {
+            "ID": 19159,
+            "Alias": "",
+            "Type": 1,
+            "Location": "410, 342",
+            "Troops": {
+                "EliteWildlifeCavalry": 80,
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeLongbowman": 25
+            }
+        },
+        {
+            "ID": 19190,
+            "Alias": "",
+            "Type": 1,
+            "Location": "300, 45",
+            "Troops": {
+                "EliteWildlifeRecruit": 75,
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeLongbowman": 25,
+                "EliteWildlifeAir": 50
+            }
+        },
+        {
+            "ID": 19212,
+            "Alias": "",
+            "Type": 1,
+            "Location": "454, 239",
+            "Troops": {
+                "EliteWildlifeRecruit": 100,
+                "EliteWildlifeMilitia": 75,
+                "TMC_BossGhastlyWolf": 2
+            }
+        },
+        {
+            "ID": 19249,
+            "Alias": "",
+            "Type": 1,
+            "Location": "422, 295",
+            "Troops": {
+                "EliteWildlifeMilitia": 75,
+                "EliteWildlifeAir": 150,
+                "EliteWildlifeLongbowman": 100,
+                "TMC_BossEnormousIbex": 1,
+                "TMC_BossGhastlyWolf": 1
+            }
+        },
+        {
+            "ID": 19730,
+            "Alias": "",
+            "Type": 1,
+            "Location": "256, 367",
+            "Troops": {
+                "EliteWildlifeRecruit": 70,
+                "EliteWildlifeBowman": 10,
+                "EliteWildlifeAir": 100
+            }
+        },
+        {
+            "ID": 19890,
+            "Alias": "",
+            "Type": 2,
+            "Location": "488, 89",
+            "Troops": {
+                "TMC_BossGhastlyWolf": 2,
+                "EliteWildlifeAir": 90
+            }
+        }
+    ]
+}

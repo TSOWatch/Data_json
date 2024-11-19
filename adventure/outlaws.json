@@ -1,0 +1,328 @@
+{
+    "FileName": "outlaws",
+    "ID": "Outlaws",
+    "Name": "Outlaws",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 14020,
+    "Players": 1,
+    "Units": [
+        "BanditBoss3",
+        "BanditRecruit",
+        "BanditMilitia",
+        "BanditCavalry",
+        "BanditSoldier",
+        "BanditBowman",
+        "BanditLongbowman",
+        "BanditBoss1",
+        "BanditBoss2"
+    ],
+    "leirit": [
+        {
+            "ID": 10073,
+            "Sector": 5,
+            "oletusnimi": "5.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "478, 57",
+            "Troops": {
+                "BanditMilitia": 60,
+                "BanditCavalry": 60,
+                "BanditLongbowman": 60
+            }
+        },
+        {
+            "ID": 10093,
+            "Sector": 3,
+            "oletusnimi": "3.6",
+            "Alias": "",
+            "Type": 1,
+            "Location": "343, 57",
+            "Troops": {
+                "BanditCavalry": 80,
+                "BanditSoldier": 40,
+                "BanditLongbowman": 60
+            }
+        },
+        {
+            "ID": 11401,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "107, 65",
+            "Troops": {
+                "BanditRecruit": 100,
+                "BanditBowman": 50
+            }
+        },
+        {
+            "ID": 11571,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "357, 189",
+            "Troops": {
+                "BanditRecruit": 60,
+                "BanditBowman": 60
+            }
+        },
+        {
+            "ID": 12099,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "294, 119",
+            "Troops": {
+                "BanditMilitia": 40,
+                "BanditSoldier": 40,
+                "BanditLongbowman": 80
+            }
+        },
+        {
+            "ID": 12593,
+            "Sector": 4,
+            "oletusnimi": "4.6",
+            "Alias": "",
+            "Type": 2,
+            "Location": "460, 177",
+            "Troops": {
+                "BanditMilitia": 30,
+                "BanditCavalry": 80,
+                "BanditLongbowman": 50
+            }
+        },
+        {
+            "ID": 13008,
+            "Sector": 4,
+            "oletusnimi": "4.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "413, 248",
+            "Troops": {
+                "BanditRecruit": 80
+            }
+        },
+        {
+            "ID": 13212,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "290, 135",
+            "Troops": {
+                "BanditMilitia": 100,
+                "BanditLongbowman": 60
+            }
+        },
+        {
+            "ID": 14074,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "308, 128",
+            "Troops": {
+                "BanditMilitia": 60,
+                "BanditLongbowman": 100
+            }
+        },
+        {
+            "ID": 14486,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "330, 66",
+            "Troops": {
+                "BanditSoldier": 80,
+                "BanditLongbowman": 100
+            }
+        },
+        {
+            "ID": 14952,
+            "Sector": 5,
+            "oletusnimi": "5.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "471, 121",
+            "Troops": {
+                "BanditRecruit": 100,
+                "BanditBowman": 30,
+                "BanditCavalry": 30
+            }
+        },
+        {
+            "ID": 15055,
+            "Sector": 5,
+            "oletusnimi": "5.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "491, 118",
+            "Troops": {
+                "BanditRecruit": 30,
+                "BanditBowman": 100,
+                "BanditCavalry": 30
+            }
+        },
+        {
+            "ID": 15249,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "200, 170",
+            "Troops": {
+                "BanditRecruit": 80,
+                "BanditBowman": 20
+            }
+        },
+        {
+            "ID": 15293,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "99, 53",
+            "Troops": {
+                "BanditBowman": 80,
+                "BanditCavalry": 100,
+                "BanditBoss1": 1
+            }
+        },
+        {
+            "ID": 15402,
+            "Sector": 3,
+            "oletusnimi": "3.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "316, 58",
+            "Troops": {
+                "BanditSoldier": 150
+            }
+        },
+        {
+            "ID": 15493,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "159, 124",
+            "Troops": {
+                "BanditRecruit": 60,
+                "BanditBowman": 60
+            }
+        },
+        {
+            "ID": 15789,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "117, 52",
+            "Troops": {
+                "BanditRecruit": 50,
+                "BanditBowman": 50,
+                "BanditCavalry": 50
+            }
+        },
+        {
+            "ID": 16997,
+            "Sector": 3,
+            "oletusnimi": "3.7",
+            "Alias": "",
+            "Type": 2,
+            "Location": "330, 51",
+            "Troops": {
+                "BanditBoss1": 2,
+                "BanditBoss3": 1
+            }
+        },
+        {
+            "ID": 17002,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "143, 97",
+            "Troops": {
+                "BanditRecruit": 50,
+                "BanditBowman": 50,
+                "BanditCavalry": 50
+            }
+        },
+        {
+            "ID": 17155,
+            "Sector": 4,
+            "oletusnimi": "4.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "419, 279",
+            "Troops": {
+                "BanditRecruit": 80
+            }
+        },
+        {
+            "ID": 18199,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "370, 208",
+            "Troops": {
+                "BanditBowman": 60,
+                "BanditCavalry": 60
+            }
+        },
+        {
+            "ID": 18587,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "209, 154",
+            "Troops": {
+                "BanditRecruit": 50,
+                "BanditBowman": 50
+            }
+        },
+        {
+            "ID": 18758,
+            "Sector": 5,
+            "oletusnimi": "5.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "450, 57",
+            "Troops": {
+                "BanditMilitia": 60,
+                "BanditCavalry": 60,
+                "BanditLongbowman": 60
+            }
+        },
+        {
+            "ID": 19653,
+            "Sector": 5,
+            "oletusnimi": "5.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "465, 36",
+            "Troops": {
+                "BanditMilitia": 180,
+                "BanditBoss2": 1
+            }
+        },
+        {
+            "ID": 19766,
+            "Sector": 4,
+            "oletusnimi": "4.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "463, 271",
+            "Troops": {
+                "BanditBowman": 80
+            }
+        }
+    ]
+}

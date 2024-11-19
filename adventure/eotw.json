@@ -1,0 +1,536 @@
+{
+    "FileName": "eotw",
+    "ID": "EoWEventAdventure",
+    "Name": "The End Of The World",
+    "Type": "Mission",
+    "Theme": "Apocalypse",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 8210,
+    "Players": 1,
+    "Units": [
+        "MayaRecruit",
+        "MayaCavalry",
+        "MayaCanoneer"
+    ],
+    "leirit": [
+        {
+            "ID": 10047,
+            "Sector": 5,
+            "oletusnimi": "5.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "555, 41",
+            "Troops": {
+                "MayaRecruit": 50,
+                "MayaCavalry": 50
+            }
+        },
+        {
+            "ID": 10078,
+            "Sector": 6,
+            "oletusnimi": "6.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "320, 52",
+            "Troops": {
+                "MayaRecruit": 50,
+                "MayaCavalry": 50
+            }
+        },
+        {
+            "ID": 10123,
+            "Sector": 5,
+            "oletusnimi": "5.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "512, 83",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 50
+            }
+        },
+        {
+            "ID": 10232,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "503, 330",
+            "Troops": {
+                "MayaRecruit": 40,
+                "MayaCavalry": 40,
+                "MayaCanoneer": 40
+            }
+        },
+        {
+            "ID": 10657,
+            "Sector": 2,
+            "oletusnimi": "2.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "321, 299",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 10773,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "275, 299",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 11043,
+            "Sector": 4,
+            "oletusnimi": "4.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "427, 159",
+            "Troops": {
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 11272,
+            "Sector": 6,
+            "oletusnimi": "6.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "354, 79",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 11446,
+            "Sector": 8,
+            "oletusnimi": "8.5",
+            "Alias": "",
+            "Type": 1,
+            "Location": "120, 175",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 11776,
+            "Sector": 8,
+            "oletusnimi": "8.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "50, 212",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 50
+            }
+        },
+        {
+            "ID": 12190,
+            "Sector": 5,
+            "oletusnimi": "5.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "522, 44",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 12378,
+            "Sector": 4,
+            "oletusnimi": "4.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "527, 206",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 12418,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "498, 271",
+            "Troops": {
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 12702,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "293, 179",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 13008,
+            "Sector": 1,
+            "oletusnimi": "1.4",
+            "Alias": "",
+            "Type": 2,
+            "Location": "261, 142",
+            "Troops": {
+                "MayaRecruit": 40,
+                "MayaCavalry": 40,
+                "MayaCanoneer": 40
+            }
+        },
+        {
+            "ID": 13053,
+            "Sector": 5,
+            "oletusnimi": "5.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "455, 66",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 13159,
+            "Sector": 7,
+            "oletusnimi": "7.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "246, 47",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 50
+            }
+        },
+        {
+            "ID": 13284,
+            "Sector": 4,
+            "oletusnimi": "4.6",
+            "Alias": "",
+            "Type": 2,
+            "Location": "442, 184",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 14166,
+            "Sector": 8,
+            "oletusnimi": "8.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "54, 157",
+            "Troops": {
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 14451,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "470, 310",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 14716,
+            "Sector": 7,
+            "oletusnimi": "7.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "175, 49",
+            "Troops": {
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 15387,
+            "Sector": 4,
+            "oletusnimi": "4.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "437, 227",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 15739,
+            "Sector": 4,
+            "oletusnimi": "4.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "536, 218",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 16285,
+            "Sector": 5,
+            "oletusnimi": "5.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "417, 101",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 16300,
+            "Sector": 6,
+            "oletusnimi": "6.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "287, 106",
+            "Troops": {
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 16327,
+            "Sector": 1,
+            "oletusnimi": "1.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "242, 134",
+            "Troops": {
+                "MayaRecruit": 40,
+                "MayaCavalry": 40,
+                "MayaCanoneer": 40
+            }
+        },
+        {
+            "ID": 16431,
+            "Sector": 7,
+            "oletusnimi": "7.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "120, 66",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 50
+            }
+        },
+        {
+            "ID": 16928,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "425, 281",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 17241,
+            "Sector": 4,
+            "oletusnimi": "4.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "390, 193",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 50
+            }
+        },
+        {
+            "ID": 17352,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "343, 267",
+            "Troops": {
+                "MayaRecruit": 50,
+                "MayaCavalry": 50
+            }
+        },
+        {
+            "ID": 17529,
+            "Sector": 8,
+            "oletusnimi": "8.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "152, 213",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 50
+            }
+        },
+        {
+            "ID": 17908,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "269, 273",
+            "Troops": {
+                "MayaCavalry": 50,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 18025,
+            "Sector": 7,
+            "oletusnimi": "7.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "181, 93",
+            "Troops": {
+                "MayaRecruit": 50,
+                "MayaCavalry": 50
+            }
+        },
+        {
+            "ID": 18163,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "284, 219",
+            "Troops": {
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 18206,
+            "Sector": 3,
+            "oletusnimi": "3.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "554, 276",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 18320,
+            "Sector": 8,
+            "oletusnimi": "8.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "116, 115",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 100
+            }
+        },
+        {
+            "ID": 18342,
+            "Sector": 2,
+            "oletusnimi": "2.6",
+            "Alias": "",
+            "Type": 2,
+            "Location": "265, 329",
+            "Troops": {
+                "MayaRecruit": 40,
+                "MayaCavalry": 40,
+                "MayaCanoneer": 40
+            }
+        },
+        {
+            "ID": 18706,
+            "Sector": 2,
+            "oletusnimi": "2.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "321, 317",
+            "Troops": {
+                "MayaRecruit": 40,
+                "MayaCavalry": 40,
+                "MayaCanoneer": 40
+            }
+        },
+        {
+            "ID": 18819,
+            "Sector": 8,
+            "oletusnimi": "8.6",
+            "Alias": "",
+            "Type": 2,
+            "Location": "125, 139",
+            "Troops": {
+                "MayaRecruit": 50,
+                "MayaCavalry": 50
+            }
+        },
+        {
+            "ID": 18912,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "247, 151",
+            "Troops": {
+                "MayaRecruit": 40,
+                "MayaCavalry": 40,
+                "MayaCanoneer": 40
+            }
+        },
+        {
+            "ID": 19363,
+            "Sector": 7,
+            "oletusnimi": "7.2",
+            "Alias": "",
+            "Type": 2,
+            "Location": "250, 22",
+            "Troops": {
+                "MayaRecruit": 50,
+                "MayaCavalry": 50
+            }
+        },
+        {
+            "ID": 19570,
+            "Sector": 6,
+            "oletusnimi": "6.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "274, 75",
+            "Troops": {
+                "MayaRecruit": 30,
+                "MayaCavalry": 30,
+                "MayaCanoneer": 50
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "FileName": "piratelife",
+    "ID": "MiadPirateLife",
+    "Name": "Pirate Life",
+    "Type": "Mini",
+    "GroupingNumber": 1,
+    "ExperiencePoints": 4390,
+    "Players": 1,
+    "Units": [
+        "BanditBoss4",
+        "BanditBoss3",
+        "BanditRecruit",
+        "BanditMilitia",
+        "BanditCavalry",
+        "BanditSoldier",
+        "BanditLongbowman"
+    ],
+    "leirit": [
+        {
+            "ID": 10153,
+            "Sector": 3,
+            "oletusnimi": "3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "179, 90",
+            "Troops": {
+                "BanditCavalry": 200
+            }
+        },
+        {
+            "ID": 10211,
+            "Sector": 4,
+            "oletusnimi": "4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "425, 81",
+            "Troops": {
+                "BanditSoldier": 100,
+                "BanditLongbowman": 80,
+                "BanditBoss3": 1
+            }
+        },
+        {
+            "ID": 11476,
+            "Sector": 5,
+            "oletusnimi": "5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "481, 99",
+            "Troops": {
+                "BanditMilitia": 40,
+                "BanditLongbowman": 100,
+                "BanditBoss4": 1
+            }
+        },
+        {
+            "ID": 12665,
+            "Sector": 2,
+            "oletusnimi": "2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "98, 189",
+            "Troops": {
+                "BanditMilitia": 20,
+                "BanditSoldier": 80,
+                "BanditLongbowman": 100
+            }
+        },
+        {
+            "ID": 13264,
+            "Sector": 1,
+            "oletusnimi": "1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "379, 215",
+            "Troops": {
+                "BanditRecruit": 100,
+                "BanditLongbowman": 100
+            }
+        }
+    ]
+}

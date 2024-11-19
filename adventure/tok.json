@@ -1,0 +1,777 @@
+{
+    "FileName": "tok",
+    "ID": "1001NightsTreasureKnowledge",
+    "Name": "Ali Baba and the Treasure of Knowledge",
+    "Type": "Mission",
+    "Theme": "Fairytale",
+    "Campaign": "ArabianNights",
+    "GroupingNumber": 200,
+    "OrderNumber": 132,
+    "ExperiencePoints": 399698,
+    "Players": 2,
+    "Elite": true,
+    "Units": [
+        "OrientalBanditRecruit",
+        "OrientalBanditMilitia",
+        "OrientalBanditSoldier",
+        "OrientalBanditCavalry",
+        "OrientalBanditBowman",
+        "OrientalBanditLongbowman",
+        "OrientalBanditCavalryBowman",
+        "OrientalBanditCanoneer",
+        "OrientalBanditBoss1",
+        "OrientalBanditBoss2",
+        "OrientalBanditBoss3",
+        "OrientalBanditBoss4",
+        "OrientalBanditBoss6",
+        "OrientalBanditBoss7",
+        "OrientalBanditBoss8",
+        "OrientalBanditBoss9",
+        "OrientalBanditBoss10",
+        "OrientalGiantBlossom1",
+        "OrientalGiantBlossom2",
+        "OrientalGiantBlossom3",
+        "OrientalLibraryBoss"
+    ],
+    "leirit": [
+        {
+            "ID": 10044,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "191, 21",
+            "Troops": {
+                "OrientalBanditRecruit": 70,
+                "OrientalBanditCavalry": 70,
+                "OrientalBanditBowman": 70,
+                "OrientalBanditCavalryBowman": 30
+            }
+        },
+        {
+            "ID": 10251,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "111, 222",
+            "Troops": {
+                "OrientalBanditCavalry": 90,
+                "OrientalBanditBowman": 40,
+                "OrientalBanditLongbowman": 90
+            }
+        },
+        {
+            "ID": 10345,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 2,
+            "Location": "334, 149",
+            "Troops": {
+                "OrientalBanditCavalry": 100,
+                "OrientalBanditBowman": 80,
+                "OrientalBanditBoss7": 1,
+                "OrientalLibraryBoss": 1
+            }
+        },
+        {
+            "ID": 10487,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "184, 79",
+            "Troops": {
+                "OrientalBanditRecruit": 100,
+                "OrientalBanditCanoneer": 100,
+                "OrientalBanditBoss2": 1
+            }
+        },
+        {
+            "ID": 10626,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "472, 279",
+            "Troops": {
+                "OrientalBanditBowman": 70,
+                "OrientalBanditLongbowman": 70,
+                "OrientalBanditCanoneer": 70
+            }
+        },
+        {
+            "ID": 10732,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "426, 28",
+            "Troops": {
+                "OrientalBanditMilitia": 120,
+                "OrientalBanditCavalry": 120
+            }
+        },
+        {
+            "ID": 11093,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "236, 210",
+            "Troops": {
+                "OrientalGiantBlossom1": 3,
+                "OrientalGiantBlossom2": 3,
+                "OrientalGiantBlossom3": 3
+            }
+        },
+        {
+            "ID": 11222,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "422, 68",
+            "Troops": {
+                "OrientalBanditMilitia": 100,
+                "OrientalBanditCavalry": 100,
+                "OrientalBanditBoss9": 1
+            }
+        },
+        {
+            "ID": 11256,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "354, 46",
+            "Troops": {
+                "OrientalBanditRecruit": 60,
+                "OrientalBanditCavalryBowman": 90,
+                "OrientalBanditCanoneer": 90
+            }
+        },
+        {
+            "ID": 11357,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "228, 127",
+            "Troops": {
+                "OrientalBanditMilitia": 90,
+                "OrientalBanditCavalry": 80,
+                "OrientalBanditBowman": 50
+            }
+        },
+        {
+            "ID": 11403,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "272, 73",
+            "Troops": {
+                "OrientalBanditCavalry": 80,
+                "OrientalBanditCavalryBowman": 80,
+                "OrientalBanditBoss1": 1
+            }
+        },
+        {
+            "ID": 11584,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "312, 140",
+            "Troops": {
+                "OrientalBanditRecruit": 130,
+                "OrientalBanditLongbowman": 120
+            }
+        },
+        {
+            "ID": 11641,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "201, 88",
+            "Troops": {
+                "OrientalBanditRecruit": 40,
+                "OrientalBanditMilitia": 50,
+                "OrientalBanditCavalry": 50,
+                "OrientalBanditCanoneer": 100
+            }
+        },
+        {
+            "ID": 11680,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "261, 175",
+            "Troops": {
+                "OrientalBanditMilitia": 120,
+                "OrientalBanditCavalryBowman": 130
+            }
+        },
+        {
+            "ID": 11688,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "440, 138",
+            "Troops": {
+                "OrientalBanditMilitia": 90,
+                "OrientalBanditCavalryBowman": 40,
+                "OrientalBanditCanoneer": 90
+            }
+        },
+        {
+            "ID": 12113,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "563, 161",
+            "Troops": {
+                "OrientalBanditBowman": 100,
+                "OrientalBanditCavalryBowman": 120
+            }
+        },
+        {
+            "ID": 12379,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "357, 289",
+            "Troops": {
+                "OrientalBanditMilitia": 70,
+                "OrientalBanditLongbowman": 70,
+                "OrientalBanditCavalryBowman": 80
+            }
+        },
+        {
+            "ID": 12387,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "388, 237",
+            "Troops": {
+                "OrientalBanditMilitia": 80,
+                "OrientalBanditBowman": 90,
+                "OrientalBanditCanoneer": 70
+            }
+        },
+        {
+            "ID": 12551,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "122, 80",
+            "Troops": {
+                "OrientalBanditRecruit": 250
+            }
+        },
+        {
+            "ID": 12788,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "162, 148",
+            "Troops": {
+                "OrientalBanditBowman": 260
+            }
+        },
+        {
+            "ID": 12807,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "60, 211",
+            "Troops": {
+                "OrientalBanditMilitia": 90,
+                "OrientalBanditCavalry": 70,
+                "OrientalBanditCavalryBowman": 70
+            }
+        },
+        {
+            "ID": 13160,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "475, 248",
+            "Troops": {
+                "OrientalBanditMilitia": 120,
+                "OrientalBanditCanoneer": 120
+            }
+        },
+        {
+            "ID": 13226,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "295, 174",
+            "Troops": {
+                "OrientalBanditMilitia": 90,
+                "OrientalBanditBowman": 50,
+                "OrientalBanditCavalryBowman": 90
+            }
+        },
+        {
+            "ID": 13270,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "117, 140",
+            "Troops": {
+                "OrientalBanditMilitia": 90,
+                "OrientalBanditCavalry": 100,
+                "OrientalBanditBoss4": 1
+            }
+        },
+        {
+            "ID": 13424,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "352, 78",
+            "Troops": {
+                "OrientalBanditSoldier": 60,
+                "OrientalBanditCavalry": 80,
+                "OrientalBanditLongbowman": 80
+            }
+        },
+        {
+            "ID": 13605,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "161, 267",
+            "Troops": {
+                "OrientalBanditCavalry": 120,
+                "OrientalBanditCanoneer": 120
+            }
+        },
+        {
+            "ID": 13651,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "528, 149",
+            "Troops": {
+                "OrientalBanditRecruit": 100,
+                "OrientalBanditCavalry": 100,
+                "OrientalBanditBoss2": 1
+            }
+        },
+        {
+            "ID": 13668,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "280, 238",
+            "Troops": {
+                "OrientalBanditRecruit": 40,
+                "OrientalBanditCavalry": 90,
+                "OrientalBanditLongbowman": 90
+            }
+        },
+        {
+            "ID": 14047,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "510, 157",
+            "Troops": {
+                "OrientalBanditRecruit": 40,
+                "OrientalBanditCavalry": 100,
+                "OrientalBanditLongbowman": 100
+            }
+        },
+        {
+            "ID": 14235,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "148, 68",
+            "Troops": {
+                "OrientalBanditMilitia": 80,
+                "OrientalBanditCavalry": 70,
+                "OrientalBanditLongbowman": 80
+            }
+        },
+        {
+            "ID": 14968,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "300, 237",
+            "Troops": {
+                "OrientalBanditCavalry": 90,
+                "OrientalBanditCanoneer": 90,
+                "OrientalBanditBoss8": 1
+            }
+        },
+        {
+            "ID": 15209,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "366, 92",
+            "Troops": {
+                "OrientalBanditMilitia": 100,
+                "OrientalBanditCavalryBowman": 40,
+                "OrientalBanditCanoneer": 100
+            }
+        },
+        {
+            "ID": 15328,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "326, 165",
+            "Troops": {
+                "OrientalBanditMilitia": 70,
+                "OrientalBanditSoldier": 60,
+                "OrientalBanditCavalry": 70
+            }
+        },
+        {
+            "ID": 15643,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "240, 277",
+            "Troops": {
+                "OrientalBanditRecruit": 70,
+                "OrientalBanditSoldier": 70,
+                "OrientalBanditLongbowman": 90
+            }
+        },
+        {
+            "ID": 15645,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "318, 266",
+            "Troops": {
+                "OrientalBanditRecruit": 80,
+                "OrientalBanditCavalry": 80,
+                "OrientalBanditLongbowman": 80
+            }
+        },
+        {
+            "ID": 15702,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "63, 110",
+            "Troops": {
+                "OrientalBanditMilitia": 70,
+                "OrientalBanditCavalryBowman": 70,
+                "OrientalBanditCanoneer": 70
+            }
+        },
+        {
+            "ID": 16045,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "383, 168",
+            "Troops": {
+                "OrientalBanditCavalry": 110,
+                "OrientalBanditBowman": 100,
+                "OrientalBanditBoss6": 1
+            }
+        },
+        {
+            "ID": 16065,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 2,
+            "Location": "260, 277",
+            "Troops": {
+                "OrientalBanditMilitia": 80,
+                "OrientalBanditCavalry": 70,
+                "OrientalBanditBoss8": 1
+            }
+        },
+        {
+            "ID": 16120,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "232, 234",
+            "Troops": {
+                "OrientalBanditCavalry": 90,
+                "OrientalBanditBowman": 90,
+                "OrientalBanditBoss2": 1
+            }
+        },
+        {
+            "ID": 16403,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "171, 199",
+            "Troops": {
+                "OrientalBanditRecruit": 70,
+                "OrientalBanditBowman": 70,
+                "OrientalBanditCanoneer": 80
+            }
+        },
+        {
+            "ID": 16585,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "60, 177",
+            "Troops": {
+                "OrientalBanditRecruit": 90,
+                "OrientalBanditCavalry": 70,
+                "OrientalBanditCavalryBowman": 70
+            }
+        },
+        {
+            "ID": 16620,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "233, 190",
+            "Troops": {
+                "OrientalBanditCavalry": 120,
+                "OrientalBanditBowman": 120
+            }
+        },
+        {
+            "ID": 16743,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "564, 243",
+            "Troops": {
+                "OrientalBanditRecruit": 100,
+                "OrientalBanditLongbowman": 110
+            }
+        },
+        {
+            "ID": 16892,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "503, 275",
+            "Troops": {
+                "OrientalBanditRecruit": 80,
+                "OrientalBanditLongbowman": 80,
+                "OrientalBanditCanoneer": 80
+            }
+        },
+        {
+            "ID": 17006,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "426, 245",
+            "Troops": {
+                "OrientalBanditRecruit": 70,
+                "OrientalBanditCavalry": 80,
+                "OrientalBanditBowman": 80
+            }
+        },
+        {
+            "ID": 17028,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "506, 204",
+            "Troops": {
+                "OrientalBanditSoldier": 80,
+                "OrientalBanditCavalry": 100,
+                "OrientalBanditBoss1": 1
+            }
+        },
+        {
+            "ID": 17194,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "100, 153",
+            "Troops": {
+                "OrientalBanditSoldier": 50,
+                "OrientalBanditBowman": 90,
+                "OrientalBanditCavalryBowman": 60
+            }
+        },
+        {
+            "ID": 17254,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "210, 202",
+            "Troops": {
+                "OrientalBanditSoldier": 230
+            }
+        },
+        {
+            "ID": 17479,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "480, 83",
+            "Troops": {
+                "OrientalBanditLongbowman": 100,
+                "OrientalBanditCavalryBowman": 30,
+                "OrientalBanditCanoneer": 100
+            }
+        },
+        {
+            "ID": 17610,
+            "Sector": 5,
+            "Alias": "",
+            "Type": 1,
+            "Location": "314, 181",
+            "Troops": {
+                "OrientalBanditMilitia": 220
+            }
+        },
+        {
+            "ID": 17615,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "508, 138",
+            "Troops": {
+                "OrientalBanditBowman": 100,
+                "OrientalBanditCavalryBowman": 120
+            }
+        },
+        {
+            "ID": 17858,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "237, 63",
+            "Troops": {
+                "OrientalBanditMilitia": 70,
+                "OrientalBanditBowman": 80,
+                "OrientalBanditCavalryBowman": 80
+            }
+        },
+        {
+            "ID": 18024,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "95, 97",
+            "Troops": {
+                "OrientalBanditSoldier": 100,
+                "OrientalBanditLongbowman": 120
+            }
+        },
+        {
+            "ID": 18079,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 2,
+            "Location": "148, 55",
+            "Troops": {
+                "OrientalBanditRecruit": 100,
+                "OrientalBanditCavalryBowman": 100,
+                "OrientalBanditBoss3": 1
+            }
+        },
+        {
+            "ID": 18752,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 2,
+            "Location": "370, 78",
+            "Troops": {
+                "OrientalBanditLongbowman": 120,
+                "OrientalBanditCanoneer": 100,
+                "OrientalBanditBoss3": 1
+            }
+        },
+        {
+            "ID": 19251,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "260, 293",
+            "Troops": {
+                "OrientalBanditRecruit": 120,
+                "OrientalBanditLongbowman": 130
+            }
+        },
+        {
+            "ID": 19539,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "103, 131",
+            "Troops": {
+                "OrientalBanditSoldier": 80,
+                "OrientalBanditCavalry": 90,
+                "OrientalBanditCanoneer": 70
+            }
+        },
+        {
+            "ID": 19544,
+            "Sector": 3,
+            "Alias": "",
+            "Type": 1,
+            "Location": "396, 197",
+            "Troops": {
+                "OrientalBanditCavalry": 100,
+                "OrientalBanditCanoneer": 100
+            }
+        },
+        {
+            "ID": 19583,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "224, 82",
+            "Troops": {
+                "OrientalBanditSoldier": 80,
+                "OrientalBanditBowman": 90,
+                "OrientalBanditCanoneer": 70
+            }
+        },
+        {
+            "ID": 19657,
+            "Sector": 1,
+            "Alias": "",
+            "Type": 1,
+            "Location": "280, 62",
+            "Troops": {
+                "OrientalBanditMilitia": 40,
+                "OrientalBanditLongbowman": 70,
+                "OrientalBanditCanoneer": 90
+            }
+        },
+        {
+            "ID": 19906,
+            "Sector": 2,
+            "Alias": "",
+            "Type": 1,
+            "Location": "493, 214",
+            "Troops": {
+                "OrientalBanditCavalry": 80,
+                "OrientalBanditLongbowman": 80,
+                "OrientalBanditCanoneer": 80
+            }
+        },
+        {
+            "ID": 19911,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 2,
+            "Location": "244, 133",
+            "Troops": {
+                "OrientalBanditMilitia": 90,
+                "OrientalBanditCavalryBowman": 90,
+                "OrientalBanditBoss10": 1
+            }
+        },
+        {
+            "ID": 19993,
+            "Sector": 4,
+            "Alias": "",
+            "Type": 1,
+            "Location": "184, 107",
+            "Troops": {
+                "OrientalBanditSoldier": 50,
+                "OrientalBanditBowman": 90,
+                "OrientalBanditCavalryBowman": 90
+            }
+        }
+    ]
+}

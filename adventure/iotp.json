@@ -1,0 +1,158 @@
+{
+    "FileName": "iotp",
+    "ID": "TheIslandOfThePirates",
+    "Name": "The Island Of The Pirates",
+    "Type": "Mission",
+    "GroupingNumber": 2,
+    "ExperiencePoints": 2752,
+    "Players": 1,
+    "Units": [
+        "PirateCavalry",
+        "PirateRecruit",
+        "PirateMilitia",
+        "PirateBoss1",
+        "PirateBowman",
+        "PirateLongbowman",
+        "PirateCaptain"
+    ],
+    "leirit": [
+        {
+            "ID": 10369,
+            "Sector": 3,
+            "oletusnimi": "3.3",
+            "Alias": "",
+            "Type": 1,
+            "Location": "475, 172",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateLongbowman": 40,
+                "PirateCavalry": 30
+            }
+        },
+        {
+            "ID": 10452,
+            "Sector": 3,
+            "oletusnimi": "3.4",
+            "Alias": "",
+            "Type": 1,
+            "Location": "485, 232",
+            "Troops": {
+                "PirateMilitia": 70,
+                "PirateCavalry": 100
+            }
+        },
+        {
+            "ID": 11049,
+            "Sector": 2,
+            "oletusnimi": "2.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "240, 108",
+            "Troops": {
+                "PirateMilitia": 80,
+                "PirateCavalry": 80,
+                "PirateCaptain": 2
+            }
+        },
+        {
+            "ID": 12530,
+            "Sector": 3,
+            "oletusnimi": "3.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "444, 175",
+            "Troops": {
+                "PirateCavalry": 100
+            }
+        },
+        {
+            "ID": 13491,
+            "Sector": 3,
+            "oletusnimi": "3.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "418, 123",
+            "Troops": {
+                "PirateMilitia": 90,
+                "PirateCavalry": 90
+            }
+        },
+        {
+            "ID": 13563,
+            "Sector": 2,
+            "oletusnimi": "2.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "148, 221",
+            "Troops": {
+                "PirateRecruit": 60,
+                "PirateBowman": 60,
+                "PirateCavalry": 60
+            }
+        },
+        {
+            "ID": 13950,
+            "Sector": 3,
+            "oletusnimi": "3.5",
+            "Alias": "",
+            "Type": 2,
+            "Location": "441, 275",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 70,
+                "PirateCaptain": 10,
+                "PirateBoss1": 1
+            }
+        },
+        {
+            "ID": 15179,
+            "Sector": 1,
+            "oletusnimi": "1.3",
+            "Alias": "",
+            "Type": 2,
+            "Location": "106, 330",
+            "Troops": {
+                "PirateMilitia": 100,
+                "PirateLongbowman": 50,
+                "PirateCavalry": 50
+            }
+        },
+        {
+            "ID": 15321,
+            "Sector": 1,
+            "oletusnimi": "1.1",
+            "Alias": "",
+            "Type": 1,
+            "Location": "138, 391",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateLongbowman": 50
+            }
+        },
+        {
+            "ID": 15479,
+            "Sector": 1,
+            "oletusnimi": "1.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "173, 343",
+            "Troops": {
+                "PirateRecruit": 100,
+                "PirateCavalry": 50
+            }
+        },
+        {
+            "ID": 18836,
+            "Sector": 2,
+            "oletusnimi": "2.2",
+            "Alias": "",
+            "Type": 1,
+            "Location": "194, 165",
+            "Troops": {
+                "PirateMilitia": 40,
+                "PirateLongbowman": 40,
+                "PirateCavalry": 40
+            }
+        }
+    ]
+}
