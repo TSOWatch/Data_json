@@ -1,0 +1,236 @@
+[
+    {
+        "identifier": "UnitSkillBonusDamageBuildings",
+        "Name": "Demolition"
+    },
+    {
+        "Number": 3,
+        "identifier": "UnitSkillSplashDamage",
+        "Name": "Splash damage"
+    },
+    {
+        "Number": 2,
+        "identifier": "UnitSkillAttackWeakestTarget",
+        "Name": "Flanking"
+    },
+    {
+        "Number": 4,
+        "identifier": "UnitSkillInitiativeNormal",
+        "Name": "Normal"
+    },
+    {
+        "Number": 5,
+        "identifier": "UnitSkillFirstStrike",
+        "Name": "First strike"
+    },
+    {
+        "Number": 6,
+        "identifier": "UnitSkillLastStrike",
+        "Name": "Last strike"
+    },
+    {
+        "Number": 540,
+        "identifier": "Skill_GeneralAttacksTwice",
+        "Name": "Lightning Slash"
+    },
+    {
+        "Number": 541,
+        "identifier": "Skill_IncreaseAccuracy",
+        "Name": "Master Planner"
+    },
+    {
+        "Number": 542,
+        "identifier": "Skill_GetStarCoins",
+        "Name": "Bounty Hunter"
+    },
+    {
+        "Number": 543,
+        "identifier": "Skill_InstantRecovery",
+        "Name": "1-Up"
+    },
+    {
+        "Number": 531,
+        "identifier": "Skill_IncreaseEliteSoldierSplashAndAD",
+        "Name": "Cleave"
+    },
+    {
+        "Number": 532,
+        "identifier": "Skill_IncreaseHeavyAD",
+        "Name": "Weekly Maintenance"
+    },
+    {
+        "Number": 533,
+        "identifier": "Skill_IncreaseCapacity",
+        "Name": "Garrison Annex"
+    },
+    {
+        "Number": 534,
+        "identifier": "Skill_IncreaseCombatSpeed",
+        "Name": "Confident Leader"
+    },
+    {
+        "Number": 521,
+        "identifier": "Skill_IncreaseSwiftSplashAndAD",
+        "Name": "Unstoppable Charge"
+    },
+    {
+        "Number": 522,
+        "identifier": "Skill_IncreaseADEveryRound",
+        "Name": "Battle Frenzy"
+    },
+    {
+        "Number": 523,
+        "identifier": "Skill_IncreaseXP",
+        "Name": "Fast Learner"
+    },
+    {
+        "Number": 524,
+        "identifier": "Skill_IncreaseRecoverySpeed",
+        "Name": "Just a Flesh Wound"
+    },
+    {
+        "Number": 511,
+        "identifier": "Skill_IncreaseLongbowmanAndMarksmanAD",
+        "Name": "Sniper Training"
+    },
+    {
+        "Number": 512,
+        "identifier": "Skill_DescreaseBossHP",
+        "Name": "Overrun"
+    },
+    {
+        "Number": 513,
+        "identifier": "Skill_GetRecruits",
+        "Name": "Hostile Takeover"
+    },
+    {
+        "Number": 514,
+        "identifier": "Skill_IncreaseTravelSpeed",
+        "Name": "Navigation Crash Course"
+    },
+    {
+        "Number": 501,
+        "identifier": "Skill_IncreaseBowmanMaximumAD",
+        "Name": "Rapid Fire"
+    },
+    {
+        "Number": 502,
+        "identifier": "Skill_IncreaseGeneralSplashAndAD",
+        "Name": "Juggernaut"
+    },
+    {
+        "Number": 503,
+        "identifier": "Skill_ResurrectLosses",
+        "Name": "First Aid"
+    },
+    {
+        "Number": 504,
+        "identifier": "Skill_IncreasePeacefulMovementSpeed",
+        "Name": "Jog"
+    },
+    {
+        "Number": 109,
+        "identifier": "Trait_Anslem",
+        "Name": "Dazzle"
+    },
+    {
+        "Number": 108,
+        "identifier": "Trait_Vargus",
+        "Name": "Intercept"
+    },
+    {
+        "Number": 110,
+        "identifier": "Trait_Nusala",
+        "Name": "Explosive Ammunition"
+    },
+    {
+        "Number": 114,
+        "identifier": "Trait_MaryDoubleXP",
+        "Name": "Have a Treat"
+    },
+    {
+        "Number": 117,
+        "identifier": "Trait_MedicResurrectLosses",
+        "Name": "Field Surgery"
+    },
+    {
+        "Number": 118,
+        "identifier": "Trait_MadScientist",
+        "Name": "Bombastic Personality"
+    },
+    {
+        "Number": 150,
+        "identifier": "Trait_Boris",
+        "Name": "Astute Strategist"
+    },
+    {
+        "Number": 270,
+        "identifier": "Trait_Anniversary2019General",
+        "Name": "Magnanimous"
+    },
+    {
+        "Number": 271,
+        "identifier": "Trait_Halloween2019General",
+        "Name": "Rogue Wardens"
+    },
+    {
+        "Number": 272,
+        "identifier": "Trait_Xmas2019General",
+        "Name": "Supple"
+    },
+    {
+        "Number": 273,
+        "identifier": "Trait_AssassinGeneral",
+        "Name": "Ambush"
+    },
+    {
+        "Number": 276,
+        "identifier": "Trait_TrembleBeard",
+        "Name": "Sageness"
+    },
+    {
+        "Number": 151,
+        "identifier": "Trait_Sylvana",
+        "Name": "Astute Strategist"
+    },
+    {
+        "Number": 278,
+        "identifier": "Trait_GhostGeneral",
+        "Name": "Ghostly"
+    },
+    {
+        "Number": 281,
+        "identifier": "Trait_FrostyGeneral",
+        "Name": "Cold as Ice"
+    },
+    {
+        "Number": 284,
+        "identifier": "Trait_LonerGeneral",
+        "Name": "Lone Wolf"
+    },
+    {
+        "Number": 299,
+        "identifier": "Trait_Loudmouth",
+        "Name": "Loudmouth"
+    },
+    {
+        "Number": 305,
+        "identifier": "Trait_Nutcracker",
+        "Name": "Tough as wood"
+    },
+    {
+        "Number": 307,
+        "identifier": "Trait_Miraculous",
+        "Name": "The Miracle of Rebirth"
+    },
+    {
+        "Number": 309,
+        "identifier": "Trait_Resolute",
+        "Name": "Shield Formation"
+    },
+    {
+        "Number": 315,
+        "identifier": "Trait_Juan",
+        "Name": "Astute Strategist"
+    }
+]
